@@ -545,7 +545,7 @@ Large-scale compensation and occlusion produces personality layers. If experienc
 
 So, someone can have childhood confusions or uncertainties or inabilities and/or (by defintion unhealed) hurts and traumas, and, on top of those, have adult-style regulation. (That adult-style regulation will be crippled in many ways because of the excessive cost of compensation. That person might read lots of books on e.g. relationships, but, without delayering, their relating might remain laborious and “unnatural.”)
 
-Because of mimesis, love, power, and technology, compensation and layering can extend to groups, cultures, and society. There are global-scale cultural layers, in part produced through famine, colonization, war, etc., as well as locally adaptive but global maladaptive traditions of child-rearing, etc.
+Because of mimesis, love, power, and technology, compensation and layering can extend to groups, cultures, and society. There are global-scale cultural layers, in part produced through famine, colonization, war, etc., as well as locally adaptive but globally maladaptive traditions of child-rearing, etc.
 
 Individual and group practice can de-layer and de-compensate, solving problems without the use of compensation, until individuals, and even communities, or larger, are relatively natural. Again, compensation is necessary and adaptive. And naturalization only guarantees a subset of good things, with opportunity costs. It is only better, all (other) things being equal.
 
@@ -553,7 +553,7 @@ Individual and group practice can de-layer and de-compensate, solving problems w
 
 Layering and occlusion can make it very hard to turn tubes into junctured awareness tubes. But, sensation and actuation, the inputs and outputs of tubes can’t be blocked. Sensation is always happening for all of a person’s tubes, at every layer. And actuation is always happening at the termination of every tube.
 
-If an adult has childhood confusions or uncertainties or inabilities and/or (by defintion unhealed) hurts and traumas in their system, then this can be problematic because that childhood self can be triggered. And then that person’s behavior, in a particular situation, will have behaviors reminiscient of childhood, which can be inappropriate, maladaptive, or dangerous to relationships or livelihood. So this must be careful managed.
+If an adult has childhood confusions or uncertainties or inabilities and/or (by defintion unhealed) hurts and traumas in their system, then this can be problematic because that childhood self can be triggered. And then that person’s behavior, in a particular situation, will have behaviors reminiscient of childhood, which can be inappropriate, maladaptive, or dangerous to relationships or livelihood. So this must be carefully managed.
 
 A person manages always-triggerable lower layers by reducing the scope of their lives (never entering particular situations), creating controlled situations (only entering situations that they themselves have carefully prearranged), managing attention in situations (carefully using actuation to manage the sensation stream), or arranging temporary compensatory sinks (teeth-gritting, white-knuckling, stomach-clenching, etc.). [An alternative, of course, if resources are available, is to take the time to naturalize layer after layer, to find noncompensatory solutions and thereby widening the scope of life.]
 
@@ -561,7 +561,7 @@ A person will have learned to manage some of their lower layers. But, typically,
 
 It gets worse in that everyone, at all layers have both functional ontologies as well as remaining blooming, buzzing confusion (as per William James). That is, everyone has patterns of input that can produce hard to predict effects in the system. This is a further dimension of vulnerabilitiy.
 
-To explain further, when we were at our youngest, while we have genetic predisposition towards certain types of interpretations, the world doesn’t come pre-given. We have to assemble feeling, sound, light, touch, etc., into appearances, inferred objects, causal relations, and proactive management of self and environment. Prior to this, and always alongside this, there is blooming, buzzing confusion. There is “static,” “noise” limning the edges of experience and even shot through all of experience, the “feel of reality.”
+To explain further, when we were at our youngest, while we have genetic predisposition towards certain types of interpretations, the world doesn’t come pre-given. We have to assemble feeling, sound, light, touch, etc., into appearances, inferred objects, causal relations, and proactive management of self and environment. Prior to this, and always alongside this, there is blooming, buzzing confusion. There is “static,” “noise” lining the edges of experience and even shot through all of experience, the “feel of reality.”
 
 #### IV: The demon-haunted world and science as a candle in the dark (as per Carl Sagan)
 
@@ -595,11 +595,11 @@ We all do things we don’t endorse. We all can cause subtle harm. And, if we ha
 
 The above few paragraphs describe the spectrum from everyday blah all the way to hapless creeps.
 
-The is a worse level, which is that of the “dark wizard.” For the previous level, the ability to do harm is accumulated incidentally and unsystematically. But, a dark wizard systematically cultivates the ability to influence people. This can be both “deliberate and unreflective/accidental,” “deliberate and reflective.”
+There is a worse level, which is that of the “dark wizard.” For the previous level, the ability to do harm is accumulated incidentally and unsystematically. But, a dark wizard systematically cultivates the ability to influence people. This can be either “deliberate and unreflective/accidental” or “deliberate and reflective.”
 
-For the “deliberate and unreflective/accidental” category, a good example of this is in relation some kinks, fetishes, paraphilias (and also “vanilla-sexual”). Some kinks are pure fantasy, some involve “consentual nonconsent,” and some, usually disendorsed, involve the actualization of nonconsent, either incidentally or essentially.
+For the “deliberate and unreflective/accidental” category, a good example of this is in relation some kinks, fetishes, paraphilias (and also “vanilla-sexual”). Some kinks are pure fantasy, some involve “consensual nonconsent,” and some, usually disendorsed, involve the actualization of nonconsent, either incidentally or essentially.
 
-Unfortunately, all of those cases can potentially produce unwanted effects in other people because, even for the pure fantasy cases, there can be “actualization bleed.” And, often people have lower-layer material/“tubes”/etc that want to realize some “actual nonconsent,” even if this is disendorsed by much else of the system. And even if this is compensated for at the higher layers. There can still be subtle, harmful effects between people via lower levels.
+Unfortunately, all of those cases can potentially produce unwanted effects in other people because, even for the pure fantasy cases, there can be “actualization bleed.” And often, people have lower-layer material/“tubes”/etc that want to realize some “actual nonconsent,” even if this is disendorsed by much else of the system. And even if this is compensated for at the higher layers. There can still be subtle, harmful effects between people via lower levels.
 
 The situation is analogous for safety/control fantasies and revenge fantasies. (For the safety/control case, the person wants other people to behave in highly specific ways so that that person can feel safe. Often, this will be in childhood, parent-child, or religious ontologies.)
 
@@ -637,9 +637,9 @@ Healers, bodyworkers, energy healers, reiki practioners, healing touch practitio
 
 Minds are vast, people have weird beliefs, and the mind makes it real. Healers work in different paradigms and so there can be ontology shear and effect shear. Healers might have different beliefs than you (and your mind) about what changes are good and bad, and when, and why, and how. Healers will have their own blindspots and malevolent layered intentions. Healers can sometimes pick up lots of bad stuff from people they’re trying to heal (or teachers that they’ve worked with) that they haven’t entirely cleared themselves. And then they can pass it on to you. And sometimes healers can have bad days where they’re mean and ill-willed.
 
-If someone has been practicing for decades and you can talk to other people they’ve worked with who say good things, then they might be a good fit for you. If someone has seemingly produced miracles (they’ve gotten a stroke victim to walk again or otherwise given someone their life back) but they seem creepy to you, then it might be better to stay away. (Most reading this will not be in need a miracle that they cannot ultimately produce themselves, possibly on a faster timeline with less resources.)
+If someone has been practicing for decades and you can talk to other people they’ve worked with who say good things, then they might be a good fit for you. If someone has seemingly produced miracles (they’ve gotten a stroke victim to walk again or otherwise given someone their life back) but they seem creepy to you, then it might be better to stay away. (Most reading this will not be in need of a miracle that they cannot ultimately produce themselves, possibly on a faster timeline with less resources.)
 
-Generally speaking, for serious meditators, there are very quickly diminishing returns for working with healers. Meditation is essentially self-sufficient, self-healing that “goes all the way,” all things being equal. Sometimes a healer can get you out of a rut or help you deal with an acute issue. Often, maybe almost always, you’ll have to rework whatever they did, in the future. Maybe almost always, what healers do are just a temporary patch, for a serious medtitator. (For non-meditators a “patch” can be life-saving. Just different needs for different life trajectories.) So, sometimes it’ll be net good and sometimes net bad.
+Generally speaking, for serious meditators, there are very quickly diminishing returns for working with healers. Meditation is essentially self-sufficient, self-healing that “goes all the way,” all things being equal. Sometimes a healer can get you out of a rut or help you deal with an acute issue. Often, maybe almost always, you’ll have to rework whatever they did, in the future. Maybe almost always, what healers do are just a temporary patch, for a serious meditator. (For non-meditators a “patch” can be life-saving. Just different needs for different life trajectories.) So, sometimes it’ll be net good and sometimes net bad.
 
 #### VIII: Witch hunts, vulnerabilitiy, contagion, tragedy of transformation, community decompensation
 
@@ -649,11 +649,11 @@ It gets harder when the content is occluded—one person might be competely unaw
 
 To make things even more complicated, people can manufacture or play up harm. They can accuse people of not just being creepy but also being subtly harmful. And sometimes they’ll be right, but it will be low-grade harm, and sometimes they’ll be mistaken, but some part of them, reflectively or unreflectively wants it to be true because it would be convenient if it were true.
 
-To make things even *more* complicated, often people who are vulnerable to what another person is doing will in some sense *want* to be affected, in part, by what the other person is doing. Usually what the other person is doing will have “good” parts and “bad” parts, and a person’s system will “unreflectively/subconsciously choose” to take the bad with the good, in order to get the good. This will usually be reflectively disendorsed—the “good thing” upon examination, will be confused, somehow—but can still, in some sense, be used to point to complicity on the part of the person being affected. [One way of becoming less vulnerable, by the way, is to make it safe to see what is or feels good about what’s happening, or the current thing in the system, and to find a healthier version of the attractive but disendorsed thing, which can replace the net bad package as well as the receptive surface] In any case, often the seemingly good thing will in some way have been sculpted to have that attractiveness/temptation, and so on, to make it more likely that people will be hooked by it. And often the person who has the attractive/tempting thing will (at least eventually if not immediately) reflectively disendorse it being that way, too.
+To make things even *more* complicated, often people who are vulnerable to what another person is doing will in some sense *want* to be affected, in part, by what the other person is doing. Usually what the other person is doing will have “good” parts and “bad” parts, and a person’s system will “unreflectively/subconsciously choose” to take the bad with the good, in order to get the good. This will usually be reflectively disendorsed—the “good thing” upon examination, will be confused, somehow—but can still, in some sense, be used to point to complicity on the part of the person being affected. [One way of becoming less vulnerable, by the way, is to make it safe to see what is or feels good about what’s happening, or the current thing in the system, and to find a healthier version of the attractive but disendorsed thing, which can replace the net bad package as well as the receptive surface.] In any case, often the seemingly good thing will in some way have been sculpted to have that attractiveness/temptation, and so on, to make it more likely that people will be hooked by it. And often the person who has the attractive/tempting thing will (at least eventually if not immediately) reflectively disendorse it being that way, too.
 
 This is all very hard.
 
-There is an additional phenomenon of people believing that they are protected by their rationality, reaonabilitiy, belief in science, or strength of will. But, very often, such people will still be affected in occluded layers. And so their behavior will become more harmful, because they themselves have been harmed by something, but they will be resistant or unable to investigate this. And they might also further transfer bad things to other people; they might unknowingly pass bad stuff along. Such people are good candidates for interaction with a healer, if they agree to it.
+There is an additional phenomenon of people believing that they are protected by their rationality, reasonableness, belief in science, or strength of will. But, very often, such people will still be affected in occluded layers. And so their behavior will become more harmful, because they themselves have been harmed by something, but they will be resistant or unable to investigate this. And they might also further transfer bad things to other people; they might unknowingly pass bad stuff along. Such people are good candidates for interaction with a healer, if they agree to it.
 
 Another problematic thing that can happen is, when someone becomes a systematic meditator, they can start decompensating in ways that influence occluded material. They might have cycles of increased desperation or neediness that bleeds through in problematic or intense ways. And people who are good-faith trying to become safer to be around, or just better people, can actually become more dangerous to be around for a period of time. This extends to communities as well. For a community of self-transformers, things can get much, much, much worse until things get better—lives can be ruined and communities can get torn apart, even as people just wanted to get better together. All the bad stuff can come out in insidious and explosive ways.
 
@@ -687,11 +687,11 @@ The first is the dimension of self-other confusions. We can pick up stuff from o
 
 (Remember, you’ll always be bathed in the stuff, all the time. But it becomes information instead of influence.)
 
-The second dimension is that of goodness/badness inversions. Sometimes we think something is good when it’s actually bad and vice versa. And often it’s highly contingent and contextual as to whether something is good or bad. And somethings can benefit one person at the expense of another. And childhood parts and layers can be quite confused or jumbled as to what’s good and bad, especially in cases of neglect and abuse but where that person was still dependent on an adult for love and protection. This can ramify as goodness/badness/self/other/boundary issues throughout a person’s system. A person is much more vulnerable to coercion when they believe something is good for them that is actually bad for them. They will “receive” material, content, intentions, will from another person to placate them, to be loved, all sorts of things, that might locally seem good to an occluded part is in fact terrible for the system as a whole. Over time, the late-stage meditator becomes wise and that wisdom percolates through the entire system. And, over time, the late-stage meditator is less and less likely to make local, perverse tradeoffs involving acceptance of ultimately unnecessary influence from other people.
+The second dimension is that of goodness/badness inversions. Sometimes we think something is good when it’s actually bad and vice versa. And often it’s highly contingent and contextual as to whether something is good or bad. And some things can benefit one person at the expense of another. And childhood parts and layers can be quite confused or jumbled as to what’s good and bad, especially in cases of neglect and abuse but where that person was still dependent on an adult for love and protection. This can ramify as goodness/badness/self/other/boundary issues throughout a person’s system. A person is much more vulnerable to coercion when they believe something is good for them that is actually bad for them. They will “receive” material, content, intentions, will from another person to placate them, to be loved, all sorts of things, that might locally seem good to an occluded part is in fact terrible for the system as a whole. Over time, the late-stage meditator becomes wise and that wisdom percolates through the entire system. And, over time, the late-stage meditator is less and less likely to make local, perverse tradeoffs involving acceptance of ultimately unnecessary influence from other people.
 
 So self/other confusions and good/bad inversions can be abstractly considered as the main sources or enablers of subtle interpersonal disendorsed effects.
 
-(You may wish to temporarily skip to “part X: the quiet interaction and the beauty of subtle interpersonal effects” before moving foward.)
+(You may wish to temporarily skip to “XVI: The quiet interaction and the beauty of subtle interpersonal effects” before moving foward.)
 
 #### XI: Cult leaders
 
@@ -725,13 +725,13 @@ Then, they might be a “cult leader.”
 
 They might have a magnetic pull on a person’s entire mind/belief/representational/behavioral system that causes a person to start layering. This might produce value in some ways but also produces a net global cost for that person’s system (usually). Prolonged contact might mean years of cleanup and significantly increased self-transformation timelines.
 
-The will present themselves (overtly or subtly) as having extremely rare, or unique, critically valuable special knowledge, but, usually it’s a lie or it’s not worth it because it’s mixed with poison and detoxing before consuming is prohibitively costly.
+They will present themselves (overtly or subtly) as having extremely rare, or unique, critically valuable special knowledge, but, usually it’s a lie or it’s not worth it because it’s mixed with poison and detoxing before consuming is prohibitively costly.
 
 A good self-transformation technique will typically endogenously generate sufficient value such that subtly and overtly authoritarian and coercive individuals can be in some sense ignored, at least for the purposes of acquiring the most precious things.
 
 (Such individuals will claim to have such techniques, and will dribble out some initial value, but engaging in such techniques will likely ultimately be damaging and counterproductive. If you decide to collect “pieces” from such people, beware. Sometimes they will have stumbled on a special, rare thing. But it will be perverted in some way and will come at a price.)
 
-It’s hard to overstate how much such an individual, one who, deep down, is relentlessly determined to control you and have you be a certain way, whether they realize it or not, can fuck up your life before you’ve realized it’s happened. Ten minutes with an individual like this can, worst-case, can mean hundreds of hours, or longer, to unfuck yourself.
+It’s hard to overstate how much such an individual, one who, deep down, is relentlessly determined to control you and have you be a certain way, whether they realize it or not, can fuck up your life before you’ve realized it’s happened. Ten minutes with an individual like this can, worst-case, mean hundreds of hours, or longer, to unfuck yourself.
 
 #### XII: Spotting a cult leader by overt signs
 
@@ -750,9 +750,9 @@ Because the subtle signs are harder to detect and sometimes can’t be detected 
 - narrow interaction patterns—can only interact with them in a certain way because if don’t then they won’t engage or don’t even seem to understand
 - things that they say are wrong, according to them, are all wrong and completely dismissed, can’t find partial value in things or evaluate things with nuance.
 - if the good sides of other teachers or teachings are considered, it’s mere lip service and subtle body language or even subtler things is dismissing those teachers or teachings whole-cloth and also dismissing you for even considering their value
-- body language or tone implying you’re not even wrong, that you’re question, consideration, position has no value and that you don’t have any value.
+- body language or tone implying you’re not even wrong, that your question, consideration, position has no value and that you don’t have any value.
 - they imply other teachings, other goals, other plans, other groups have no value
-- if “caught out” or forced somehow to interact outside of their normal,narrow window they might become very anxious or very angry
+- if “caught out” or forced somehow to interact outside of their normal, narrow window they might become very anxious or very angry
 - holding up very narrow patterns of behavior (like particular types or styles of interactions) as universally good and that all other interaction styles are bad
 - in general they’ve created a “closed universe” around themselves where only a very narrow range of things can happen, even if a small number of those things are cool, impressive, or in some way world-facing.
 - interacting with them will have a “hermetically sealed” quality, where they’ll have an immediate “cached” or “cued up” answer to every possible concern, objection, accusation, etc. You’ll know it’s cached because of the speed of the response as well as the ways it doesn’t quite address the issue raised but seems to talk past it or not consider it freshly.
@@ -797,7 +797,7 @@ There is a failure mode to the above, which is you overtly or explicitly communi
 
 In subtle ways, you might be wishing (or “needing”) that they would change their behavior, either in interaction with you or in other contexts, and that could subtly bleed through.
 
-You might not even be aware of that wishing or needing, but if it’s safe for them to tell you that they’re experiencing it, then that’s really good. If you are aware of it, then, sometimes, often, it’s better to call it out, to explicitly note the problematic things that you’re doing, to create mutual knowledge. Sometimes, after that mutual knowledge is estabilshed, then it’s better to just end that particular interaction.
+You might not even be aware of that wishing or needing, but if it’s safe for them to tell you that they’re experiencing it, then that’s really good. If you are aware of it, then, sometimes, often, it’s better to call it out, to explicitly note the problematic things that you’re doing, to create mutual knowledge. Sometimes, after that mutual knowledge is established, then it’s better to just end that particular interaction.
 
 Talking about “truth” and “goodness,” as such, can sometimes feel like the implication that the person needs to “change now” or “be different now.” Any model or ideal or goal or concept or principle, etc., can be used as a hammer, and might be, even if a person disendorses doing so to themselves.
 
@@ -811,7 +811,7 @@ The more you can obviate yourself in the other person acquiring value, then the 
 
 Low-stakes interactions are more likely to be creative, in that both people can work together to do something even better for each other, and everyone, than they could alone.
 
-There are of course issues of low resources (time, money, etc.), coordination costs, entrenched beliefs or preconceptions, excessive ill-will, preconceptions, etc., that it make it hard to have noncoervice, low-stakes, and creative interactions with another person. Sometimes, often, it can require tremendous preparation, over years and years, to arrange self and world to interact with other people noncoercively. But you can do your best, wherever you are on that journey, and it’s worth it.
+There are of course issues of low resources (time, money, etc.), coordination costs, entrenched beliefs or preconceptions, excessive ill-will, preconceptions, etc., that it make it hard to have noncoercive, low-stakes, and creative interactions with another person. Sometimes, often, it can require tremendous preparation, over years and years, to arrange self and world to interact with other people noncoercively. But you can do your best, wherever you are on that journey, and it’s worth it.
 
 One final pithy thing, if you’re looking for a quick-and-dirty way to try to know whether you’re being coercive versus, say ethically persuading, is you can ask, whether, functionally, you are *influencing* a person or *informing* them. Of course, seeming informing can actually be influencing, and vice versa. But I have found it helpful to check whether I’m influencing (bad, in this usage) or merely information (good, in this usage). If you *need* a person to respond in a particular way then there’s a real, stringent sense in which you cannot ethically interact with them, at least along that dimension, and more work is required on your part. If you have optionality, power, freedom with respect to X (or they do, or you both do) then the interaction becomes ethical with respect to X. Sometimes this can happen upstream or obliquely. For example, if both people have lots of money or other resources, then there’s less of a surface area, very generally, for either person to “coercively need” each other.
 
@@ -819,13 +819,13 @@ Of course, it’s nice to be needed, or is it? It’s maybe safer to be needed, 
 
 Other people’s intelligence, skill, compassion, and love keep us safe, not them being forced into a narrow range of behaviors around you. Of course, people can locally disagree about what’s safe and good, and people can not realize how they’re being harmful, and people can be manufacturing victimhood or engaging in net-destructive self-healing strategies, and so on. So, ideally, as many people as possible are collaboratively and synergistically engaging in effective self-transformative practice and resource acquisition and distribution, etc.
 
-In any case, if someone doesn’t need to layer in your presense, then they can grow in your presence. And, if this is mutual, then you can grow together.
+In any case, if someone doesn’t need to layer in your presence, then they can grow in your presence. And, if this is mutual, then you can grow together.
 
 #### XV: It’s not cool
 
 It’s best to consider the powers, the siddhis, the effects as not cool. They can become a thing in communities of practice. And they can become an ugly, escalatory, ruinous thing between practitioners. One or both people can do disendorsed, yet still hate-filled, tremendous harm to the other or to people caught in the crossfire.
 
-(This is a bit of an overgeneralization, but: People uncontrollably (or deliberately) reach for the powers when they have social skill deficits, or they’re very afraid, or deep-down they’re resigned and feel helpless and hopeless. Otherwise, they would have already backchained to something collaborative and onstructive, both non-verbally smooth/friendly and explicitly clear, and they likely wouldn’t have found themselves in the triggering situation in the first place.)
+(This is a bit of an overgeneralization, but: People uncontrollably (or deliberately) reach for the powers when they have social skill deficits, or they’re very afraid, or deep-down they’re resigned and feel helpless and hopeless. Otherwise, they would have already backchained to something collaborative and instructive, both non-verbally smooth/friendly and explicitly clear, and they likely wouldn’t have found themselves in the triggering situation in the first place.)
 
 If something especially subtly weird is going on, there is minimal to be gained from toughing it out, being seen as strong, by self or others.
 
@@ -2021,7 +2021,7 @@ I’ll also examine what I’m already implicitly willing, what I’m already im
 
 This is a very, very, very, very rough breakdown of how you might use your time while practicing. It could be more granular, and all the percentages could be tweaked more. Note that each “level” adds up to 100%. For example, it’s ballpark suggested that p2 might be 80% of 72% of your total practice time. Or, stated more imprecisely, if you’re doing the protocol proper, explore doing lots of p2. These percentages may change as we learn more. For example, the ballpark suggestion for doing the meta protocol might go down or up. Also, in the beginning you might spend much more time on the preliminary/auxiliary practices, and so forth. These are intended to be the very-long-run breakdowns.
 
-```
+<pre>
 protocol 100%
     preliminary/auxiliary practices 4%
     other-person-inclusive practices 2%
@@ -2039,7 +2039,7 @@ protocol 100%
         p8 2%
         p9 2%
         p10 2%
-```
+</pre>
 
 ### A note on force (plus a brief mention of “redo-to-undo”)
 
