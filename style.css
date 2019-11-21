@@ -1,0 +1,17 @@
+#content {
+    margin: 0 auto;
+    max-width: 700px;
+    font-family: "Lato", sans-serif;
+    line-height: 1.38;
+}
+
+blockquote {
+    border-left: 3px solid #bbb;
+    padding-left: 18px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+blockquote blockquote {
+    border-left: 2px solid #9ac;
+}
