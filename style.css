@@ -13,9 +13,17 @@ blockquote {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+    blockquote blockquote {
+        border-left: 2px solid #9ac;
+        margin-bottom: 10px;
+    }
+    blockquote p {
+        font-size: inherit;
+        margin-bottom: 10px;
+    }
 
-blockquote blockquote {
-    border-left: 2px solid #9ac;
+ul ul, ul ol, ol ol, ol ul {
+    margin-bottom: 10px;
 }
 
 a {
@@ -42,3 +50,6 @@ h5,h6 {
 .square+ol, .square+ul {list-style-type:square;}
 .decimal+ol, .decimal+ul {list-style-type:decimal;}
 .decimal_leading_zero+ol, .decimal_leading_zero+ul {list-style-type:decimal-leading-zero;}
+
+.loose_list+ol > li, .loose_list+ul > li { margin-bottom: 10px; }
+.tight_list+ol > li, .tight_list+ul > li { margin-bottom: 0; }

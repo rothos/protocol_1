@@ -183,6 +183,7 @@ In the absence of maintaining a quality introduction across releases, though tha
 
 [Some of the edits change the original meaning a bit while still making the same point.]
 
+### Excerpt I
 
 **Jonathan [9:11 PM][Ed: 2019-04-11; 21:32 PDT]**
 > a couple more things that come to mind maybe for future versions. excuse the ramble-i-ness
@@ -201,7 +202,7 @@ In the absence of maintaining a quality introduction across releases, though tha
 >
 > for example wrt to the above, knowing stuff like this has made it easier for me to trust that the right things are happening at times, or trust that my mind can do good things, and stuff like that. depending on the models of mind people are running on i could expect there to be a lot of self fighting and self flailing and not self trusting in ways that might be bad. for example, if you’re coming from a tmi practice you might believe that your mind is this thing you need to wrangle, that you know better than, stuff like that. little bits of theory like this could help people understand how the practice works, why it’s different than practice they’ve done before, and possibly have the needed faith to try it out for 100+ hours
 
-***
+### Excerpt II
 
 **Jonathan [4:32 PM]**
 
@@ -338,9 +339,7 @@ all of [that] is distinct from [this protocol]
 
 > yup
 
-
-***
-
+### Excerpt III
 
 **Jonathan [10:24 PM]**
 
@@ -1052,7 +1051,7 @@ You might also see the “gentle on-ramp”/“onramp” section elsewhere in th
 
 ### Risks
 
-[from: [https://meditationstuff.wordpress.com/2019/04/07/2000-hours-to-full-classical-enlightenment-plus-risks/]()]
+_[from: [https://meditationstuff.wordpress.com/2019/04/07/2000-hours-to-full-classical-enlightenment-plus-risks/]()]_
 
 The stuff below has a mild and transient version all the way up to an extreme and chronic version. I describe sort of the worst-case scenarios below. In the worst case, you might need to drop everything, or as much as you  possibly can, for weeks, months, or longer to solve it, on your own or finding a teacher or teachers who can help. This could be very costly to finances and relationships. If you experience flickers of any of the below, and you likely will, it happens, a lot, it certainly doesn’t mean you’re on your way to a worst-case scenario, but you should treat flickers calmly but with great seriousness. Don’t make seeming “progress” at the expense of even a slight uptick in the direction of any of the below. Again, you will likely skirt the faint or even moderate edges of all this stuff, so don’t freak out, and/but this is all very, very serious stuff.
 
@@ -1949,6 +1948,7 @@ Run through all these practices to find ones that feel/seem good, currently. Run
 
 [old names: Elemental Analysis, Comprehensive Elemental Analysis]
 
+<div class='loose_list'></div>
 1. Incline towards producing one of
     <div class="lower_alpha"></div>
     1. a logical argument/deduction/derivation (standalone or possibly including a narrativized explanation), [What implies/entails this/X? What does X/this imply/entail? Why X? What is the reason for X? What follows from X? X=?]
