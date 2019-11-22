@@ -3169,3 +3169,5 @@ And then p2 is the enactment of global wayfinding which includes upgrading itsel
 
 - [https://jhanajenny.com/paragon-tantric-practice/]() (Last accessed: 2019-07-04; 11:16 CDT)
 - _EMDR Up Close: Subtleties of Trauma Processing 1st Edition_ by Dr. Philip Manfield. CreateSpace Independent Publishing Platform; 1 edition (September 16, 2013). ISBN-10: 1492399620. ISBN-13: 978-1492399629
+
+<div style='margin-top: 10em'></div>

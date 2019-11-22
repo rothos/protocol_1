@@ -2329,7 +2329,8 @@ And then p2 is the enactment of global wayfinding which includes upgrading itsel
 <ul>
 <li><a href="">https://jhanajenny.com/paragon-tantric-practice/</a> (Last accessed: 2019-07-04; 11:16 CDT)</li>
 <li><em>EMDR Up Close: Subtleties of Trauma Processing 1st Edition</em> by Dr. Philip Manfield. CreateSpace Independent Publishing Platform; 1 edition (September 16, 2013). ISBN-10: 1492399620. ISBN-13: 978-1492399629</li>
-</ul></div>
+</ul>
+<div style='margin-top: 10em'></div></div>
 
     <script src="jquery-1.8.3.min.js"></script>
     <script src="jquery-ui-1.9.1.custom.min.js"></script>
@@ -2338,7 +2339,10 @@ And then p2 is the enactment of global wayfinding which includes upgrading itsel
     <script type='text/javascript'>
         $(function() {
             //Calls the tocify method on your HTML div.
-            $("#toc").tocify({"selectors": "h2,h3,h4,h5,h6"});
+            $("#toc").tocify({
+                "selectors": "h2,h3,h4,h5,h6",
+                "extendPage": false
+            });
         });
     </script>
 </body>

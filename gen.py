@@ -22,7 +22,10 @@ html = """
     <script type='text/javascript'>
         $(function() {
             //Calls the tocify method on your HTML div.
-            $("#toc").tocify({"selectors": "h2,h3,h4,h5,h6"});
+            $("#toc").tocify({
+                "selectors": "h2,h3,h4,h5,h6",
+                "extendPage": false
+            });
         });
     </script>
 </body>
