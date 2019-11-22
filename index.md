@@ -6,9 +6,9 @@ Copyright: All rights reserved.
 
 **Catch-all/alpha/beta/draft disclaimer:** I make many bold assertions in this document, and sometimes I use words like usually, often, etc., that may seem to imply I’m working from a large dataset. Please understand that the protocol has been most heavily tested by me, with a very small additional number of people who are using the protocol either heavily or at least semi-consistently. More and more people are trying this thing out as it becomes more widely known. But, we don’t have a lot of data, and, when I make bold claims, I’m extrapolating from everything I know, which will at minimum be many, many things adjacent to the protocol but not necessarily derived from empirical use of the protocol by other people, and in a very small number of cases, even myself. But, for what it’s worth, I eat my own dog food as it were. The protocol has been my sole transformative practice for thousands of hours, and I’ve tried extensively to suss out all former prerequisites and to incorporate them into the practice. And I’m tracking some of the users very carefully. I currently believe other people besides myself can use this thing to take themselves all the way.
 
-Please support this work: [https://www.patreon.com/meditationstuff](https://www.patreon.com/meditationstuff)
+Please support this work: [https://www.patreon.com/meditationstuff]()
 
-Author blog: [https://meditationstuff.wordpress.com](https://meditationstuff.wordpress.com)
+Author blog: [https://meditationstuff.wordpress.com]()
 
 
 ## Preamble (draft!)
@@ -1052,7 +1052,7 @@ You might also see the “gentle on-ramp”/“onramp” section elsewhere in th
 
 ### Risks
 
-[from: [https://meditationstuff.wordpress.com/2019/04/07/2000-hours-to-full-classical-enlightenment-plus-risks/](https://meditationstuff.wordpress.com/2019/04/07/2000-hours-to-full-classical-enlightenment-plus-risks/)]
+[from: [https://meditationstuff.wordpress.com/2019/04/07/2000-hours-to-full-classical-enlightenment-plus-risks/]()]
 
 The stuff below has a mild and transient version all the way up to an extreme and chronic version. I describe sort of the worst-case scenarios below. In the worst case, you might need to drop everything, or as much as you  possibly can, for weeks, months, or longer to solve it, on your own or finding a teacher or teachers who can help. This could be very costly to finances and relationships. If you experience flickers of any of the below, and you likely will, it happens, a lot, it certainly doesn’t mean you’re on your way to a worst-case scenario, but you should treat flickers calmly but with great seriousness. Don’t make seeming “progress” at the expense of even a slight uptick in the direction of any of the below. Again, you will likely skirt the faint or even moderate edges of all this stuff, so don’t freak out, and/but this is all very, very serious stuff.
 
@@ -1060,7 +1060,7 @@ The stuff below has a mild and transient version all the way up to an extreme an
 
 2. At the very worst, due to weird subtle stuff that you’ll begin experience extreme sensitivity to other people. Like, being around people, working shoulder-to-shoulder with people, being on the phone or video chat with people, sleeping next to someone you care about, will become radically intolerable for some number of weeks or months. This is a real risk. This could destroy relationships both intimate and financial. Due to the same weird subtle stuff, people might come to find being around you to become completely intolerable even if you’re fine being around them. And this as well could destroy relationships both intimate and financial. (To me, this means that meditation and pregnancy or even having kids under eighteen probably don’t mix or mix in risky ways.)
 
-3. Whether weird subtle stuff or not, your mind is figuring out how to change itself, and that’s a lot of power for a still-dumb mind to have. So we’ll call this interim magnification of negative traits. There is a (possibly quite long) period where self-deception as well as harm to others can very easily increase, where the meditator is blind to it and also really hurt by all the accusations and doesn’t respond to them in a super-constructive way. This will likely be you, especially if you think of yourself as a person who is generally really careful about this sort of thing and/or who doesn’t have the propensity or desire to hurt other people. For more, see here: [https://meditationstuff.wordpress.com/2019/03/30/clickbait-title-you-are-so-bad-real-title-benevolence-subtle-imposition-manipulation-and-control-and-ideology/](https://meditationstuff.wordpress.com/2019/03/30/clickbait-title-you-are-so-bad-real-title-benevolence-subtle-imposition-manipulation-and-control-and-ideology/)
+3. Whether weird subtle stuff or not, your mind is figuring out how to change itself, and that’s a lot of power for a still-dumb mind to have. So we’ll call this interim magnification of negative traits. There is a (possibly quite long) period where self-deception as well as harm to others can very easily increase, where the meditator is blind to it and also really hurt by all the accusations and doesn’t respond to them in a super-constructive way. This will likely be you, especially if you think of yourself as a person who is generally really careful about this sort of thing and/or who doesn’t have the propensity or desire to hurt other people. For more, see here: [https://meditationstuff.wordpress.com/2019/03/30/clickbait-title-you-are-so-bad-real-title-benevolence-subtle-imposition-manipulation-and-control-and-ideology/]()
 
 4. So then, finally, there’s emotional and motivational dysregulation, sometimes extreme, e.g. extreme suffering and can’t do anything, for hours or days or even weeks, or even more. How fucking weird and terrible things can get, in the worse case, cannot be overemphasized. And, it goes without saying that this can be bad for relationships and finances. Interestingly, I currently don’t think “psychosis psychosis” [sic] is much of a risk, even when things are super crazy weird, maybe like little flashes that are rapidly corrected, but there’s probably a non-zero risk.
 
@@ -1118,7 +1118,7 @@ It shouldn't be forcy, as with the main practice. One is interpreting the instru
 
 As with the main practice, let go, hold it loosely, experiment; don’t prematurely reify ontological elements or commitments that seem to be implied by the text.
 
-### Solo practice: (“main protocol”)
+### Solo practice (“main protocol”)
 
 #### Posture (section needs editing)
 
@@ -1132,7 +1132,7 @@ Oh, more for completeness: leaning with back (butt) against low things like coun
 
 More distinctions: sitting without back support, sitting with back support (still erect), and hella slumped in some comfortable couch or chair in some long-term comfortable way. always mix with erect/unsupported sitting and standing!
 
-Also, [E Tai Chi](https://www.amazon.com/Tai-Chi-Basic-Book-Simplest-ebook/dp/B01MREOH1P/), custom/ad hoc tai chi, and custom/ad hoc yoga asanas
+Also, E Tai Chi [https://www.amazon.com/Tai-Chi-Basic-Book-Simplest-ebook/dp/B01MREOH1P/](), custom/ad hoc tai chi, and custom/ad hoc yoga asanas
 
 [Also: ad hoc “internal martial arts” rearranging your weight, rearranging your stance, rearranging your relationship with gravity, rearranging your physical anticipations…]
 
@@ -2789,18 +2789,6 @@ We have mutual understanding that Y is bad.
 - voluntary exchange, mutually beneficial exchange, atomic transactions, atomic swap, mutually beneficial noncoercive exchange
 - co-doing, co-moves, simultaneous complementary moves, we, separation, nonseparation, no boundary, etc.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Lists and more
 
 A few of these sections are sort of “less clear” in some ways than the main practices. Those are sort of “noncanonical” in some sense. I’m not sure how to slice and dice all this yet
@@ -3173,5 +3161,5 @@ And then p2 is the enactment of global wayfinding which includes upgrading itsel
 
 ## Bibliography (incomplete)
 
-- [https://jhanajenny.com/paragon-tantric-practice/](https://jhanajenny.com/paragon-tantric-practice/) (Last accessed: 2019-07-04; 11:16 CDT)
+- [https://jhanajenny.com/paragon-tantric-practice/]() (Last accessed: 2019-07-04; 11:16 CDT)
 - _EMDR Up Close: Subtleties of Trauma Processing 1st Edition_ by Dr. Philip Manfield. CreateSpace Independent Publishing Platform; 1 edition (September 16, 2013). ISBN-10: 1492399620. ISBN-13: 978-1492399629

@@ -4,12 +4,12 @@ from markdown import markdown
 html = """
 <html>
 <head>
-    <link rel='stylesheet' href='style.css'>
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap" rel="stylesheet">
-
     <link rel="stylesheet" href="bootstrap.css">
     <link rel="stylesheet" href="jquery.ui.all.css">
     <link rel="stylesheet" href="jquery.tocify.css">
+
+    <link rel='stylesheet' href='style.css'>
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap" rel="stylesheet">
 </head>
 <body>
     <div id="toc"></div>
