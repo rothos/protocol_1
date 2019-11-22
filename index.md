@@ -385,7 +385,7 @@ There’s an ongoing project of collecting all the reasons why people bounce off
 
 The goal of the practice is to have a good life, in the most broad and ordinary sense, on your terms, in your words, in your frame, or in no frame. That might look still, quiet, and intimate. That might look big and beautiful. (That might or might not include a good death.) That might look superficially normative and be quite nonnormative under the hood and in the cracks. Or that might quite normative in lots of ways. But the important thing is that it is good for and everyone you care about (which might be no one, everyone, etc.). It might end too soon or go on too long or who knows. In some sense you might fail: Maybe you or people you care about will get hit by a bus, a heart attack, a meteor, or a nuclear war. But the goal is to have a good (peaceful, interesting, exciting, fun, intimate, quiet, safe, stable, normal, extraordinary) life. That’s the point of all of this. (Asymptotically, nonmonotonically approaching self-perfection might be an interesting, fun, mediately traumatizing, opportunity-costly, incidental side effect.)
 
-Part of having a good life is preparing and account for (the likely possibility of) death such that you actually have a good life. One can have a dispreference for death, while not fearing it, while competently and proactively avoiding it, while seamlessly having that be a part of everything else that is good.
+Part of having a good life is preparing and accounting for (the likely possibility of) death such that you actually have a good life. One can have a dispreference for death, while not fearing it, while competently and proactively avoiding it, while seamlessly having that be a part of everything else that is good.
 
 One might have to give up everything in the pursuit of this goal, strangely, weirdly, even as lots of things stay superficially the same. In some ways getting everything you want will first cost you everything, will cost you your entire world, as you realize what you want is nothing like what you initially thought, that reality is nothing like what you initially thought, even though what you want appears superficially similar, in some ways, to what you previously wanted.
 
@@ -440,7 +440,7 @@ Remember, in the relevant sense, you are the sole and final arbiter of what’s 
 
 Do what thou wilt, that is the whole of the law. Love under will. (or something)
 
-A key insight: If you know you’re doing the absolute best you can at all times in each moment taking into account all future times and all possible futures deep down in your bones then you just relax and let go, and it feels good
+A key insight: If you know you’re doing the absolute best you can at all times in each moment, taking into account all future times and all possible futures deep down in your bones, then you just relax and let go, and it feels good.
 
 Related: You can stop checking, compensating, reminding, self-correcting, etc., if you know both that you’re up to date and also that you’ll responsively and seamlessly update in the presence of new information.
 
@@ -966,13 +966,13 @@ Again, be precise, patient, and gentle.
 
 It can be helpful to realize that you need to become a genius. You need to become brilliant. You will become brilliant, at least along some narrow dimensions, in the course of doing this thing. If you strive for that, relax into it, things will go more smoothly.
 
-The level of skill and (mostly implicit) intricate knowledge that you need to acquire is shockingly high. It’s like you need to learn every single instrument in an entire orchestra, including the ones that, at least historically, very rarely get used, as well as how to be a conductor. But that’s what the protocol is for. The protocol helps you do that. But if you’re ready for that, you know what’s supposed to happen, then that can go more eaily.
+The level of skill and (mostly implicit) intricate knowledge that you need to acquire is shockingly high. It’s like you need to learn every single instrument in an entire orchestra, including the ones that, at least historically, very rarely get used, as well as how to be a conductor. But that’s what the protocol is for. The protocol helps you do that. But if you’re ready for that, you know what’s supposed to happen, then that can go more easily.
 
 Additionally, it can help to reach for words, phrases, and concepts like these:
 
 - comprehensiveness
 - systematicity
-- exhaustivity
+- exhaustiveness
 - flawlessness
 - perfection
 - no shims, no patches, nothing left behind, no subtle errors, no subtle jogs or discontinuities or shear
@@ -989,13 +989,13 @@ You don’t have to be stressed about this, in the sense that the mind is going 
 
 But the main point is that, the more you go with the grain of this, the more smoothly it will go. There’s a right ordering to everything, to be sure. And sometimes it’s going to suck.
 
-But, if you know that you might indeed need sometimes spend five hundred hours going after one “bit,” and indeed you might need to do that twenty times, that’s just part of the practice. That *is* the practice.
+But, if you know that you might indeed need sometimes to spend five hundred hours going after one “bit,” and indeed you might need to do that twenty times, that’s just part of the practice. That *is* the practice.
 
 Again, the protocol will lead you to this level of conscientiousness and skill. The protocol (and the meta protocol and the meta meta protocol) and how the mind responds will lead you to find every last one of those bits, in some sense won’t let you do anything less, will help you be sure you’ve got them all. You’ll eventually get a taste for perfection, flawlessness, etc.
 
 You’ll learn how to work at the finest grain. You’ll learn how to act with continuity, continuousness, without inappropriate gaps, jumps, jogs.
 
-The protocol might start out feeling super clunky, not like meditation at all. But, over time, bottom up, it’ll look more and more like “classical contemporary noting” [sic] and concentration without support.
+The protocol might start out feeling super clunky, not like meditation at all. But, over time, bottom up, it’ll look more and more like “classical contemporary noting” [_sic_] and concentration without support.
 
 Go with the grain of this, not against it.
 
@@ -1013,7 +1013,7 @@ Your deepest assumptions are going to be questioned, and you’re likely going b
 
 And some things are going to creepingly seem like horrible, horrible, intolerable “truths” at least at first. Or you’re eventually realize you’re mistaken, or you’ll eventually realize it’s not actually that bad.
 
-But, there’s probably going to be away in which “everything is taken from you,” sometimes figuratively or at least psychologically (or even spiritually; or even literally, if understandably but tragically parts of your life get fucked up).
+But, there’s probably going to be away in which “everything is taken from you,” sometimes figuratively or at least psychologically (or even spiritually; or even literally, if—understandably but tragically—parts of your life get fucked up).
 
 Bravery. Courage.
 
@@ -1023,7 +1023,7 @@ Beware of decompensated impulsiveness. Don’t cheat on your significant other. 
 
 #### Error propagation, wayfinding, grace of what minds are
 
-Holy shit, a lot of warnings here, about things that can go wrong. It’s important to keep in mind, and this has been a lifeline for me, and it’s true, the mind is ultimately reversible. Any “mistake” or mistake the mind has made, whether it was in the first moments of consciousness or a dumbass (as it were; or completely innocent) thing you were doing for *two thousand hours* in the course of meditation. The mind will ultimately untwist its way to that thing, raise that thing, backchain all the necessary prerequisites, complete those, and then correct the thing. And that’s whether you’re eighteen or ninety. All you need to do is practice correctly, to responsively, methodically, intelligently, intuitive crank. Meditation works because this is what minds are. This is what minds do and this is what meditation does and that’s why we’re doing it.
+Holy shit, a lot of warnings here, about things that can go wrong. It’s important to keep in mind, and this has been a lifeline for me, and it’s true, the mind is ultimately reversible. Any “mistake” or mistake the mind has made, whether it was in the first moments of consciousness or a dumbass (as it were; or completely innocent) thing you were doing for *two thousand hours* in the course of meditation. The mind will ultimately untwist its way to that thing, raise that thing, backchain all the necessary prerequisites, complete those, and then correct the thing. And that’s whether you’re eighteen or ninety. All you need to do is practice correctly, to responsively, methodically, intelligently, intuitively crank. Meditation works because this is what minds are. This is what minds do and this is what meditation does and that’s why we’re doing it.
 
 Error propagation, meditating (or just living) in a way that incidentally or systematically spreads and ramifies errors throughout mind, experience, and behavior is just a thing.
 
@@ -1067,7 +1067,7 @@ The stuff below has a mild and transient version all the way up to an extreme an
 
 3. Whether weird subtle stuff or not, your mind is figuring out how to change itself, and that’s a lot of power for a still-dumb mind to have. So we’ll call this interim magnification of negative traits. There is a (possibly quite long) period where self-deception as well as harm to others can very easily increase, where the meditator is blind to it and also really hurt by all the accusations and doesn’t respond to them in a super-constructive way. This will likely be you, especially if you think of yourself as a person who is generally really careful about this sort of thing and/or who doesn’t have the propensity or desire to hurt other people. For more, see here: [https://meditationstuff.wordpress.com/2019/03/30/clickbait-title-you-are-so-bad-real-title-benevolence-subtle-imposition-manipulation-and-control-and-ideology/]()
 
-4. So then, finally, there’s emotional and motivational dysregulation, sometimes extreme, e.g. extreme suffering and can’t do anything, for hours or days or even weeks, or even more. How fucking weird and terrible things can get, in the worse case, cannot be overemphasized. And, it goes without saying that this can be bad for relationships and finances. Interestingly, I currently don’t think “psychosis psychosis” [sic] is much of a risk, even when things are super crazy weird, maybe like little flashes that are rapidly corrected, but there’s probably a non-zero risk.
+4. So then, finally, there’s emotional and motivational dysregulation, sometimes extreme, e.g. extreme suffering and can’t do anything, for hours or days or even weeks, or even more. How fucking weird and terrible things can get, in the worse case, cannot be overemphasized. And, it goes without saying that this can be bad for relationships and finances. Interestingly, I currently don’t think “psychosis psychosis” [_sic_] is much of a risk, even when things are super crazy weird, maybe like little flashes that are rapidly corrected, but there’s probably a non-zero risk.
 
 5. Finally, there’s opportunity cost.
 
@@ -1082,9 +1082,9 @@ v1.5 (Last updated: 2019-10-13; 08:41 CDT)
 1. Notes
     - Note that you can also interleave/weave these questions (or the spirit of these questions) with[/into] a main meditation practice as you're doing it.
     - Don't force the questions below. If you're mind doesn't want to answer them, then don't make your mind answer them.
-    - You don't need to get complete answers or verbal answers to the questions. Just good-faith try/intend to answer, being willing to release the *how* of how you're getting the answer or answering. When in doubt, let go and start over or let go completely. Let you mind have time and space to answer the questions however it wants. The mind might answer by doing something rather than answering the question, specifically.
+    - You don't need to get complete answers or verbal answers to the questions. Just good-faith try/intend to answer, being willing to release the *how* of how you're getting the answer or answering. When in doubt, let go and start over or let go completely. Let your mind have time and space to answer the questions however it wants. The mind might answer by doing something rather than answering the question, specifically.
     - You don't need to ask the questions below verbally or discretely, though it's good to experiment with that first. You can also cast your mind over the questions or the memory of the questions, sequentially, semi-sequentially, or all together, all at once. Try to vary how you're accessing the questions, verbally/sequentially versus all at once, and the degrees in between.
-    - There is a "meta meta protocol" [sic] which is applying this protocol to itself. There are contextually better and worse ways to use this meta protocol and there are better and worse interpretations of how to use it. The "meta meta protocol" can help you move towards better and better interpretations and uses.
+    - There is a "meta meta protocol" [_sic_] which is applying this protocol to itself. There are contextually better and worse ways to use this meta protocol and there are better and worse interpretations of how to use it. The "meta meta protocol" can help you move towards better and better interpretations and uses.
     - Note that the meta protocol can be used for other things besides meditation, such as problem solving, planning, or really anything, mental or physical.
 
 2. Retrospective Evaluation of Happening and Doing
@@ -1137,7 +1137,7 @@ Oh, more for completeness: leaning with back (butt) against low things like coun
 
 More distinctions: sitting without back support, sitting with back support (still erect), and hella slumped in some comfortable couch or chair in some long-term comfortable way. always mix with erect/unsupported sitting and standing!
 
-Also, E Tai Chi [https://www.amazon.com/Tai-Chi-Basic-Book-Simplest-ebook/dp/B01MREOH1P/](), custom/ad hoc tai chi, and custom/ad hoc yoga asanas
+Also, [E Tai Chi](https://www.amazon.com/Tai-Chi-Basic-Book-Simplest-ebook/dp/B01MREOH1P/), custom/ad hoc tai chi, and custom/ad hoc yoga asanas
 
 [Also: ad hoc “internal martial arts” rearranging your weight, rearranging your stance, rearranging your relationship with gravity, rearranging your physical anticipations…]
 
@@ -1181,9 +1181,9 @@ Deliberately, in ways that are ok or good and safe, attend to and be aware of, c
 
 ##### Sense meta
 
-* If you happen to remember to try to do so, effortlessly rest in already effortlessly being aware of being aware [sic] of sensation(s) as such as it’s/they’re vividly and veridically happening right now.
+* If you happen to remember to try to do so, effortlessly rest in already effortlessly being aware of being aware [_sic_] of sensation(s) as such as it’s/they’re vividly and veridically happening right now.
 * Said more pithily, be aware of being aware.
-* Or, perhaps more accurately and evocatively, without having to fully parse the first bullet, be aware of being aware of what you’re being aware of. [sic]
+* Or, perhaps more accurately and evocatively, without having to fully parse the first bullet, be aware of being aware of what you’re being aware of. [_sic_]
 
 ##### Blend
 
@@ -1231,7 +1231,7 @@ Thus; and consider writing by hand when you’re doing this.
 
 ##### Say or think truth
 
-Verbalize a seeming relevant seeming truth. [sic] Repeat.
+Verbalize a seeming relevant seeming truth. [_sic_] Repeat.
 
 ##### Explore *how* you’re thinking
 
@@ -1395,7 +1395,7 @@ Alongside what actually happened, imagine a better version of a memory. How coul
 
 ##### Counterfactual avoidance
 
-Alongside something bad that actually happened, as best you understand it, how could you have avoided that? Or, how would that not have happened, had you only know… what?
+Alongside something bad that actually happened, as best you understand it, how could you have avoided that? Or, how would that not have happened, had you only known… what?
 
 ##### Imaginary conversation
 
@@ -1425,11 +1425,12 @@ Concretely imagine how you’d spend a “normal ideal day.”
 
 Explore the objects and experiences of current and remembered
 
-(a) thirst, craving, impulse, urge, appetite, motivation, “intrinsic motivation,” self-nudge, love, limerance, meaningfulness, hope, desire, longing, liking, wishing, dreaming, lusting, wanting, desiring, needing, and
+<div class="lower_alpha"></div>
+1. thirst, craving, impulse, urge, appetite, motivation, “intrinsic motivation,” self-nudge, love, limerance, meaningfulness, hope, desire, longing, liking, wishing, dreaming, lusting, wanting, desiring, needing, and
 
-(b) that which is beautiful, wonderful, extraordinary, awe-inspiring, delicious, delectable, awesome, staggering, disarming, heavenly, divine, glorious, completing, be-all-end-all, the-whole-point, only-thing-that-matters, true-reason(s)-to-do-anything, elegant, sublime, hot, sexy, devastating-in-a-good-way, perfect, destined/fated/inevitable-in-a-good-way, satisfying, warming, fulfilling, relieving, engaging, likable, and
+2. that which is beautiful, wonderful, extraordinary, awe-inspiring, delicious, delectable, awesome, staggering, disarming, heavenly, divine, glorious, completing, be-all-end-all, the-whole-point, only-thing-that-matters, true-reason(s)-to-do-anything, elegant, sublime, hot, sexy, devastating-in-a-good-way, perfect, destined/fated/inevitable-in-a-good-way, satisfying, warming, fulfilling, relieving, engaging, likable, and
 
-(c) that which is disgusting, evil, bad, hateful, gross, undesirable, horrible, terrible, unwanted, noxious, aversive, desperation-related, out-of-control-ness-related, dislikable.
+3. that which is disgusting, evil, bad, hateful, gross, undesirable, horrible, terrible, unwanted, noxious, aversive, desperation-related, out-of-control-ness-related, dislikable.
 
 ##### Inner conflict
 
@@ -1491,7 +1492,7 @@ Notice: is there anything you are currently/presently/ongoingly avoiding or runn
 
 Thus.
 
-##### Patiently what with what feels bad
+##### Patiently wait with what feels bad
 
 Thus.
 
@@ -1605,7 +1606,7 @@ Thus. Change what you’re going to do, if you can (at this time). You might see
 
 ##### Figure or dont
 
-Work on figuring something out. Or, do something besides, do you anything besides, figuring something out
+Work on figuring something out. Or, do something besides, do anything besides, figuring something out
 
 ##### Do something without asking permission
 
@@ -1625,7 +1626,7 @@ Explore whether you can just directly go after something and have it, do it, be 
 
 ##### Explore a conflicted desire
 
-Thus; explore how bad if feels (for whatever reasons); explore how good it feels (for whatever reasons).
+Thus; explore how bad it feels (for whatever reasons); explore how good it feels (for whatever reasons).
 
 ##### Concretely imagine
 
@@ -2251,7 +2252,7 @@ This list is a work in progress:
 - knowledge of attending
 - awareness of “attending”
 - awareness of “the sensations of attending”
-- knowledge/awareness/experience of belief/believing/“belief”/“believing”/etc.… [sic]
+- knowledge/awareness/experience of belief/believing/“belief”/“believing”/etc.… [_sic_]
 - knowledge of sensations of believing
 - awareness of sensations of believing
 - knowledge of sensations of expecting
@@ -2337,7 +2338,7 @@ This list is a work in progress:
 - knowledge/awareness/experience of “is-ness”
 - [knowledge/awareness/experience of thinking, believing, etc.]
 - knowledge/awareness/experience of “mode of being as such”
-- knowledge/awareness/experience of being “mode of being as such” [sic]
+- knowledge/awareness/experience of being “mode of being as such” [_sic_]
 - knowledge/awareness of inner conflict
 - knowledge/awareness of “not me”
 - awareness of gappiness/gappyness/distraction/experiential-temporal-discontinuity/jump/jog/gap/discontinuity/reconfiguration/distraction/diversion/displacement [might feel good or bad and could be either good or bad]
@@ -2475,7 +2476,7 @@ This list is a work in progress:
 1. Are causes singular, plural, or total/everything?
 1. What is true/existing/obtaining in all places, times, (worlds,) universes, contexts, conditions, timelessly, eternally, sempiternally, unconditionally?
 1. What are the limits on what is conceivable? What is the space of all conceivability? What are the limits on what is conceivable separately from other somethings?
-1. What is good to unifiedly [sic] experience?
+1. What is good to unifiedly [_sic_] experience?
 1. What do you want your life to concretely look, sound, and feel like? (etc.) How do you want your days to be filled?
 1. If there is or were one “intrinsic motivation” in all times, all places, all situations, all contexts, what is or would it be?
 1. What is the difference between one’s self-boundary and one’s sphere of influence?
