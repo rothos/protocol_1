@@ -1,3 +1,9 @@
+<div style='margin-top: 2em'></div>
+<div class="alert alert-error">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  <strong>Beware! This document may be out-of-date.</strong><br/>Potentially crucial modifications/additions/deletions may have happened since this page was updated. Be sure to compare the version number below with version number of the <a href='https://github.com/meditationstuff/protocol_1/'>official protocol</a> before getting too deep into this document.
+</div>
+
 # Mastery Protocol
 
 v72 Mark D Lippmann Method (“Mastery Protocol”)
