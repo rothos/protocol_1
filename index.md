@@ -1174,6 +1174,770 @@ If you happen to find yourself doing something, and you can stop doing it, and i
 
 Deliberately, in ways that are ok or good and safe, attend to and be aware of, consciously experience, sensations as such and know that that’s what you’re doing while you’re doing it.
 
+##### Sense meta
+
+* If you happen to remember to try to do so, effortlessly rest in already effortlessly being aware of being aware [sic] of sensation(s) as such as it’s/they’re vividly and veridically happening right now.
+* Said more pithily, be aware of being aware.
+* Or, perhaps more accurately and evocatively, without having to fully parse the first bullet, be aware of being aware of what you’re being aware of. [sic]
+
+##### Blend
+
+For a feared possibly true thing, if it’s safe enough and good enough to do so, be like what if that really/actually *is* true? Really play it up, get behind it, prime the pump, try to convince yourself it is indeed true, reach for your best feel of that really being true, allow yourself to fall into the world where it is true, take that leap and ride the wave wherever it takes you.
+
+##### Unblend
+
+Be, like, huh, that’s funny, huh that seems weird, huh why do/did I think that?
+
+##### Be moved
+
+To the degree you can allow yourself, to the degree you feel it’s safe or safe enough to be moved, to just find yourself doing/moving/vocalizing/twitching/acting/dramatizing/being/expressing/enacting/reenacting/feeling/dreaming/wanting/desiring/indulging, and to allow it to continue, to go with it, to go with the flow of it, do so.
+
+##### Have experience
+
+As it is ok to be lost in movement, thought, or reverie. It’s also ok to be lost in sensation as it happens, e.g. in music or visual beauty or conversation or sex or other sensuality, etc. And it’s also ok if you can’t do this or it never (yet) happens.
+
+##### Feel your body
+
+Thus.
+
+##### Feel your feelings
+
+Thus.
+
+##### Relax muscles
+
+Thus or e.g. experiment with “progressive relaxation.”
+
+##### Feel more
+
+Explore ways to change your posture, relax your muscles, let your chest and torso and stomach soften, etc., in a way that facilitates feeling your feelings and body sensations more easily or possibly more intensely and to possibly have more sensations become present.
+
+##### Feel what feels good and bad and neutral
+
+Deliberately seek out positively valenced feelings and/or other sensations. Deliberately seek out negatively valenced feelings and/or other sensations. Deliberately seek out neutrally valenced or unvalenced sensations.
+
+##### Explore what you (seem to) know, understand, expect, and remember
+
+Explore what you know. Explore your understanding of things. Explore your memories.
+
+##### Put things into words, slowly, and maybe revise
+
+Thus; and consider writing by hand when you’re doing this.
+
+##### Say or think truth
+
+Verbalize a seeming relevant seeming truth. [sic] Repeat.
+
+##### Explore *how* you’re thinking
+
+Thus.
+
+##### Explore *how* you’re believing
+
+Thus.
+
+##### Explore *how* you’re expecting
+
+Thus.
+
+##### Attend to things and sensations
+
+Thus.
+
+##### Imagine
+
+Imagine or simulate something, involving the use of visual imagery, if possible.
+
+##### Move grossly the “attention/thinking” muscles
+
+Deliberately move your eyes, jaw, tongue, head/neck, glottis, lips, palate.
+
+##### Notice and light move/influence the subtle “attention/thinking” muscles
+
+Notice, and possibly lightly influence subtle muscle activity and subtle sensation of the eyes, jaw, tongue, back of the neck, back of the head, glottis, lips, palate.
+
+##### Interrupt thought
+
+Interrupt or suppress thought or other mental activity, or catch it/them before it/they start(s) via (smooth/abrupt switching to) attending to things/objects or sensations or awareness of now or the present moment as such/being in the moment. Interleave or switch between thinking/imagining/reverie, interrupting thought, attending to locations on or in the body, and feeling your feelings.
+
+##### Be breathed
+
+Release the voluntary component of your breathing as much as possible and let involuntary breathing take over.
+
+##### Interrupt anything
+
+Interrupt, suppress, distract from, switch from an emotion, a response, a reaction, a feeling, an urge, an impulse, a craving/thirst, a thought, inner verbalizing, reverie, automaticity, movement, an intention, a train of thought, pursuit of a particular goal, a local plan, attention to a sensation…
+
+##### Concentrate perfectly on something
+
+Pick a sensory object, e.g. a visual patch, and reflectively attend to it. Don’t just look; see. Don’t just touch; feel. Don’t just listen; hear, etc. Notice subtle or gross wavering or interjection.
+
+##### Be here, now
+
+Thus and notice subtle or gross wavering or interjection.
+
+##### Just this
+
+Incline towards in the seeing, just the seen; in the hearing, just the heard, etc.
+
+##### Do deliberately
+
+Do something deliberately.
+
+##### Meaning-making
+
+Consider or say something, anything new. Or experience what comes prior to that, liminally verbally or completely nonverbally.
+
+##### Meaning-dissolving
+
+Find something that was true, meaningful, or coherent, that becomes untrue or nonsensical when you consider it anew or when reflectively considered for this first time.
+
+##### Fill-in-the-blank
+
+Create or find a sentence, assertion, or statement with a blank. Incline towards filling in the blank.
+
+##### Wonder about something
+
+Thus.
+
+##### Pose a question
+
+Pose a complete, well-formed question. You might right write it down and refine it.
+
+##### Incline towards answering a question
+
+Pick a well-formed question. Incline towards answering it.
+
+##### Find a disendorsed belief
+
+Find and be aware of a batshit crazy, schizophrenic, ugly, mean, fantastical, from childhood belief or “seeming-ness” that you’d rather not have/believe/experience. For now, just allow it to be or see if it naturally changes.
+
+##### Notice yourself talking to yourself
+
+Notice yourself talking to yourself, the reminding, convincing, suggesting, denying, etc. For now, just allow it to be or see if it naturally changes.
+
+##### Notice the experience of other-ness
+
+Notice other/alien/foreign/friend/enemy/parental/sibling/group/communal/cultural/global voices and impulses in you.
+
+##### Notice “feared truth”
+
+Notice a “feared truth” (or the “shadow” of one), something that would be terribly bad or would have terribly bad implications or ramifications if it were (definitely/decisively/actually) true.
+
+##### Reason with yourself
+
+Agnostically, impartially, gently, infinitely patiently, non-coercively reason or dialogue with yourself.
+
+##### Jump
+
+Attend to a “random” spot on or in the body.
+
+##### Sequence
+
+Attend to a “random” sequence of spots on and/or in the body, the sensory surround, or knowing or meaning or anything.
+
+##### Bodymind talks
+
+Allow words to come, ideally without presupposition or preconception. Let the bodymind talk to you.
+
+##### Explain something
+
+Explain how something works to yourself, to a rubber duck, to another person.
+
+##### The beginning of explanation
+
+About something, ask, what explains this? How did this come to be, and, what’s going on, here?
+
+##### Purposefulness
+
+About something you’re doing/feeling/experiencing or you intend to do, ask, for what purpose am I doing this? For what purpose is this happening (to me)?
+
+##### Articulation
+
+Try to put something inchoate into words. When you have some words, see if they fit, and see if there are parts which don’t have words for which you need to find more words.
+
+##### Single word
+
+See if you can find the right, single word for something.
+
+##### Subtle and fast
+
+See if you can find a place in you, on you, or outside of you where your sensations are subtle and fast-changing.
+
+##### Hard to attend to
+
+Notice where it’s hard to pay attention. Don’t force yourself to pay attention there, right now.
+
+##### Problem and solution
+
+Pick a problem you have and try to come up with a solution in any way that comes to you to try.
+
+##### Be there for yourself
+
+Thus, and, whatever you need, try to give it to yourself, directly, right now, in the right way.
+
+##### Be there for yourself, age-appropriately
+
+Thus, and, whatever you need, try to give it to yourself, directly, right now, in the right way. And, try to take into account any felt age, how old the relevant parts of you feel, any feeling-of-being-there sense or memory.
+
+##### Be a mother, father, big brother, big sister, mentor, teacher, most-trusted-friend-to-yourself, age-appropriately
+
+Thus, and, whatever you need, be the person that can give you the right thing, directly, right now, in the right way, and do so as best you can. And, try to take into account any felt age, how old the relevant parts of you feel, any feeling-of-being-there sense or memory. If safe, perhaps they know exactly what you’re thinking and feeling, and can respond exactly appropriately with exactly what you need.
+
+##### Counterfactual resourcing
+
+Alongside what actually happened, imagine a better version of a memory. How could it have gone in some other world (that ultimately, downstream, might provide you with exactly what you need right now)? Let it be complementary to the original memory or experience in sense and fidelity. Explore what, in some other world, could have been the best possible age-appropriate you, immersively there, then.
+
+##### Counterfactual avoidance
+
+Alongside something bad that actually happened, as best you understand it, how could you have avoided that? Or, how would that not have happened, had you only know… what?
+
+##### Imaginary conversation
+
+Imagine a conversation between two people, complete with possibly hazy setting and dialogue.
+
+##### Imaginary self-insert conversation
+
+Imagine you’re dialoging/conversing with someone, about whatever topics you’re drawn to.
+
+##### Planning
+
+Explore planning or your plans.
+
+##### Goals
+
+Explore goal setting or your goals.
+
+##### Todo lists
+
+Explore your physical or mental todo list(s) or explore what might go on one.
+
+##### Ideal day
+
+Concretely imagine how you’d spend a “normal ideal day.”
+
+##### Positive and negative motivation and evaluation
+
+Explore the objects and experiences of current and remembered
+
+(a) thirst, craving, impulse, urge, appetite, motivation, “intrinsic motivation,” self-nudge, love, limerance, meaningfulness, hope, desire, longing, liking, wishing, dreaming, lusting, wanting, desiring, needing, and
+
+(b) that which is beautiful, wonderful, extraordinary, awe-inspiring, delicious, delectable, awesome, staggering, disarming, heavenly, divine, glorious, completing, be-all-end-all, the-whole-point, only-thing-that-matters, true-reason(s)-to-do-anything, elegant, sublime, hot, sexy, devastating-in-a-good-way, perfect, destined/fated/inevitable-in-a-good-way, satisfying, warming, fulfilling, relieving, engaging, likable, and
+
+(c) that which is disgusting, evil, bad, hateful, gross, undesirable, horrible, terrible, unwanted, noxious, aversive, desperation-related, out-of-control-ness-related, dislikable.
+
+##### Inner conflict
+
+Explore current inner conflict, the goodness, the badness, the endorsement, the disendorsement, the good but feels bad, the bad that feels good, the bad that should feel good, the good that should feel bad, what hurts so good, what hurts so bad, what you want to want, what you want to not want…
+
+##### Inner confusion
+
+Explore current inner confusion.
+
+##### Self-soothe (jd)
+
+Reassure yourself. Hold yourself. Be gentle on/to yourself. Talk to or treat yourself like you might a young child.
+
+##### Relax (jd)
+
+Take deep breaths. Take it easy. Loosen up. Untense. Relaxxxxxxxx.
+
+##### Think with your body (jd)
+
+Explore what it’s like to “think” while attending to or moving attention through your body.
+
+##### Live lightly (jd)
+
+Make yourself a cup of tea. Go for a walk in the neighborhood. Read a book on a porch on a sunny day
+
+##### Trust your body, trust your mind (jd)
+
+Trust that the thing that's currently/presently/ongoingly happening is the right thing. Trust that your body and mind know the best path forward. Follow its lead. Listen to its clues.
+
+##### Don’t run away from the present / explore the present / return to the present (jd)
+
+What is good or bad, right here, right now? What is going on, right here right now? What could be improved or better, right here right now? What could be tweaked or different, right here right now?
+
+##### Feel your feelings (jd)
+
+Let them move, shift, expand, spread. Let it flow. Let it flow through you. Allow it (all). Surrender to it. Fully fall into it (if it's safe to do so)
+
+##### Label (jd)
+
+Label (put words to) your experience. What’s happening? What's going on?
+
+##### Find good, find bad (jd)
+
+What is (presently, ongoingly) happening that is good or bad? What are you (presently, ongoingly) doing that is good or bad?
+
+##### Embrace nebulosity (jd)
+
+If it’s good to do so, lean-in-to/embrace the churn/uncertainty/not-knowing/intensity/confusion/ambiguity/unknowing/chaos/(meaninglessness?) of the ever changing flow of experience, whatever that might be or where it might go. Notice the aversion to doing so, and the impulse to retreat to the safe/reified/conceptual.
+
+##### Welcome experience (jd)
+
+Welcome, allow, accept, receive, let in, make space for, give breathing room to … whatever is happening in experience.
+
+##### Examine avoidance (jd)
+
+Notice: is there anything you are currently/presently/ongoingly avoiding or running away from? If so: would it be good to not do so? are you able to not do so? is it safe to not do so?
+
+##### Do what feels good
+
+Thus.
+
+##### Patiently what with what feels bad
+
+Thus.
+
+##### Patiently wait with “something’s bad but don’t know what or where”
+
+Thus.
+
+##### Uncrush crushed desires
+
+Thus.
+
+##### Physically dramatize, physically act out
+
+Thus.
+
+##### Explore the experience of masculine gendered power
+
+Thus.
+
+##### Explore the experience of feminine gendered power
+
+Thus.
+
+##### Explore the experience of feminine gendered intimacy/connection/compassion/warmth/love
+
+Thus.
+
+##### Explore the experience of masculine gendered intimacy/connection/compassion/warmth/love
+
+Thus.
+
+##### Explore childlike power
+
+Thus.
+
+##### Explore childlike playfulness
+
+Thus.
+
+##### Explore childlike connection, love, etc.
+
+Thus.
+
+##### Explore masculine gendered sensuality
+
+Thus.
+
+##### Explore feminine gendered sensuality
+
+Thus.
+
+##### Explore masculine gendered desire
+
+Thus.
+
+##### Explore feminine gendered desire
+
+Thus.
+
+##### Go crazy; dance, flail, yell, jump, fuck
+
+Thus.
+
+##### Explore not orgasming; explore magnifying sexual desire/arousal/motivation
+
+Thus.
+
+##### Do something all wrong; do something incorrectly
+
+Thus.
+
+##### Explore joy in another’s success or happiness
+
+Thus.
+
+##### Explore reluctance to forgive; explore grudgingness
+
+Thus.
+
+##### Hang out with “chakras” and extremities
+
+Steadily attend, for a prolonged period of time (but not too long), to your hands, your feet, or (particularly your lower) “chakras”, near the surface or in the depths of your body: root/perineum, (sacrum), genitals, tan tien/dan tien, navel/hara, solar plexus, heart…
+
+##### Attend to nonsymbolic cognition
+
+What were you just thinking about, even if that thinking wasn’t in words? It was probably about something, real or imaginary.
+
+##### Attend in, on, or outside the body
+
+Decide whether you’ll attend to sensations inside, on, or outside the body. Then do just that for a bit.
+
+##### Just sit or stand, deliberately, reflectively, actively, with perfect posture
+
+Thus.
+
+##### Facilitate drive, motivation, grit; psych yourself up to *do*
+
+Thus.
+
+##### Plan with your whole body, not just your head
+
+Thus.
+
+##### Feel your plans/intentions/goals change (or not) in your body
+
+Thus.
+
+##### Change an intention, plan, or goal
+
+Thus. Change what you’re going to do, if you can (at this time). You might see if, unforcily, you can have the change be effortlessly, unreflectively stable, until you you fulfill it or it makes sense to modify it. (The change might be an addition, removal, or modification of an existing intention, plan, or goal.)
+
+##### Figure or dont
+
+Work on figuring something out. Or, do something besides, do you anything besides, figuring something out
+
+##### Do something without asking permission
+
+Thus.
+
+##### Be actually good to someone without their consent
+
+Thus.
+
+##### Solve or dissolve
+
+Explore whether you’re (a) altering your plans and intentions for changing the world or (b) altering your beliefs and desires to shape yourself to the world or (c) both, in this moment. (Note that (a), technically, is shaping yourself to the world as well.)
+
+##### Directness or indirectness
+
+Explore whether you can just directly go after something and have it, do it, be it, or achieve it. Or, are you planning, learning, preparing, etc. If you are doing the latter, why not the former?
+
+##### Explore a conflicted desire
+
+Thus; explore how bad if feels (for whatever reasons); explore how good it feels (for whatever reasons).
+
+##### Concretely imagine
+
+Imagine something in full, concrete detail, perhaps including first-person experience from a first-person perspective.
+
+##### Reminisce
+
+Thus.
+
+##### Desire backwards
+
+Follow the evolution of a desire backwards in time. “Float back” using a gradient of the feeling of that desire, the feeling of those times…
+
+##### Counterfactual desire
+
+Imagine what you would have wanted then had it been ok to elaboratively want it.
+
+##### Notice interjection
+
+Notice when thoughts or feelings come up that are against your “main forward direction.” Explore good and bad ways to interact with those interjections, e.g. ignore, befriend, tolerate, etc.
+
+##### Retrospective self-giving
+
+Imagine you’re giving your younger self exactly what they wanted and needed then; experience the “immersive feel” of this.
+
+##### Honor or respect all of your desires
+
+Thus, across all times, places, ages, parts of you.
+
+##### Notice distantly related yet contradictory desires
+
+Thus.
+
+##### Notice unreflective automaticity
+
+Thus, as if you are waking (to/)from a (lucid) dream.
+
+##### Pose questions to yourself
+
+Thus.
+
+##### Explore having two different things in mind simultaneously
+
+Thus.
+
+##### What you want, you want
+
+Thus.
+
+##### Body agreement
+
+Before taking a physical or mental action, see first if the body agrees, and abide by any disagreement.
+
+##### Play games with symbols (e.g. words)
+
+Thus.
+
+##### Question problem basis
+
+As a provisional alternative to trying to directly make something ok, through mind (thought) or action, try exploring the presuppositions and premises that make X not ok in the first place.
+
+##### Give up; let go; fail completely
+
+Thus. (if/when it’s safe and actually good to do so)
+
+##### Scan in, on, or outside the body (body scan; environmental scan)
+
+Decide whether you’ll explore sensations inside, on, or outside the body. Then systematically/comprehensively do just that for a bit.
+
+##### Take a break
+
+Thus; do something completely different for at least three days, ideally without cheating/without exceptions.
+
+##### Watch for beginnings (of awareness of sensing and knowing)
+
+Thus.
+
+##### Watch for endings (of awareness of sensations)
+
+Thus.
+
+##### Watch for changes (in knowing/seeming/expecting)
+
+Thus.
+
+##### Watch for “was there all along” experiences
+
+Thus.
+
+##### Watch for “real reasons (for doing/being/feeling)” (that were “previously just out of view”)
+
+Thus.
+
+##### Quiet, stable, fine-grain examination
+
+As best you can, have a quiet and stable mind. Examine the changing of sensations (perhaps investigating momentary in a single place or “place”) at the finest grain of detail.
+
+##### Freewrite
+
+Without forcing, write or type whatever comes to mind, keep going. Make the word count as high as you can. Free-draw, free-anything.
+
+##### Parts
+
+Ask what a part of you or a thing in you is. Ask what it’s doing. Ask what it wants, what its purpose is, what it’s for. Ask yourself what’s good for you about that part or thing being there doing its thing. Ask it what it has that you yourself want or need? Ask yourself what good thing is it doing for you? You might temporarily release/drain your own will from that part or thing, let it do or be exactly what it wants, pretending or making it so you can’t directly affect or control it; and, then, as above/previously, only ask questions and make and follow suggestions, requests, and counteroffers.
+
+##### Goodness of badness
+
+Explore what’s good (or useful or necessary), if anything, about bad things, including feeling bad or being bad, in general and for particular badness.
+
+##### Soften
+
+Explore if you can become soft where you are currently hard.
+
+##### Chain questions
+
+Thus, that is, ask a question and use the answer to that question (or parts of that answer) in a new question, and repeat with that answer in a new question, and so forth.
+
+##### Beginnings and endings
+
+Look for beginnings and endings of presence (of experience) and absence (of experience). (ideally “minimally; without adding anything or taking anything away”)
+
+##### Stability and change
+
+Look for stability and change
+
+##### Explore symbolic mediation, lack thereof, and how you might take a break
+
+Look for how verbalizing, categorizing, symbolizing, organizing, listing, structuring, narrativizing, referencing might be getting in the way. See if you can temporarily set all that aside.
+
+##### Chose enjoyment
+
+When in doubt, choose the enjoyable option (and fully enjoy).
+
+##### Chose nonverbal
+
+When in doubt, choose the nonverbal/wordless option.
+
+##### Flesh out worlds
+
+Imagine how things might or actually be, even if you are uncertain as to whether those things are actually the case. Imagine more parts of the worlds you might be in.
+
+##### Solutioning worlds
+
+Imagine fantastic, near-realistic, and realistic worlds where all your problems are solved.
+
+##### Getting and gearing
+
+Notice when you’re “getting yourself” to do something versus it just happening. Notice when you’re “gearing yourself up” to do something versus just knowing you’re going to do it.
+
+##### Dwell in safety
+
+Find and dwell in safety, if only temporarily.
+
+##### Be insane
+
+Be insane; be crazy; be batshit insane.
+
+##### Be bad
+
+Be bad; be evil; be malevolent
+
+##### Be good
+
+Be gentle; be kind be; compassionate.
+
+##### Be out of control
+
+Find a way to be safe enough, and then be dangerously out of control
+
+##### Ask about goodness and badness
+
+Ask, “What’s good about that?” Ask, “What’s bad about that?”
+
+##### Be as human as you happen to be, right now
+
+Be human; be imperfect; be flawed. (You can/could truly aspire to true perfection, but allow yourself to be what you are right now, say, which is inclusive of that aspiration.)
+
+##### Counterexample
+
+Find counterexamples to thoughts, beliefs, assertions, written content, things that other people say…
+
+##### Perspective-taking
+
+Take person A’s perspective. Take person A’s perspective on person B’s perspective, and so on. Take person A’s perspective on your perspective. Take person A’s perspective on your perspective of person A’s perspective.
+
+##### Encourage it; egg it on
+
+Thus.
+
+##### Leave your comfort zone or explore leaving your comfort zone
+
+Thus.
+
+##### Explore doing what feels wrong to do
+
+Thus.
+
+##### Try temporarily letting go of your sacred objects, your sacred touchstones
+
+Thus.
+
+##### Temporarily and briefly block resist refuse some impulse/urge/inclination/reflex/action/doing
+
+Thus.
+
+##### Study your sensations as such for the purpose of understanding
+
+Thus.
+
+##### Be liminally verbal; on the edge of almost not quite words/language
+
+Thus.
+
+##### Identity
+
+Ask yourself, “Who you are being right now?” Ask yourself, “Which one are you right now?”
+
+##### Noninterference
+
+Enter into something allowing it to be exactly as it is.
+
+##### Be a self-friend
+
+Would you treat a dear friend that way with respect to X? Treat yourself as you would a dear friend with respect to X.
+
+##### Take a long, slow, dreamy walk in a safe place
+
+Thus.
+
+##### Study
+
+Study particular sensations or knowing so as to figure them out.
+
+##### Seeping into; keeping company
+
+Seep into yourself or into some sensations or keep some knowing company. Don’t try to change any of it.
+
+##### Describe
+
+describe what’s happening, describe what seems to be the case, describe what’s salient, describe what’s relevant
+
+##### Explicate/articulate
+
+Put knowing into words; what is relevantly coming up that you know right now, that you might not have known that you know?
+
+##### Bare sensations as such
+
+regard/construe all real time experience as bare sensations as such
+
+##### Mind-only
+
+explore how everything (or not) is just an expression of your mind (or not)
+
+##### Acquiesce
+
+Give X exactly what it wants.
+
+##### Become
+
+(Temporarily or not) become X.
+
+##### Relevance
+
+List what’s relevant and maybe try to determine why those things are relevant.
+
+##### State awareness
+
+Decide in what ways you’re in a temporary state right now.
+
+##### Safe fear
+
+Make it safe to feel fear and to know what you’re afraid of.
+
+##### Explore intuition
+
+Explore taking intuitions seriously, including those for which you don’t have any obvious rational evidence (or whatever). Be psychic. Be clairvoyant. You can hold intuitions provisionally while you explore them.
+
+##### Question inner things
+
+Ask questions of distinct things in/of you: What are you? Who are you? Where did you come from? How did you come to be? How did you get here? What do you want? What would be good for you?
+
+##### Minimality
+
+Back off, utter lightweight-ness: do the lightest most minimal possible version of whatever you’re doing or want to do or want to try.
+
+##### Have fun
+
+Thus.
+
+##### Be openminded
+
+Be radically open to what might be true. Be unfiltered in your consideration of what might be true.
+
+##### Ok to hate
+
+Hate until/if you don’t.
+
+##### Shackles
+
+Ask, is X “shackles on” or “shackles off? [via Martha Beck’s Finding Your Own North Star and Steering by Starlight]
+
+##### Feel all towardsness
+
+Feel or allow yourself to feel your desire, wanting, longing, preferring, taste, hoping, wishing, needing, craving, thirsting, hungering, lusting…
+
+##### Your heart sing
+
+Remember/imagine (concretely) something that did/does/would make your heart sing (at least the first time or every time).
+
+##### Exhaustivity/comprehensiveness/systematicity
+
+Ask, is that it? Is there more? Anything else? What is the next thing? And the next? How do I know that I’m done? How will I know I’m done? How do I know there’s more?
+
+##### Go down a prefab list
+
+Run through all these practices to find ones that feel/seem good, currently. Run through all main practices to find ones that feel/seem good, currently. Try the meta protocol if you haven’t for a while. Try other collections besides ones in this document.
+
 
 #### Main practice(s)
 
