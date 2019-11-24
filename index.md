@@ -2170,12 +2170,12 @@ Examples:
 
 Places likely worth investigating:
 
-1. Where something seemingly X somehow leads to (or somehow depends on) something seemingly Y, or vice versa. (e.g. when doing something bad is good or when doing something good is bad)
-2. Where something is seemingly somehow X and Y at the same time.
-3. Where something is seemingly somehow X and Y at different times.
-4. Where something is seemingly somehow either X or Y conditionally.
+1. Where something seemingly X somehow leads to (or somehow depends on) something seemingly Y, or vice versa. (e.g. when doing something bad is good or when doing something good is bad);
+2. Where something is seemingly somehow X and Y at the same time;
+3. Where something is seemingly somehow X and Y at different times;
+4. Where something is seemingly somehow either X or Y conditionally;
 
-X, Y =
+where X, Y =
 
 <div class="lower_alpha"></div>
 1. true, false
@@ -2190,13 +2190,10 @@ X, Y =
 1. beautiful, ugly
 1. that is something that has some attribute or property, that doesn’t have that same attribute or property
 
-
 Further notes:
 
 - You might also write/think/say things (assertions) and then incline towards generating relevant (apparent, seeming, believed, thought, felt, wondered, imagined, suspected, endorsed, something…) counterexamples or contradictions to those things. And then use the things and the counterexamples or contradictions to improve on the original thing or to write a better thing not subject to the original counterexamples or contradictions.
-- Some additional good concepts, semi-separately, are “error correction,” “counterfactual,” “counterexample…”
-
-
+- Some additional good concepts, semi-separately, are “error correction”, “counterfactual”, “counterexample”, ….
 
 
 ##### p2
@@ -2615,7 +2612,7 @@ This list is a work in progress:
 1. Where do other people’s “insides” or “insideness” live?
 1. What is the relationship between other people’s “insideness” and “outsideness”?
 1. Where is other people’s “insideness” and “outsidness” in relation to your “insideness” and “outsideness”?
-1.What is the relationship between your “insideness” and your “outsideness” and environmental sensation and your experience of environmental location?
+1. What is the relationship between your “insideness” and your “outsideness” and environmental sensation and your experience of environmental location?
 1. How do you know where things are in relationship to yourself?
 1. Is the knowing of spatial location (of, say, sounds) “inside” you or “outside” you?
 1. Where is knowledge of spatial location? Where is awareness of spatial location? What is the experience of spatial location?
