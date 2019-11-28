@@ -4,89 +4,35 @@
   <strong>Beware! This document may be out-of-date.</strong><br/>Potentially crucial modifications/additions/deletions may have happened since this page was updated. Visit the <a href='https://github.com/meditationstuff/protocol_1/'>official repo</a> to find the current version.
 </div>
 
-# Mastery Protocol
+## Mastery Protocol
 
-v75 Mark D Lippmann Method (“Mastery Protocol”)
+v76 Mark D Lippmann Method (“Mastery Protocol”)
 
-Copyright: All rights reserved. You may fork/publish lightly transformed (formatted, edited) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date.
+### Copyright
 
-**Catch-all/alpha/beta/draft disclaimer:** I make many bold assertions in this document, and sometimes I use words like usually, often, etc., that may seem to imply I’m working from a large dataset. Please understand that the protocol has been most heavily tested by me, with a very small additional number of people who are using the protocol either heavily or at least semi-consistently. More and more people are trying this thing out as it becomes more widely known. But, we don’t have a lot of data, and, when I make bold claims, I’m extrapolating from everything I know, which will at minimum be many, many things adjacent to the protocol but not necessarily derived from empirical use of the protocol by other people, and in a very small number of cases, even myself. But, for what it’s worth, I eat my own dog food as it were. The protocol has been my sole transformative practice for thousands of hours, and I’ve tried extensively to suss out all former prerequisites and to incorporate them into the practice. And I’m tracking some of the users very carefully. I currently believe other people besides myself can use this thing to take themselves all the way.
+All rights reserved. You may fork/publish lightly transformed (formatted, edited) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date.
 
-Please support this work: [https://www.patreon.com/meditationstuff]()
+### Catch-all/alpha/beta/draft disclaimer
+
+I make many bold assertions in this document, and sometimes I use words like usually, often, etc., that may seem to imply I’m working from a large dataset. Please understand that the protocol has been most heavily tested by me, with a very small additional number of people who are using the protocol either heavily or at least semi-consistently. More and more people are trying this thing out as it becomes more widely known. But, we don’t have a lot of data, and, when I make bold claims, I’m extrapolating from everything I know, which will at minimum be many, many things adjacent to the protocol but not necessarily derived from empirical use of the protocol by other people, and in a very small number of cases, even myself. But, for what it’s worth, I eat my own dog food as it were. The protocol has been my sole transformative practice for thousands of hours, and I’ve tried extensively to suss out all former prerequisites and to incorporate them into the practice. And I’m tracking some of the users very carefully. I currently believe other people besides myself can use this thing to take themselves all the way.
+
+### Funding
+
+Please support this open access work: [https://www.patreon.com/meditationstuff]()
+
+[As of this version, now at 8 patrons and $101/month USD. Next round number $110; 9$ to go; 92% complete.]
+
+### Links
 
 Author web presence: [https://meditationstuff.wordpress.com]()
 
-Alternative versions: Sometimes individuals publish lightly transformed versions of this document to facilitate engagement with the material while it is still in draft form. These versions may be out of date:
+Canonical location of this document: [https://github.com/meditationstuff/protocol_1]()
+
+**Alternative versions.** Sometimes individuals publish lightly transformed versions of this document to facilitate engagement with the material while it is still in draft form. These versions may be out of date:
 
 * [https://rothos.github.io/protocol_1/]()
 
-
-## Preamble (draft!)
-
-1. Remember, you’re probably going to die. Remember that the universe may experience heat death. Remember that, in some sense, death and heat death are in some sense just ideas and concepts.
-2. Remember that, while no one is obligated to give you or help you get these things, you deserve happiness, health, enjoyment, love, sex, family, and more.
-3. Remember, in the relevant sense, you are the sole and final arbiter of what’s true, good, and beautiful. Feel what you feel. Do what you do. And, again, I think Crowley got something right, here, in the relevant sense (and possibly other things, too; i just haven’t investigated): Do what thou wilt, that is the whole of the law. Love under will. (or something)
-4. […]
-5. […]
-6. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extreme caution. If you have other musculoskeletal risks then you must be careful.
-7. Individuals residing in households with other residents below the age of eighteen or over the age of 65 should not engage in these practices after practice has been initiated, unless there is no one under the age of eighteen in the household and anyone over the age of 65 has consented to your doing these practices in residence after they’ve read this numbered list.
-8. Women who are pregnant or you might become pregnant before asymptoting in these practices (e.g. 2-10 years, depending) should not engage in these practices.
-9. If you are at risk for suicide, psychosis, or mania then you should engage with these practices with extreme caution.
-10. If you have metabolic or cardiovascular disease such that a prolonged, inadvertent sedentary lifestyle (no exercise because of musculoskeletal sequelae) would be dangerous, then you should engage with these practices with caution.
-11. If your immune system is under- or overactive, then you should engage with these practices with caution.
-12. If you have experience abuse, psychological trauma, physical trauma, etc., then you should engage with these practices with caution.
-13. If you engage with these practices then you must be aware that you could permanently ruin the rest of your life or die (sooner than you would otherwise). You must also be aware that the lives of people around you may be ruined or those people may die sooner as a result of your engaging these practices.
-14. […]
-
-
-
-## An exoteric doctrine (v0.2)
-
-Objective and singular truth exists (and/or objective reality exists and objective truth corresponds to it).
-
-Objective and singular goodness(/ethics/morality) exists.
-
-The human mind is typically confused, uncertain, and ignorant. (Or, a typical person is…)
-
-Nevertheless, we can know typically error-prone approximations of that objective truth and we can know/do approximations of that objective goodness.
-
-Further, the human mind is asymptotically perfectible. That is, we can become better people in a practically unlimited way, all things being equal.
-
-???There are more worse ways than better ways to interact with oneself and others.
-
-In any moment you are the final arbiter of what’s true and good. You have to trust yourself while also being open to being wrong. This is hard but can get easier.
-
-It’s possible to do more harm than good when trying or intending to do good and become better. (Also, you are the final arbiter of what’s better.)
-
-Using systematic (albeit self-adapted) method is often or at least sometimes a good way to improve one’s approximations of truth and goodness. Stated alternatively, we can systematically seek to get the things we want and we can systematically come have better wants (want better things).
-
-Some methods are better than others, depending on what you’re trying to do, such as knowing and doing better.
-
-We want what we want until we want something else, and it’s ok or good to want what we want for as long as we want it.
-
-Perhaps evil or malevolence is objective but things are only bad relative to your skill, power, and knowledge. Perfectibility (asymptotically) includes solving all your problems on your terms, in your words, until there is nothing left that is bad.
-
-You might not feel good and safe all the time, but it’s good to want to feel good and safe, and it’s good to seek to stably feel good and safe or to feel good and safe as much as possible.
-
-Without exception, and no matter how subtle the feeling, there’s always a valid sense in which, if it feels wrong it is wrong. [i.e. if X makes you feel wrong, then X is somehow wrong.] People often will systematically and relentlessly deny the relevant sense in order to try to immorally coerce and control you. Senses other than the relevant sense can be used to inappropriately destroy institutions. People trying to control you will try to convince you the former is the latter (among an unlimited number of other tactics that don’t refer to groups or institutions.) Of course, you could be mistaken about something or both could be happening. But that’s what the controlling people will do.
-
-You might get hit by a bus or meteor or your cryo chamber might run out of geopolitics or something. But, it’s possible to have a good life, anyway, and it’s possible to impeccably work to reduce the chances of such bad things while having a good, complete, rich, full, life.
-
-Most people will probably be happier striving for and maintaining a stable romantic pair-bond and having one or more kids.
-
-Love properly labeled and defined is probably a uniquely important thing.
-
-Some truths are exceptionless/universal and eternal or sempiternal. With correct method, you can know those truths by making use of whatever experiences you’ve already had (because those truths will massively redundantly inhere in those experiences without exception.) Some truths and knowledge of correct/good/moral knowledge/behavior are contingent (or relative to, or contextually dependent on, this world and time and place) and, to obtain them, you’ll need to dispel ignorance, to have experiences, to learn. You’ll be wrong and bad a lot. Also, you are good.
-
-Progress is often multidimensionally nonmonotonic.
-
-These are just words. This is just your interpretation of these words. Are there even words? You can’t know anything for sure; and that can be ok, with application of method or just because. There are more precise and accurate and deeper and more correct ways ways to say all the above.
-More and more and more of everyone may come together to do good things that we couldn’t do alone.
-Sometimes, an edgy joke should go here.
-Let go…
-
-
-## Past versions
+### Past versions
 
 - the current thing - phenomenology all plus blending * see also meditation slides folder.rtf
 - devolition--so-called-v2--global unconditional refactoring at finest grain modulo good bad analysis.rtf
@@ -180,13 +126,79 @@ Let go…
 - v72 backup 20191118.rtf
 - v73 backup 20191122.rtf
 - v74 backup 20191122.rtf
+- v75 backup 20191122.rtf
+
+### Credits
+
+…JD, \_\_, \_\_, \_\_, \_\_, \_\_, \_\_, H…
+
+[I have to ask several of these people whether they want to be explicltly credited.]
 
 
-## Credits
+## Preamble (draft!)
 
-…\_\_, \_\_, \_\_, \_\_, \_\_, \_\_, \_\_…
+1. Remember, you’re probably going to die. Remember that the universe may experience heat death. Remember that, in some sense, death and heat death are in some sense just ideas and concepts.
+2. Remember that, while no one is obligated to give you or help you get these things, you deserve happiness, health, enjoyment, love, sex, family, and more.
+3. Remember, in the relevant sense, you are the sole and final arbiter of what’s true, good, and beautiful. Feel what you feel. Do what you do. And, again, I think Crowley got something right, here, in the relevant sense (and possibly other things, too; i just haven’t investigated): Do what thou wilt, that is the whole of the law. Love under will. (or something)
+4. […]
+5. […]
+6. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extreme caution. If you have other musculoskeletal risks then you must be careful.
+7. Individuals residing in households with other residents below the age of eighteen or over the age of 65 should not engage in these practices after practice has been initiated, unless there is no one under the age of eighteen in the household and anyone over the age of 65 has consented to your doing these practices in residence after they’ve read this numbered list.
+8. Women who are pregnant or you might become pregnant before asymptoting in these practices (e.g. 2-10 years, depending) should not engage in these practices.
+9. If you are at risk for suicide, psychosis, or mania then you should engage with these practices with extreme caution.
+10. If you have metabolic or cardiovascular disease such that a prolonged, inadvertent sedentary lifestyle (no exercise because of musculoskeletal sequelae) would be dangerous, then you should engage with these practices with caution.
+11. If your immune system is under- or overactive, then you should engage with these practices with caution.
+12. If you have experience abuse, psychological trauma, physical trauma, etc., then you should engage with these practices with caution.
+13. If you engage with these practices then you must be aware that you could permanently ruin the rest of your life or die (sooner than you would otherwise). You must also be aware that the lives of people around you may be ruined or those people may die sooner as a result of your engaging these practices.
+14. […]
 
-[I have to ask at least these seven people whether they want to be credited.]
+
+## An exoteric doctrine (v0.2)
+
+Objective and singular truth exists (and/or objective reality exists and objective truth corresponds to it).
+
+Objective and singular goodness(/ethics/morality) exists.
+
+The human mind is typically confused, uncertain, and ignorant. (Or, a typical person is…)
+
+Nevertheless, we can know typically error-prone approximations of that objective truth and we can know/do approximations of that objective goodness.
+
+Further, the human mind is asymptotically perfectible. That is, we can become better people in a practically unlimited way, all things being equal.
+
+???There are more worse ways than better ways to interact with oneself and others.
+
+In any moment you are the final arbiter of what’s true and good. You have to trust yourself while also being open to being wrong. This is hard but can get easier.
+
+It’s possible to do more harm than good when trying or intending to do good and become better. (Also, you are the final arbiter of what’s better.)
+
+Using systematic (albeit self-adapted) method is often or at least sometimes a good way to improve one’s approximations of truth and goodness. Stated alternatively, we can systematically seek to get the things we want and we can systematically come have better wants (want better things).
+
+Some methods are better than others, depending on what you’re trying to do, such as knowing and doing better.
+
+We want what we want until we want something else, and it’s ok or good to want what we want for as long as we want it.
+
+Perhaps evil or malevolence is objective but things are only bad relative to your skill, power, and knowledge. Perfectibility (asymptotically) includes solving all your problems on your terms, in your words, until there is nothing left that is bad.
+
+You might not feel good and safe all the time, but it’s good to want to feel good and safe, and it’s good to seek to stably feel good and safe or to feel good and safe as much as possible.
+
+Without exception, and no matter how subtle the feeling, there’s always a valid sense in which, if it feels wrong it is wrong. [i.e. if X makes you feel wrong, then X is somehow wrong.] People often will systematically and relentlessly deny the relevant sense in order to try to immorally coerce and control you. Senses other than the relevant sense can be used to inappropriately destroy institutions. People trying to control you will try to convince you the former is the latter (among an unlimited number of other tactics that don’t refer to groups or institutions.) Of course, you could be mistaken about something or both could be happening. But that’s what the controlling people will do.
+
+You might get hit by a bus or meteor or your cryo chamber might run out of geopolitics or something. But, it’s possible to have a good life, anyway, and it’s possible to impeccably work to reduce the chances of such bad things while having a good, complete, rich, full, life.
+
+Most people will probably be happier striving for and maintaining a stable romantic pair-bond and having one or more kids.
+
+Love properly labeled and defined is probably a uniquely important thing.
+
+Some truths are exceptionless/universal and eternal or sempiternal or timeless or outside-of-time or something. With correct method, you can know those truths by making use of whatever experiences you’ve already had (because those truths will massively redundantly inhere in those experiences without exception.) Some truths and knowledge of correct/good/moral knowledge/behavior are contingent (or relative to, or contextually dependent on, this world and time and place) and, to obtain them, you’ll need to dispel ignorance, to have experiences, to learn. You’ll be wrong and bad a lot. Also, you are good.
+
+Some truths are exceptionless/universal and eternal or sempiternal. With correct method, you can know those truths by making use of whatever experiences you’ve already had (because those truths will massively redundantly inhere in those experiences without exception.) Some truths and knowledge of correct/good/moral knowledge/behavior are contingent (or relative to, or contextually dependent on, this world and time and place) and, to obtain them, you’ll need to dispel ignorance, to have experiences, to learn. You’ll be wrong and bad a lot. Also, you are good.
+
+Progress is often multidimensionally nonmonotonic.
+
+These are just words. This is just your interpretation of these words. Are there even words? You can’t know anything for sure; and that can be ok, with application of method or just because. There are more precise and accurate and deeper and more correct ways ways to say all the above.
+More and more and more of everyone may come together to do good things that we couldn’t do alone.
+Sometimes, an edgy joke should go here.
+Let go…
 
 
 ## Introduction
@@ -1061,6 +1073,19 @@ You might also see the “gentle on-ramp”/“onramp” section elsewhere in th
 
 ## Practice
 
+> […] 
+>
+>  I claim that one can't just pick a method and push that button until the end. One eventually has to transcend whatever instructions they're doing to find the "real feedback loops and gradients" that the words are trying to point at.
+>
+> [For what it’s worth], my method is intended to painstakingly direct people to the really real feedback loops they’re actually using to bootstrap them to doing an ever-better thing behind the thing.
+>
+> 1. The Main practices (abstractly specified, closed set, concretely instantiable in each moment)
+> 2. Prelim/Aux practices (call out degrees of freedom to feed into the main practices)
+> 3. Meta protocol (explicit bootstrapping and error correction)
+> 4. Lists (more calling out degrees of freedom and ways to slice the pie, to feed into the main practices)
+>
+> […]
+
 ### Risks
 
 _[from: [https://meditationstuff.wordpress.com/2019/04/07/2000-hours-to-full-classical-enlightenment-plus-risks/]()]_
@@ -1237,7 +1262,7 @@ Thus; and consider writing by hand when you’re doing this.
 
 ##### Say or think truth
 
-Verbalize a seeming relevant seeming truth. [_sic_] Repeat.
+Verbalize a seemingly relevant seeming truth. [_sic_] Repeat.
 
 ##### Explore *how* you’re thinking
 
@@ -2532,6 +2557,7 @@ This list is a work in progress:
 - knowledge/awareness of “error”
 - knowledge/awareness of “two things that are combined that shouldn’t be”
 - knowledge/awareness of wrongness/incorrectness
+- knowledge/awareness of “this is my life, now” [\~transient]
 
 ##### p4
 
@@ -2719,6 +2745,13 @@ This list is a work in progress:
 1. Does the world need to make sense in a very particular way? How/what is that way?
 1. How is your mind working right now? In what manner?
 1. What language or meta-language is your mind using? What is the lingua franca of your mind?
+1. What is the world?
+1. What is the relationship between meaning, completion, imminence, now, and stability, in no particular order?
+1. Say there’s something X that nothing “external” to you can give you, or that you can’t get doing “external” things. What is X?
+1. Say there’s something X that can only be gotten through “internal rearrangement.” What is X?
+1. Has anything ever-always-as-yet-still been completely untouched by all goal-seeking in your life? If so, what/where is that?
+1. Do you want to fuck and/or be accepted by your mom? Do you want to fuck and/or be accepted by your dad? Do you want to kill either or both of your parents or any or all your siblings?
+1. What as an AMAB or AFAB (a male assigned at birth, a female assigned at birth) or intersex or contingent anything, can you definitely or merely apparently never receive, have, get, do, etc.?
 
 
 ##### p9
@@ -3367,6 +3400,10 @@ And then p2 is the enactment of global wayfinding which includes upgrading itsel
 >
 > Shaking, twitching, emoting, vocalizations, and large movements are sometimes necessary and sometimes “self-distraction” (and sometimes a mixture). The meta protocol can be engaged to sort though and piece apart what should be allowed and encouraged and what should gently be disengaged or blocked.
 
+### Good(ness) & bad(ness)
+
+What is goodness? What is badness? What is good? What is bad? What is good for you? What is bad for you? What does “good” mean to you? What does “bad” mean to you? Morally good, ethically good, personally good, good feeling? For you? For others? Morally bad, ethically bad, bad feeling? For you? For others? Usefulness? Value? Worth? Worthiness? Helpfulness? Spiritually? Practically? Partially good? Partially bad? Generally/contextually good? Generally/contextually bad? Universally good? Universally bad? Wholly good? Wholly bad? Mixed good and bad? More good? Less good? More bad? Less bad? Better? Worse? Best? Worst? [why not in meta, p/a, main practices and instead in lists and more is left as exercise to reader. Cam of course play with in relation to any of p/a, main practices (including p1) meta, and so forth.] doing good vs being good vs having  good vs experiencing good. Doing bad vs being bad vs having bad vs experiencing bad(ness). Intrinsic/essential/inherent goodness vs extrinsic/secondary/acquired/contextual goodness. Intrinsic/essential/inherent badness vs extrinsic/secondary/acquired/contextual badness. Goodness of form. Goodness of mode. Badness of form. Badness of mode. Goodness as an attribute. Badness as an attribute. Subsistent goodness. Subsistent badness. Where and what and how and when  and why and for what purpose is goodness? Where and what and how amd why and when and for what purpose is badness? What causes goodness? What causes badness? When is goodness an effect? When is badness an effect? When are goodness and badness neither a cause nor an effect? Is felt goodness always good? Is felt badness always bad? Immediate goodness. Mediate goodness. Immediate badness. Mediate badness. Direct goodness. Indirect goodness. Direct badness. Indirect badness. Sometimes good. Sometimes bad. Acting good. Acting bad. Appearing good. Appearing bad. Somehow good. Somehow bad. Artificially good. Artificially bad. Naturally good. Naturally bad. Stably good. Stably bad. Tending (toward) good. Tending (toward) bad. Historically good. Historically bad. Historically mixed. Eventually good. Eventually bad. Highest good. Lowest good. Highest bad. Lowest bad. Initial good. Initial bad. Final good. Final bad. Good for X. Bad for X. Good for X for Y. Bad for X for Y. Structurally good. Structurally bad. Independently good. Independently bad. Dependently good. Dependently bad. Separably good. Separably bad. Inseparably good. Inseparably bad.
+
 ### Some “big” useful concepts
 
 - exceptionlessness
@@ -3383,6 +3420,7 @@ And then p2 is the enactment of global wayfinding which includes upgrading itsel
 - existing/obtaining-timelessly
 - existing/obtaining-eternally
 - existing/obtaining-sempiternally
+- existing/obtaining-outside-of-time
 - perfection
 - flawlessness
 - unity
