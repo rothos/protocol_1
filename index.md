@@ -18,19 +18,19 @@ I make many bold assertions in this document, and sometimes I use words like usu
 
 ### Funding
 
-Please support this open access work: [https://www.patreon.com/meditationstuff]()
+Please support this open access work: <https://www.patreon.com/meditationstuff>
 
 [As of this version, now at 8 patrons and $101/month USD. Next round number $110; 9$ to go; 92% complete.]
 
 ### Links
 
-Author web presence: [https://meditationstuff.wordpress.com]()
+Author web presence: <https://meditationstuff.wordpress.com>
 
-Canonical location of this document: [https://github.com/meditationstuff/protocol_1]()
+Canonical location of this document: <https://github.com/meditationstuff/protocol_1>
 
 **Alternative versions.** Sometimes individuals publish lightly transformed versions of this document to facilitate engagement with the material while it is still in draft form. These versions may be out of date:
 
-* [https://rothos.github.io/protocol_1/]()
+* <https://rothos.github.io/protocol_1/>
 
 ### Past versions
 
@@ -1088,7 +1088,7 @@ You might also see the “gentle on-ramp”/“onramp” section elsewhere in th
 
 ### Risks
 
-_[from: [https://meditationstuff.wordpress.com/2019/04/07/2000-hours-to-full-classical-enlightenment-plus-risks/]()]_
+_[from: <https://meditationstuff.wordpress.com/2019/04/07/2000-hours-to-full-classical-enlightenment-plus-risks/>]_
 
 The stuff below has a mild and transient version all the way up to an extreme and chronic version. I describe sort of the worst-case scenarios below. In the worst case, you might need to drop everything, or as much as you  possibly can, for weeks, months, or longer to solve it, on your own or finding a teacher or teachers who can help. This could be very costly to finances and relationships. If you experience flickers of any of the below, and you likely will, it happens, a lot, it certainly doesn’t mean you’re on your way to a worst-case scenario, but you should treat flickers calmly but with great seriousness. Don’t make seeming “progress” at the expense of even a slight uptick in the direction of any of the below. Again, you will likely skirt the faint or even moderate edges of all this stuff, so don’t freak out, and/but this is all very, very serious stuff.
 
@@ -1096,7 +1096,7 @@ The stuff below has a mild and transient version all the way up to an extreme an
 
 2. At the very worst, due to weird subtle stuff that you’ll begin experience extreme sensitivity to other people. Like, being around people, working shoulder-to-shoulder with people, being on the phone or video chat with people, sleeping next to someone you care about, will become radically intolerable for some number of weeks or months. This is a real risk. This could destroy relationships both intimate and financial. Due to the same weird subtle stuff, people might come to find being around you to become completely intolerable even if you’re fine being around them. And this as well could destroy relationships both intimate and financial. (To me, this means that meditation and pregnancy or even having kids under eighteen probably don’t mix or mix in risky ways.)
 
-3. Whether weird subtle stuff or not, your mind is figuring out how to change itself, and that’s a lot of power for a still-dumb mind to have. So we’ll call this interim magnification of negative traits. There is a (possibly quite long) period where self-deception as well as harm to others can very easily increase, where the meditator is blind to it and also really hurt by all the accusations and doesn’t respond to them in a super-constructive way. This will likely be you, especially if you think of yourself as a person who is generally really careful about this sort of thing and/or who doesn’t have the propensity or desire to hurt other people. For more, see here: [https://meditationstuff.wordpress.com/2019/03/30/clickbait-title-you-are-so-bad-real-title-benevolence-subtle-imposition-manipulation-and-control-and-ideology/]()
+3. Whether weird subtle stuff or not, your mind is figuring out how to change itself, and that’s a lot of power for a still-dumb mind to have. So we’ll call this interim magnification of negative traits. There is a (possibly quite long) period where self-deception as well as harm to others can very easily increase, where the meditator is blind to it and also really hurt by all the accusations and doesn’t respond to them in a super-constructive way. This will likely be you, especially if you think of yourself as a person who is generally really careful about this sort of thing and/or who doesn’t have the propensity or desire to hurt other people. For more, see here: <https://meditationstuff.wordpress.com/2019/03/30/clickbait-title-you-are-so-bad-real-title-benevolence-subtle-imposition-manipulation-and-control-and-ideology/>
 
 4. So then, finally, there’s emotional and motivational dysregulation, sometimes extreme, e.g. extreme suffering and can’t do anything, for hours or days or even weeks, or even more. How fucking weird and terrible things can get, in the worse case, cannot be overemphasized. And, it goes without saying that this can be bad for relationships and finances. Interestingly, I currently don’t think “psychosis psychosis” [_sic_] is much of a risk, even when things are super crazy weird, maybe like little flashes that are rapidly corrected, but there’s probably a non-zero risk.
 
@@ -3438,7 +3438,7 @@ What is goodness? What is badness? What is good? What is bad? What is good for y
 
 ## Bibliography (incomplete)
 
-- [https://jhanajenny.com/paragon-tantric-practice/]() (Last accessed: 2019-07-04; 11:16 CDT)
+- <https://jhanajenny.com/paragon-tantric-practice/> (Last accessed: 2019-07-04; 11:16 CDT)
 - _EMDR Up Close: Subtleties of Trauma Processing 1st Edition_ by Dr. Philip Manfield. CreateSpace Independent Publishing Platform; 1 edition (September 16, 2013). ISBN-10: 1492399620. ISBN-13: 978-1492399629
 
 <div style='margin-top: 10em'></div>
