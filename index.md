@@ -191,8 +191,6 @@ Love properly labeled and defined is probably a uniquely important thing.
 
 Some truths are exceptionless/universal and eternal or sempiternal or timeless or outside-of-time or something. With correct method, you can know those truths by making use of whatever experiences you’ve already had (because those truths will massively redundantly inhere in those experiences without exception.) Some truths and knowledge of correct/good/moral knowledge/behavior are contingent (or relative to, or contextually dependent on, this world and time and place) and, to obtain them, you’ll need to dispel ignorance, to have experiences, to learn. You’ll be wrong and bad a lot. Also, you are good.
 
-Some truths are exceptionless/universal and eternal or sempiternal. With correct method, you can know those truths by making use of whatever experiences you’ve already had (because those truths will massively redundantly inhere in those experiences without exception.) Some truths and knowledge of correct/good/moral knowledge/behavior are contingent (or relative to, or contextually dependent on, this world and time and place) and, to obtain them, you’ll need to dispel ignorance, to have experiences, to learn. You’ll be wrong and bad a lot. Also, you are good.
-
 Progress is often multidimensionally nonmonotonic.
 
 These are just words. This is just your interpretation of these words. Are there even words? You can’t know anything for sure; and that can be ok, with application of method or just because. There are more precise and accurate and deeper and more correct ways ways to say all the above.
