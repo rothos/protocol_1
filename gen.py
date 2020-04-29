@@ -14,9 +14,9 @@ html = """
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div id='darkmode' class='lightmode' style="position:fixed;bottom:1em;right:1em;border:2px solid #888;padding:.05em.2em;border-radius:4px;cursor:pointer;z-index:5000">toggle dark mode</div>
-    <div id='hamburger'><span id='toc_open'>&#9776;</span></div>
-    <div id="toc" class="lightmode"><span id='toc_close' class="lightmode">&times;</span></div>
+    <div id='darkmode' class='lightmode'>toggle dark mode</div>
+    <div id='hamburger'><div id='toc_open'>&#9776;</div></div>
+    <div id="toc" class="lightmode"><div id='toc_close' class="lightmode"><span>&times;</span></div></div>
     <div id='content'>%s</div>
 
     <script src="jquery-1.8.3.min.js"></script>
