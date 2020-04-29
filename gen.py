@@ -1,5 +1,6 @@
 import io
 from markdown import markdown
+from datetime import datetime
 
 html = """
 <html>
@@ -38,6 +39,9 @@ infile = io.open('index.md', mode='r', encoding='utf-8')
 text = infile.read()
 rendered_text = markdown(text).encode('utf-8')
 infile.close()
+
+rendered_text = rendered_text.replace('%%DATE%%',
+    datetime.utcnow().strftime('%Y-%m-%d-%H:%M:%S')+" UTC")
 
 outfile = open('index.html', 'w')
 outfile.write(html % rendered_text)
