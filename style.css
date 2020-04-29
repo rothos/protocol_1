@@ -1,11 +1,113 @@
+html, body, body * {
+    box-sizing: border-box;
+}
+
+
+
+.lightmode { background-color: #fff; }
+.darkmode {
+    color: #ddd;
+    background-color: #222 !important;
+    text-shadow: none;
+}
+    .darkmode *, .darkmode .nav-list > li > a {
+        text-shadow: none;
+    }
+    .darkmode a {
+        color: #70c8fc;
+    }
+    .darkmode a:hover {
+        color: #005580;
+    }
+
+    /* This is for the TOC in darkmode */
+    .darkmode .nav-list > .active > a {
+        background-color: #334a68;
+        color: #90d8ff;
+    }
+    .darkmode .nav > li > a:hover,
+    .darkmode .nav > li > a:focus {
+        background-color: #233650;
+        color: #4098dc;
+    }
+
 #content {
-    margin: 0 auto;
-    max-width: 600px;
-    padding-left: 200px;
     font-family: "Lato", sans-serif;
     line-height: 1.38;
     overflow-wrap: break-word;
 }
+
+/* Mobile */
+@media screen and (max-width: 800px) {
+    #content {
+        padding: 60px 1em 1em 1em;
+    }
+    #hamburger {
+        position: fixed;
+        z-index: 1000;
+        top: 0;
+        left: 0;
+        background-color: #fff;
+        border-bottom: 1px solid #888;
+        padding-left: 15px;
+        padding-top: 5px;
+        width: 100%;
+        height: 35px;
+        font-size: 30px;
+        cursor: pointer;
+    }
+    #toc {
+        margin: 0;
+        padding-top: 35px;
+        border-radius: 0;
+        border-left: none;
+        border-top: none;
+        border-bottom: none;
+        transition: .18s ease;
+        left: -300px;
+        z-index: 1050;
+        max-height: 100% !important;
+        height: 100% !important;
+    }
+        #toc.show {
+            transition: .18s ease;
+            left: 0;
+        }
+        #toc.show #toc_close {
+            position: fixed;
+            top: 0;
+            left: 0;
+            padding-left: 15px;
+            padding-top: 5px;
+            width: 100%;
+            height: 35px;
+            z-index: 2000;
+            font-size: 30px;
+            opacity: 1;
+            cursor: pointer;
+            border-bottom: 1px solid #888;
+        }
+}
+/* Desktop */
+@media screen and (min-width: 800px) {
+    #hamburger {
+        display: none;
+    }
+    #content {
+        margin-left: 325px;
+        max-width: 600px;
+        padding: 1em 1em 1em 1em;
+    }
+    #toc {
+    }
+        #toc #toc_close {
+            display: none;
+        }
+}
+
+
+
+
 
 blockquote {
     border-left: 3px solid #bbb;
