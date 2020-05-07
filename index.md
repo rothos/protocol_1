@@ -5,6 +5,8 @@
   <p>This document was last updated %%DATE%%.</p>
 </div>
 
+See also the [preliminary/auxiliary practices random sampler](aux/).
+
 ## Mastery Protocol
 
 v83 Mark D Lippmann Method (“Mastery Protocol”)

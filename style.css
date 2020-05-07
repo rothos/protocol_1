@@ -38,7 +38,7 @@ html, body, body * {
     .darkmode .nav > li > a:hover,
     .darkmode .nav > li > a:focus {
         background-color: #233650;
-        color: #4098dc;
+        color: #90d8ff;
     }
 
 #content {
