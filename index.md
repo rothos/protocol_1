@@ -5834,42 +5834,10 @@ Finally, “retraumatization” is a thing—being exposed to “triggers” too
 
 All that said, it can be fine good to systematically, actively seek out some triggers, some of the time, when you’re ready or as a careful (or accidental) experiment.
 
-
 **Informal working definitions:**
 
 - trigger ~= something that can or does cause an abrupt (negative) state change, or change to local, behavioral propensities, that doesn’t depend on the rest of the environmental context
 - trauma ~= bodymind state/feeling/content/material that’s needs extra steps to be safe to re-experience, that in its dormant/latent state is a bottleneck/dependency on other/further valued changes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Bibliography (incomplete)
