@@ -1,7 +1,7 @@
 import io
 import json
 
-infile = io.open('aux1.txt', mode='r', encoding='utf-8')
+infile = io.open('aux.txt', mode='r', encoding='utf-8')
 text = infile.read()
 infile.close()
 
