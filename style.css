@@ -147,6 +147,7 @@ a {
 
 h2,h3,h4 {
     margin-top: 2rem;
+    line-height: 1.35;
 }
 h5,h6 {
     margin-top: 1rem;

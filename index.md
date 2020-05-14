@@ -9,7 +9,7 @@ See also the [preliminary/auxiliary practices random sampler](aux/).
 
 ## Mastery Protocol
 
-v83 Mark D Lippmann Method (“Mastery Protocol”)
+v84 Mark D Lippmann Method (“Mastery Protocol”)
 
 ### Copyright
 
@@ -136,6 +136,7 @@ Canonical location of this document: <https://github.com/meditationstuff/protoco
 - v80 backup 20191207.rtf
 - v81 20200128 backup.rtf
 - v82 backup 20200225.rtf
+- v83 20200405 backup.rtf
 
 
 ### Credits
@@ -797,9 +798,83 @@ Because the subtle signs are harder to detect and sometimes can’t be detected 
 
 See also:
 
-Amor, Aleaxandra. _Cult, A Love Story: Ten Years Inside a Canadian Cult and the Subsequent Long Road of Recovery._ Fat Head Publishing, 2013.
+Amor, Alexandra. _Cult, A Love Story: Ten Years Inside a Canadian Cult and the Subsequent Long Road of Recovery._ Fat Head Publishing, 2013.
 
-#### XIII: Teachers and leader timelines
+#### XIII: Incomplete list of relatively succinct concepts/definitions
+
+Of course there’s many ways to use the words below! The defintions given are partial, flawed, and idiosyncratic.
+
+##### Misleadingness
+
+It can be helpful to remember that someone can be misleading or deceptive without lying. They might very carefully only say things that are true (“selective-truthing”). They might very carefully only say things that aren’t quite relevant. They might say things in response to questions that aren’t actually answers to the questions asked. They might give special, private meanings to words and phrases that they can sufficiently defend at a later time as being what they really meant. They might say ambiguous things that can mean both something and it’s opposite, depending on later events or later clarification.
+
+##### Authoritarianism
+
+“The enforcement or advocacy of strict obedience to authority at the expense of personal freedom” [according to google]
+
+Such advocacy, as mentioned above, can be both explicit and implicit. If explicit, there might be reasons given. If implicit, behavior will be presumptive. Reasons might involve appeals to the greater good or the need to make hard tradeoffs or for the (necessity of the) prevention of something highlighted as bad, either imminently or inevitably in the far future. Many other reasons and arguments can be given. Also: tragedy of the commons, volunteer’s dilemma, threat of anarchy or dog eat dog or inefficiency or…
+
+One possible way to dissolve the seeming need for a blanket ideology involving overt or covert authoritarianism might be to get very concrete about “what would actually happen” in various particular, realistic scenarios, involving specific people, groups, or places.
+
+##### Coercion
+
+A person causing another person to unresponsively lock in stable or escalating patterns of mind or behavior, usually in a way that has utility for the preson doing the causing. If a person is coerced, then that person will have resources bound up in executing, elaborating upon, or being prepared to execute the mechanical behavior. The person will be less creative, less generative, less able to flexibly use environmental opportunities to changes and grow, relative to the degree they have been or are being coerced. [I threw this definition together, and there are cleaner, more self-consistent ones out there.]
+
+A related concept is the usual “learned helplessness,” where a person has now has new “waiting steps” such that they’re dependent on occurences outside of themselves in order to move forward on various things.
+
+This is one route that these sorts of things can be facilitated:
+
+1. Demonstration of inadequacy, demonstrate a person is inadequate on some
+   (possibly narrow) dimension. Do this be leading a person to a surprising,
+   possibly negative result, with the implication they weren’t enough, that
+   they were in error.
+2. Demonstration of generality. Demonstrate to the person some degree of
+   generalization, that this inadequacy more generally applies.
+3. Hope for overgeneralization. Hope the person generalizes their inadequacy
+   as much as possible.
+4. Demonstation of non-self-bootstrapping. Ideally-perversely, repeat steps
+   1-3, starting with some narrow demonstration that the person can’t resolve
+   (at least once aspect of the original inadequacy) and again ultimately hope
+   that person overgeneralizes to “not being able to become able to help
+   themselves,” on as many wanted dimensions as possible.
+
+##### Idolatry
+
+One might grant that goodness is objective, real, in some sense.
+
+But, one might claim a fixed, “exteriorized” defintion for that good thing. “Goodness is X.” “Goodness is righ there.” “Goodness is this.” “Goodness is in this.” “Goodness has object-ness or thing-ness.”
+
+A possible correction is to consider that irrespective of any objective dimensions of goodness, it still must be subjectively, fluidly found, by route of a personal, unfixed path. One could take this as provisional and explore, over time, whether it has validity, including even the concept of “goodness” itself and/or the various/many senses that that word might have, inclusive of related useful concepts/words/ideas, and so forth.
+
+##### Maximization
+
+Appeals to or capitalization on insecurity or paranoia (“never enough”) by evoking ideas, images, or promises of “infinity,” “hugeness,” “foreverness,” “everythingness,” “all of it,” etc.” (as either carrot or stick)
+
+Pascal’s mugging (idiosyncratic interpretation) - 
+
+“I (may have) rare or unique things/goods of great value that you won’t be able to get anywhere else, ever, forever, if you don’t stick around or do as I say.”
+
+##### Stipulation
+
+Stipulation is very useful tool when playing with arguments, thought experiments, and ideas. (“Stipulate, let, grant, given, say…”) Here, I mean something more narrow.
+
+There’s a pattern where someone will offer reasonable assumptions, and then narrowly follow the implications of those assumptions, while implicitly denying that any other reasonable assumptions are possible or that there’s even potentially another, better activity to be doing at all.
+
+For example, one might say, “The world consists of agents who have goals.” A bunch of implications would follow from that, and it seems reasonable as a starting point for discussion. But what of resources, nature, the material versus procedural nature of those goals, the implications for whether those agents have experiences or not, and the relevance of that or not, in the discussion, and so forth. (Not to mention, for this example, considering e.g. humans to be agents who have collections of goals gets philosophically problematic very quickly, but, again, can be stonewalled or gaslighted as the only reasonable starting point for a large class of communicative contexts.)
+
+Besides “stipulation,” other words for this might be “frame control,” “schematic dominance,” “framing,” “out of sight out of mind,” “what you see is all this is…”
+
+An extreme version of this is foundationalism, according to wikipedia: “Foundationalism concerns philosophical theories of knowledge resting upon justified belief, or some secure foundation of certainty such as a conclusion inferred from a basis of sound premises.” This is a very useful frame! But engagement with explicit premises as an activity as such is not the only way to interact or to seek truth or goodness or etc. And/but, the implication might be that any other activity is worthless, dangerous, immature, etc.
+
+Stipulations can build up in the environment, can become implicit, omnipresent, and also interjective—it might become a norm that some people can add new stipulations at any time (whenever it’s convenient for them) and other’s can’t. And this is way to control discourse and behavior.
+
+Another thing that can happen is “matching,” where people’s perceptions and behavior tend to gel around explicit assertory statements, cf confirmation bias and/but with respect to behavior and perception as well.
+
+##### More
+
+This list and the entries under each current item are very incomplete!
+
+#### XIV: Teachers and leader timelines
 
 Timelines are very long. Meditative practice can take thousands of hours to make substantial progress. Real progress is “de-layering,” but many seemingly good practices and produce a combination of layering and de-layering.
 
@@ -815,7 +890,7 @@ But, “asymptotic perfection” is something good teachers and any serious prac
 
 Mistakes, blindspots, and fuckups should be expected, though. And if someone is doing something weird, that you’re vulnerable to, you might want to check back with them every few years instead of sticking with them and experiencing quite a bit of harm, before you realize it, that you ultimately have to undo to make further progress.
 
-#### XIV: Layer theory and high-level principles of ethical, nonharmful, noncoercive, safe interaction:
+#### XV: Layer theory and high-level principles of ethical, nonharmful, noncoercive, safe interaction:
 
 Generally but not universally, de-layering, or at least not adding layering, is good. Layering is still good as a stopgap, when things are happening too surprisingly, too fast, or in some other unhandleable way, for a particular person.
 
@@ -853,7 +928,7 @@ Other people’s intelligence, skill, compassion, and love keep us safe, not the
 
 In any case, if someone doesn’t need to layer in your presence, then they can grow in your presence. And, if this is mutual, then you can grow together.
 
-#### XV: It’s not cool
+#### XVI: It’s not cool
 
 It’s best to consider the powers, the siddhis, the effects as not cool. They can become a thing in communities of practice. And they can become an ugly, escalatory, ruinous thing between practitioners. One or both people can do disendorsed, yet still hate-filled, tremendous harm to the other or to people caught in the crossfire.
 
@@ -869,7 +944,7 @@ Try not to hold grudges as this can increase meditation timelines. But, so too, 
 
 And, you can just leave. You can find meaning elsewhere. You don’t need what they’re selling if it’s a group situation.
 
-#### XVI: The quiet interaction and beauty of subtle interpersonal effects
+#### XVII: The quiet interaction and beauty of subtle interpersonal effects
 
 (You may wish to read “part X: the late-stage meditator in community” before this section if you’re skipping around.)
 
@@ -889,11 +964,11 @@ But if a community hasn’t been “de-layered, de-compensated, cracked open” 
 
 \*\*Katz, Richard. _Boiling energy: Community healing among the Kalahari Kung._ harvard university Press, 1982.
 
-#### XVII: Depth of horror
+#### XVIII: Depth of horror
 
 Horrible things have happened to individuals, often in childhood. Violent abuse, sexual abuse, neglect, extreme coercion. There is religious terror around hells, devils, demons. Terrible things happen to parents and grandparents, too, and that will affect the kids. There is also medical and death horror, we see relatives suffer and die in front of us or we walk in on dead bodies. Even if onself or relatives ultimately survive it can still be very tulmultuous. And there is cultural horror—slavery, extreme racism and bigotry, colonization, imperialism, genocides, holocausts, world wars, ancient curses, ancient gods, etc. All of this is rattling around in people’s minds and between minds, brought forwards through the centuries and decades. The skilled meditator will systematically work through all of this and their own stuff, over time. But there’s a lot and it takes a long time. In the meantime, one is exposed to it, in the water, as it were. And if something gets decompensated, cracked open in a group environment, then it can cause problems for multiple people.
 
-#### XVIII: Inappropriate reification
+#### XIX: Inappropriate reification
 
 Remember all the above is just a theory of convenience, a story. Find your own truth. Don’t inappropriately reify any of this or take my word for it. Good science is still true. Planes still fly. Government still do the thing they do. Computers compute. Stuff that’s true is simultaneously true. Give yourself time to integrate new, surprising stuff into a unified worldview. It will take some time.
 
@@ -3758,7 +3833,9 @@ To the degree that it’s safe, have a late-stage freakout and even later ones. 
 
 ##### Systematic suffering
 
-Intentionally suffer (gently) in various ways, dredge up suffering, call up latent suffering, turn towards, catch, facilitate suffering that is present or arises (non-physically, physically completely safely, with minimal drama and extraneous emotion).
+Intentionally suffer (gently) in various ways, dredge up suffering, (gently, aligned-ly, patiently) find, call up latent suffering, turn towards, catch, go into, facilitate suffering that is present or arises (non-physically, physically completely safely, with minimal drama and extraneous emotion).
+
+*Comment:* One might add “inhabit,” or “dwell in,” but those seem to connote or imply or presuppose or “pre-conceive” (“too much”?) permanence.
 
 ##### Notice grasping/accumulating versus suffering
 
@@ -3771,6 +3848,10 @@ Have a solo or small-group suffering party.
 ##### 24-7 suffering party
 
 Have an intentional 24-7 suffering party (temporarily)
+
+##### Suffering permission
+
+If it’s safe, (try) give(ing) yourself permission to suffer (maybe implicitly/just so or for a (semi-)explicit block of now-to-future time.
 
 ##### Drama and non-drama
 
@@ -4302,6 +4383,9 @@ This list is a work in progress:
 - knowledge/awareness of the-very-thing-that-ness
 - knowledge/awareness of anything-but-the-mainline(-but-still-forward)-ness
 - knowledge/awareness of artificiality
+- awareness of suffering
+- awareness of grasping/accumulating
+- awareness of anxiety
 
 ##### p4
 
@@ -4554,6 +4638,8 @@ This list is a work in progress:
 1. [jd] If you had a remote (or option) that could fast forward through time (you'd still be living your life but would "wake up" at a future moment), what would you do? Would you use it? would you do it?
 1. [h] Under what circumstances would you betray your loved ones/yourself/your ideals in order to survive? [what’s that like?]
 1. [h] What dead ends are you heading toward or stuck at?
+1. What has been the same or unchanging since your earliest memory?
+1. Why do you expect everything to work, versus suffering, failure, disappointment, harm?
 
 ##### p9
 
@@ -5078,7 +5164,9 @@ Important: It’s normal to “orbit” this document and the practices, to read
 
 ### A note on force (plus a brief mention of “redo-to-undo”)
 
-[minimally edited placeholder transcript] I want to call this a brief note on Force. I've made it pretty clear in different places to not be forcy. And I don't think I'll define forcy, here. But, there's something about getting something to happen, something about threading a needle in a way that feels potentially bad. There's potentially a sense of effort. It can be extreme, subtle, or somewhere in between.
+[minimally edited placeholder transcript] I want to call this a brief note on Force. I've made it pretty clear in different places to not be forcy. And I don't think I'll define forcy, here. But, there's something about getting something to happen, something about threading a needle in a way that feels potentially bad. (Though it might only feel slightly bad! It might feel like necessary-tradeoff progress. Try to avoid needle-threading in the first place! It might almost never be worth it, if avoidable. Try to figure out or incline towards why it’s happening in the first place versus something cleaner.) There's potentially a sense of effort. It can be extreme, subtle, or somewhere in between.
+
+But let’s say needle-threading has already happening. Force has already been used in the system. (Usually there’s some, or even a lot, even if there’s been minimal needle-threading. [And then, by definition-ish, there will have been force, if there has been needle-threading.] Force is often a strategy that gets used, in any case, maybe prior to even having started to meditate.)
 
 There's a thing that the mind does, which is, in order to sort of do something for the last time or in order to sort of undo something, the mind kind of like replays it or re-does it, that one last time.
 
@@ -5089,6 +5177,8 @@ So sometimes it's important to surrender to or to go into that what is generally
 And this “going into,” or “allowing,” or “surfacing,” is for the purposes of sort of self-liberating that remaining forcing or dissolving it or undoing it or undoing its leading edge.
 
 So this is nuancing on top of the general but not universal principle of avoiding forciness or forcing. (And this “redo-to-undo” principle/heuristic also more generally applies. See p2 for more pith pointers to this.)
+
+Note on needle-threading or threading the needle: One can use needle-threading as sort of a neutral term, and there can be good versions and bad versions. Neutrally, the term is intended to invoke a sense of “‘correctly’ navigating a narrow path forward.” Good versions might be careful, gentle, precise that lead to ultimately stably expanded optionality. Bad versions are sort of “carefully, precisely making a globally-net-negative tradeoff, making seeming local progress but also ultimately making more work than if had done something different.” This latter version might sometimes feel like “doing something that’s alongside or causing joint-grinding muscle tension, somewhere.” Use of the meta protocol can help to determine whether a good version or bad version is happening or if it might be better to be doing something else entirely. [The opposite of needle-threading might be “breadth-first-ing” [cf. depth-first-ing, too]. Both/all can be good, for various reasons, at different times.]
 
 ### Meditating by coincidence
 
@@ -5313,6 +5403,12 @@ If you’re eating fewer, larger meals, be careful with your kidneys and liver.
 
 Consider a multivitamin in powder form or in many pills per day, so you can titrate. I know multivitamins are supposed to do nothing or be detrimental, but you might find subdoses to be seemingly very helpful.
 
+### Historical and contemporary difficulties and uncertainties of life [experimental section]
+
+**Warning:** This section is experimental and should be approached with caution if you have live existential/cosmological/eschatological/metaphysical issues or live mania, paranoia, or possibly other things.
+
+In no particular order: deaths of parents, significant others, children, other family, natural disaster, solar flares, pandemics, war, invasion, food insecurity, systemically messed up and flawed healthcare, accidents, nuclear war, phishing, failure of cryogenic preservation if you go that route or being tortured and unable to die when you wake up until some very large energy source runs out, Alzheimer’s, Parkinson’s, chronic fatigue, physical disability, nation/state/country failure, sudden death, cancer, stroke, agents of power knowing exactly who you are and the uncertain threat of them coming to harm, kill, or take you away (in front of significant others, children, or other family of friends).
+
 
 ## Bibliography (incomplete)
 
@@ -5343,7 +5439,7 @@ Consider a multivitamin in powder form or in many pills per day, so you can titr
 1. Duží, Marie, Bjorn Jespersen, and Pavel Materna. _Procedural semantics for hyperintensional logic: foundations and applications of transparent intensional logic._ Vol. 17. Springer Science & Business Media, 2010.
 1. _Naming and Necessity_, Kripke
 1. _Reference and Existence_, Kripke
-1. _General Semantics_, Korzybski Kayakawa
+1. _General Semantics_, Korzybski Hayakawa
 1. _Philosophical Investigations_, Wittgenstein
 1. _Meditation for the Love of It_, Kempton
 
