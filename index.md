@@ -9,7 +9,7 @@ See also the [preliminary/auxiliary practices random sampler](aux/).
 
 ## Mastery Protocol
 
-v85 Mark D Lippmann Method (“Mastery Protocol”)
+v86 Mark D Lippmann Method (“Mastery Protocol”)
 
 ### Copyright
 
@@ -138,6 +138,7 @@ Canonical location of this document: <https://github.com/meditationstuff/protoco
 - v82 backup 20200225.rtf
 - v83 20200405 backup.rtf
 - v84 backupd 20200408.rtf
+- v85 20200426 backup.rtf
 
 
 ### Credits
@@ -4076,6 +4077,94 @@ Incline towards your present talking collaboratively to your past. (present-past
 Incline towards your present talking collaboratively to your future. (present-future)  
 Incline towards your future talking collaboratively to your past. (future-past)
 
+##### Fantasy ideal maybe with realistic swapping
+
+Imagine a fantasy ideal that would make everything ok. Try swapping in more realistic elements piecewise/partwise, to get closer to something you could really actualize.
+
+##### Solutioning dependency checking
+
+Ask, if X was done/complete/good/fixed would Y be done/complete/good/fixed?
+
+##### Contingency
+
+Ask, why might this/it/X not work/succeed?
+
+##### Otherwiseness
+
+Ask, might it/X/this be otherwise?
+
+##### Need/bad/motivated to (not) believe
+
+Ask, would it be bad to not believe this/X? Ask, would it be bad to believe this/X? Ask, do I have to believe this/X? Ask, do I have to not believe this?x? Ask, would it be good to believe this/X? Ask, would it be good to not believe this/X? Ask, would it be bad to not have to believe this/X? Ask…
+
+##### Postural pull (m\*)
+
+Does your body want to move into a particular posture, position, leaning-ness, curled-up-ness? If yes, see if you can help yourself get into that posture. Check periodically to see if there’s a new posture to move into, next.
+
+##### Gestural expansiveness (m\*)
+
+Explore large body movements of the extremities.
+
+##### Impartial part helping
+
+Assume a friendly openness. Ask a part of you, or something in you, how can I help? What do you need? (You might also ask yourself, what does this need?) What would be good for you? What’s good on your terms (in all of that), and how can I help you get that?
+
+Before moving on to something else, you might ask, what would make it ok for me/us/you/this to pause/end/stop exploring this (for now)?
+
+##### Assume even worse/worst
+
+Assume an even worse version of the (seemingly?) bad thing that’s (seemingly?) true. Fill in all the cracks of the worse-/worst-ness. What would you do, how would you respond if this worse/worst case were true?
+
+##### Be a baby, be prenatal
+
+Let yourself be a baby. Let yourself be prenatal. The reality of that, imagined or immersive flashback. Suspend disbelief. What was that experience concretely like, good and bad?
+
+##### The opposite
+
+Ask if there’s a part of you that believes the opposite (of this/X). Is there a part of you that believes that opposite belief, ongoingly, parallel, to the first part of you?
+
+##### Counterfactual replacement
+
+Ask, might X be ok, instead of Y? What good things would happen if X? What bad things would happen if X?
+
+##### Truths, etc.
+
+Try resting in how things seem vs how things feel vs how things appear vs what might be true or false vs what you know vs what you believe vs what you understand vs what you think vs what god would say is true vs what’s real vs what feels right vs what things look like vs what’s going on, here vs how you’d describe things vs…
+
+##### Forward vs backward
+
+Ask, is this/X forward(s) or backward(s)?
+
+##### Desire, etc.
+
+Ask, what do you long for, hope for, desire, want, care about, value, lust for/after, love—to do, be have, associate with, pursue, acquire, achieve…
+
+##### Philosophical meta
+
+Let your be pulled into thinking about metaphysics, philosophy, epistemology, phenomenology, agathology, cosmology, eschatology, mereology, linguistics…
+
+*Comment:* Sometimes, often, extreme, abstract meta can be a real, nondeferrable bottleneck. You might see if you can go concrete first, if you can defer that extreme, abstract meta. You might bring in the meta protocol. But, often you relatively can’t!
+
+##### Alternatives explanations
+
+Ask, what are alternative explanations, stories for this/X apparent thing?
+
+##### Concrete memories
+
+Gently incline towards experiencing fully concrete, episodic, experiential memories.
+
+##### Options, pros and cons
+
+List some options. Consider the pros and cons of choosing each option and not choosing each option. (So every option will have its own collection of pros and cons. And then you might juxtapose the pros and cons of pairs of options, and so on.)
+
+##### Trigger yourself
+
+Expose yourself (carefully) to things that provoke extreme reactions. If you are accidentally or incidentally triggered, take advantage of it.
+
+##### Intuition
+
+Temporarily let yourself [come to] know (or understand) without dictating the why of how you know or the how of how you know. (cf. radically unstructured coming to know/understand.)
+
 
 #### Main practice(s)
 
@@ -4201,6 +4290,7 @@ Further notes:
 - Try also: not X = [pick things and see if they’re in or out, let this change anything]
 - Consider swapping out the =/equals sign above with things like: is, means, signifies, is equivalent to, ~/sort of equals; maybe equals; could equal; is; is essentially; could be conceived as; could be construed as; could be stipulated as; could be schematized as; could be conveniently stipulated as; boils down to; could have a good enough for now/here definition of; is/can be defined as; most people think of this like/as; is like…
 - In addition to =/equals and so forth, you can of course try using the particular word or phrase in a sentence or sentences.
+- If you write down assertions anywhere, e.g. as premises or points in an argument, you might ad hoc or systematically look for counterexamples. You might also, ad hoc or systematically, explore objections that others might raise to the/those assertion(s).
 
 
 ##### p2
@@ -4598,6 +4688,9 @@ This list is a work in progress:
 - awareness of suffering
 - awareness of grasping/accumulating
 - awareness of anxiety
+- knowledge/awareness of has-to-work-ness/must-work-ness/has-to-succeed-ness/must-succeed-ness
+- knowledge/awareness of [body] [felt] anticipations/ing
+- knowledge/awareness of [bodymind] commitments
 
 ##### p4
 
@@ -4852,6 +4945,21 @@ This list is a work in progress:
 1. [h] What dead ends are you heading toward or stuck at?
 1. What has been the same or unchanging since your earliest memory?
 1. Why do you expect everything to work, versus suffering, failure, disappointment, harm?
+1. Why do/did you think anything was/is going to work out at all? (preconceiving/presupposing X)
+1. Why do/did you think you were an agent with (a) goal(s) at all? (preconceiving/presupposing X)
+1. Where is the future seated? In there? In here? Up there? Out there?
+1. Where are goals seated? In there? In here? Up there? Out there?
+1. Where is *the* goal seated? In there? In here? Up there? Out there?
+1. What are you wrapped around?
+1. True of false and why: “I”(?) believe “I’m”(?) evil and therefore undeserving.
+1. What would happen if you basked in the goodness of your seeming/provisional perfect irredeemability?
+1. Where is the sky judge? How can it/they be known?
+1. What mouse are you to what reality cat?
+1. Where are the credentialers, the certifiers?
+1. What if, whatever all this actually is, is ok?
+1. What if life is suffering?
+1. What if you’re being utterly carried and held in this physical world, this very moment, and this one?
+1. What would happen if you were ok?
 
 ##### p9
 
@@ -5628,6 +5736,15 @@ Increases in muscle tension are caused when one is meditating under the conditio
 
 LaTeX subscript: ({“some particular X”}\_{de dicto})
 
+### Last gasps
+
+One is sort of making it safe to re-experience things, as part of how meditation works—eventually a re-experiencing is sort of the “final burning off of the (conditioning of the) thing.” So often a person will re-experience at least a shadow of old, bad things, over and over again, until not again—things that they thought were long resolved, in the course of a great deal of meditation. (One trap is thinking that one is not making progress, because this thing has come up more than one time. It is progress! That’s just how the mind works.)
+
+But there’s another thing that’s more problematic: If a person was crushing down a bunch of stuff, let’s say they then stop crushing. But say they haven’t fully worked through the thing(s) under the crushing. If something happens in the world to trigger them, around those now uncrushed things, like they see their old girlfriend or whatever, they might have a more extreme, more impulsive, more destructive reaction, in that particular case, than if they hadn’t ever meditated:
+
+Behavior, belief or the very seeming of the world, and its attendant justification, will become live again, seem like the right thing to think/see/do.
+
+And then they’ll/you’ll be in old destructive patterns, transiently, as bad or even worse than when those initial patterns were getting laid down. And then it’s maybe doubly regretful because this “last gasp” can go by fast. It can be embarrassing, especially if one is a self-styled advanced meditator. And if only you’d gotten to that old stuff, metabolized it, before being triggered. One just has to be as careful and meta-careful and meta-meta-careful and responsible with and around other people as one can be, and to make amends and reparations, if warranted, in a way that actually delivers, that takes into account all this. Not your fault, yet no excuse, all at once; it’ll be ok, but you can’t morally rely on that, etc.
 
 ## Bibliography (incomplete)
 
@@ -5661,5 +5778,7 @@ LaTeX subscript: ({“some particular X”}\_{de dicto})
 1. _General Semantics_, Korzybski Hayakawa
 1. _Philosophical Investigations_, Wittgenstein
 1. _Meditation for the Love of It_, Kempton
+1. Meditation for the Love of It Kempton
+1. <https://vividness.live/2015/11/27/emptiness-form-and-dzogchen-ethics/> last accessed: 20200413
 
 <div style='margin-top: 10em'></div>
