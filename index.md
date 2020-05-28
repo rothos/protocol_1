@@ -9,7 +9,7 @@ See also the [preliminary/auxiliary practices random sampler](aux/).
 
 ## Mastery Protocol
 
-v88 Mark D Lippmann Method (“Mastery Protocol”)
+v89 Mark D Lippmann Method (“Mastery Protocol”)
 
 ### Copyright
 
