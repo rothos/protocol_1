@@ -29,6 +29,10 @@ html, body, body * {
     .darkmode a:hover {
         color: #005580;
     }
+    .darkmode pre {
+        color: #ddd;
+        background-color: #222 !important;
+    }
 
     /* This is for the TOC in darkmode */
     .darkmode .nav-list > .active > a {
