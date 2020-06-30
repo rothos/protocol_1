@@ -9,7 +9,7 @@ See also the [preliminary/auxiliary practices random sampler](aux/).
 
 ## Mastery Protocol
 
-v89 Mark D Lippmann Method (“Mastery Protocol”)
+v90 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 ### Copyright
 
@@ -1652,6 +1652,60 @@ Some takes on “perfect meditation posture”:
 
 “Perfect posture” should be explored for the possibility of maximal useful feedback and safety.
 
+### “Headyness”/“heady-ness”/“headiness”
+
+[This section refers to main practice p2, which is discussed in detail at a later time. One can still get a lot out of this section before encountering a full description of p2.]
+
+There’s a particularly notable imbalance that may arise from modernity, which can be lengthy and counterintuitive to correct. And that imbalance is something like “being too in the head,” “acting from the head,” “living, thinking, being, etc. ‘from the shoulders up’ or even ‘the jaw up’.”
+
+Correcting this isn’t as simple as paying more attention to the body or trying to be in the body. Doing body things “out of order” or “monolithically” can even tangle things up more: “Right thing, right time, right place, right order, at a finer and finer grain.”
+
+The protocol as written (well, including this section or not), especially inclusive of the meta protocol, is intended to work as a proper antidote to headiness, implicitly, inclusively, as part of the practice progression as a whole, nothing more to say or add.
+
+But, for some people, saying a little more may be very helpful. The protocol document, as a written/typed document, is, of course, verbal and even hyperanalytical, even if it’s very often pointing at something very undifferentiated, experiential, and sensual. So!—Even more words are written, here, as a corrective to that. :-)
+
+For example, there’s a way that p2 can be initially be done “too much in the head,” too conceptually, “too-conceptually-tangly.” Note that p2 DOES account for this; p2, the other main practices, and the meta protocol do account for this. p2, itself, can and does undo its own potential headiness, all things being equal. But, again, some people might be greatly accelerated or have reduced (physical, or otherwise) sequelae by taking this section into account.
+
+Some people will naturally do/interleave p2 “whole body” (whole everything) and some people, at first, won’t be able to do p2 except for in the head.
+
+Meditation is ever, always, already with the whole body, of course (and mind, and everything)—all of experience, the entire phenomenological field and “envelope.”
+
+Some traditions particularly emphasize this, on the front-end; they explicitly say, “meditate with the body, not with the mind.” This goes beyond even attending to the body or “body scanning,” and is more things like these: “active sitting,” “active ‘just’ sitting,” “just sitting,” meditation through posture, meditation exclusively through continuous postural adjustment, meditation through breathing and continuous effort and non-effort with respect to breathing, and so on.
+
+I would consider these pith instructions incomplete (and the above is a straw and is not intended to refer to any particular tradition). But, in any case, instructions with this sort of flavor can be an overlooked dimension of much contemporary practice. Do explore them; they should probably get added to the preliminary/auxiliary practices (a bunch of them already are).
+
+Again, p2 is “all-inclusive,” pre-conceptual, post-conceptual, trans-conceptual: body, mind, bodymind, head, heart, concept, quality, etc.
+
+And, don’t be TOO concerned about headiness—every meditator in modern culture will rightly spend PLENTY of time in the head, or flickeringly returning to the head, half-second by half-second, one-hundred-milliseconds by one-hundred-milliseconds, maybe interleaved with other things, while using these practices—e.g. as part of “do-to-undo” or “redo-to-undo.” That is, the head (“mind, muscles, and more”) is needed for untangling the head! Trying to do it just with the body will long-run cause more tangling.
+
+So, one shouldn’t avoid the head or be afraid to spend time in the head, as it were. These are just words, the meta protocol and one’s intuition should be a bottom-up guide. And the “lists and more” section breaks down the “landscape” or “playing field” in many different ways, including a great deal of body phenomenology. There are, of course, many relevant preliminary/auxiliary practices, too.
+
+In any case, use words to go beyond words. Use the head to go beyond the head. Don’t let words limit you, or cautions and corrections using yet more words, and so on. And also don’t be afraid of words, and so on. Traverse and/or allow everything, right time, right order, right grain, which is to say, what ever happens, or is happening, is part of the practice.
+
+***
+
+Below are notes from a call with a collaborator (jd), with further maybe-helpful corrections to the potentially “felt verbal/intellectual vibe” of parts of the document, for some people:
+
+* possibly useful things for people, from retrospective experience:
+
+* possible danger of too much willing too soon [Mark: I actually [now] use willing very [sparingly] and I had to clean up a lot of incorrect willing.]
+
+* possible danger of neurotically heady good/bad in use of p2 (“p2” carried out in the head, what a trap, hard to detect from the inside)[…] [Mark note: […] Mark “broke out” of headiness eventually by seeing how the headiness eventually failed and failed, sort of came to a point and then “moved along the wall” until—” nowhere to go but “body,” sort of. Or body cracked open eventually and inevitably.]
+
+* over-ontologization of experience--classifying experience in terms of doings, willings, good, bad, can lead to a kludgy thing - headiness—can carve out experience in a weird way
+
+* maybe good to emphasize lots of surrender, don’t even call it meditation. a lot less doing. [Mark note: I personally eventually got stuck doing [ONLY] surrender and non-doing.]
+
+* […] [Mark: p2 eventually becomes, “minimally-ontological” and whole-body or whole-body-available[…]]
+
+* time in nature, return to immediate and physical, “skipped level [1],” went back to fundamentals and being. unplugging—more space, time, less urgency to do things with mind. naturally drawn back into own experience. concern though about running away or shoving problems where harder to see or is this a maneuver that let look at problems that actually ready to solve. [Mark note: people like shinzen think that unplugged situations might naturally draw people into meditative states, sun on the water, wind in the trees, alone in a cabin, etc. maybe indigenous people are [more] natural meditators, [*sometimes*] cadence it creates, the example it sets. [Mark: higher quality data [in nature], or data that’s less weird and edge-case-y; modernity is a very weird data set. in nature: better stream of data about how reality and mind actually work.]
+
+* try to do everything as physical as possible; very healing. if were having a crisis, but the trees are just chilling, not having a crisis, and that’s important data. or hanging out with community; it’s happy; there’s food and water.
+
+* civilization is a lot and facebook is a lot and dealing with 2000 people is a lot. and if didn’t master the earlier version of the thing, the more immediate, animal, physical, primal thing then it’s hard. paraphrase: maybe sometimes need to (partially) go back and relearn primal thing maybe for first time[Mark: maybe this is why monasteries exist though monasteries aren’t nature. maybe a lot of people have to sort of rebuild the basics.] small community in nature
+
+* arriving at all this was confusing because didn’t seem like what mark was doing. [Mark: makes sense. all seems right to me and I’ve done a ton of just wandering around, maybe not in remote nature, but away from people, in parks or where I knew that I knew nobody even if there were people around 20-50 feet away, and i knew it was completely safe so I could just space out[, be in reverie or landscape-absorbed] for hours.]
+
 ### Meta practice
 
 #### Meta protocol v1.5
@@ -1708,6 +1762,8 @@ As with the main practice, let go, hold it loosely, experiment; don’t prematur
 
 #### Preliminary/auxiliary practices
 
+*[See also the [preliminary/auxiliary practices random sampler](aux/).]*
+
 These practices won’t take you all the way and can even tie you in knots, but they can get things going and sometimes unstick things. They are presented in no particular order.
 
 Consider creating for yourself and/or submitting your own preliminary/auxiliary practices for inclusion in this document. Submission could be very useful to other people. If you wished that it had been here, instead of you needing to discover it, or you just think it’d be useful to other people, please submit. Preliminary practices are intended to be unsystematized, ad hoc, a little bit vague, brief, and jargon-free. Ideally they are titled with a short, imperative phrase, but that isn’t necessary. Your submissions will be indicated by your initials or pseudonymous initials (please choose/indicate).
@@ -1717,7 +1773,6 @@ Don’t take these too seriously. Don’t reify them. They might or might not po
 You don’t have to do all or any these. Eventually you’ll throw almost all of them away, or at least they’ll be essentialized and seamlessly convolved with so much.
 
 Something being in a preliminary/auxiliary practice isn’t committing to any particular ontology. Take these as experiential games, dialogues between words and experience, physical or mental action and result.
-
 
 ##### Do less
 
@@ -4187,13 +4242,68 @@ Slowly explore the surface and physical interiority of the body with attention. 
 
 #### Main practice(s)
 
+##### Introduction
+
+Unlike the preliminary/auxiliary practices, which are ad hoc and open-ended, the main practices are designed to be a seamless unity, a seamless, closed set. As with the meta protocol, the verbal rendering of the “main practices,” in this document, could be considered one possible schematization out of many. That is, there are multiple ways that the main practices could be validly rendered into words, using maybe completely different (or overlapping) words, for each rendering. As always, it’s important to keep in mind that this entire document is a telephone game, pointing at bodymind practices, progressions, and ways of being that are “beneath” words. That being said, one hopes that this rendering (eventually), and other renderings, are in some sense “relatively losslessly complete.” That is, this rendering and other renderings will hopefully retain (point to) the same amount of “essential complexity,” without loss of important and unifying detail and sense. Ideally, each rendering of the main practices would be, in some sense, a “complete, seamless, closed set.”
+
+“Complete” (successfully rendered so, or not), conceptually or otherwise, note, though, that different people will use different main practices in greatly different proportions, time-wise, e.g. many people may spend much more time with p2 than the others. And, something like the meta protocol, or the “real thing behind it,” your intuition, should be the final arbiter of what one could/“should” be doing at any given time, as per usual. No magical button pushing, here, or anywhere. By exploring each of the main practices, and engaging the meta protocol with respect to them, you must come to implicitly, and sometimes explicitly, understand their interrelationship and appropriate usage, for yourself, on your terms, in your own concepts and words. You must find the “real” practice(s), the correct thing(s), behind the words below.
+
+All that being said, some people have taken a preliminary stab at pithy glosses for each of the current main practices, as a way to remember what they are and as a way to bootstrap an understanding of how they might fit together and support each other. At a later time, I will work out how to explicate more of the principles behind their design.
+
+Example glosses by a collaborator (br):
+
+> p1 - conceptual clarity  
+> p2 - do and will good things if you can  
+> p3 - become aware of everything without changing it  
+> p4 - temporarily emptiness/nothingness  
+> p5 - also become aware of everything without changing it?  
+> p6 - temporarily make everything better  
+> p7 - temporarily release everything  
+> p8 - 243 questions  
+> p9 - visualize the perfect day  
+> p10 - [not submitted]  
+
+Another collaborator (d) offers these relationships:
+
+> I think of p3 as more inviting, each point modifying or coming after the first; and p5 as keeping things that are already there still. p3 to me is more about turning up new things and p5 is about stilling turbulence
+>
+> For p3, parts or feels can be threatened by knowing they will immediately become subject to p2 immediately upon being grasped
+>
+> For p5, you can turn up things and create turbulence so that everything is moving so fast it becomes so slippery that you can't do anything about them.
+
+My response to the above collaborators:
+
+> p3 is yeah sort of maybe (very) slow, soaking concentration-flavored noting practice, that self-generates new noting labels over time
+>
+> p1 is more conceptual grain and fluidity than anything else
+>
+> p5, very loosely, yeah could be considered a “continuous”/“indiscrete” [sic] version of p3, but it teaches a bunch of different things than p3, too, around stability, change, “grasping” (maybe in non traditional sense) and control
+>
+> p3 is also a different take on “learning how to not change things” (as well as the limits of that) versus p2 which is more change oriented (though right thing right time)
+>
+> p6 is sort of a “continuous”/“indiscrete” [sic] version of p2
+>
+> p7 also has a bunch of relations to different “halves” of p2
+
+Another collaborator (h) notes:
+
+> [p3 is] like an antidote to (what seems to me to be) the strong doingness/acting-upon-ness of p2
+
+***
+
+In general, as mentioned in other places, if things feel stuck or “jammy,” or things become “forcy”/“force-y”, it can be good to change which main practice you’re doing, to switch to a preliminary/auxiliary practice, to engage the meta protocol or meta meta protocol, to change postures, to take a walk, to take a break, to do the most minimal, personal thing in the (meta) spirit of the meta protocol, etc.
+
+The current renderings of the main practices are below.
+
+##### Practices
+
 [Unlike the preliminary/auxiliary practices, which are open-ended, the main practices are designed to be a seamless unity, a seamless closed set. At a later time, I will work out how to explicate some of the principles behind their design. In any case, by exploring them, and engaging the meta protocol with respect to them, you must come to implicitly, and sometimes explicitly, understand their interrelationship and appropriate usage, for yourself, on your terms, in your own concepts and words. You must find the “real” practice(s), the correct thing(s), behind the words below.]
 
-##### p0
+###### p0
 
 [Will that you become someone who uses the practice regularly and effectively to achieve the goals of the practice.]
 
-##### p1
+###### p1
 
 [old names: Elemental Analysis, Comprehensive Elemental Analysis]
 
@@ -4312,7 +4422,7 @@ Further notes:
 - If you write down assertions anywhere, e.g. as premises or points in an argument, you might ad hoc or systematically look for counterexamples. You might also, ad hoc or systematically, explore objections that others might raise to the/those assertion(s).
 
 
-##### p2
+###### p2
 
 **will** = will(/intend/plan) [that P]; do something volitional that alters expectations for future in a specific way; willing[/intending/planning/expecting/intent [to produce (an) effect (that)]; goal, purpose, for-what-purpose, for-what-further-good(ness)-If-any, for-ness, in-the-service-of
 
@@ -4383,7 +4493,7 @@ Further notes:
 - Your generally available set of actions/doing should expand over time, more fine-grain, more differentiated, lighter, omni-directional, multifarious, start-on-dime, stop-on-dime, interleave rapidly. They should also ideally become applicable in more and more contexts, more body locations, more phenomenologies, more senses/meanings/etc. Sometimes your available actions will shrink to a point, and that’s ok. But generally you want more and more, and more and more subtle, sometimes fast, barely nameable, barely effable, beyond language, and so forth. You might sometimes have mental tags or phenomenological tags or verbal tags or “knowing contexts” for them, and that’s great. And, there will be times when you’re taking relatively more new and/or unique/one-off/instance-of-themselves/unclassifiable actions/doings. (In some sense they’re all unique by virtue of their preconceptual referent and context.)
 - There can be doing on the border between surrender and doing or vice versa, where are you sort of doing but you also surrendered, or vice versa. Liminal doing; liminal surrender.
 
-##### p3
+###### p3
 
 - For which it’s good to do so and you can do do, will that you become aware of willing, acting/doing, expecting, seeming, appearing, convincing and denying that is or will be currently good to become aware of. And, simultaneously, for which it’s good to do so and you can do so, will that you do not become aware of willing, expecting, seeming, and appearing that is or will be currently bad to become aware of.
 - If you become aware of (presently and directly) [experiencing] \[in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~~] willing W that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that willing W during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
@@ -4725,28 +4835,28 @@ This list is a work in progress:
 - knowledge/awareness of reason/reasoning/“reason”/“reasoning”/“Reason”
 - knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
 
-##### p4
+###### p4
 
 - In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily will that you’re temporarily globally/totally/wholly/unifiedly aware of nothing, or the complete/total absence or anything,  or the absence of any something-ness or appearance, expecting, seeming, willing, etc.
 - When you are finished with the above, in the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, make sure you completely stop willing that you’re aware of nothing.
 
-##### p5
+###### p5
 
 - In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily will that everything you’re experiencing in awareness/aware of, globally/totally/wholly/unifiedly remains stable/stably just as it is without changing in any particular moment, and don’t stabilize what would be bad to stabilize or that you can’t stabilize. (So of course, it’s likely that things will be changing. So, for any change, in that moment, in any particular moment, [for what’s good to and can and not bad to] you want that state to stably persist. So, whatever is, you’re willing that that stably persists [for what’s good to and can and not bad to]. The effect will be to have some things slow down or become more salient/apparent. Also on assumption that everything you are is cycling through consciousness/awareness, so that this will ultimately be exhaustive…) [“In the exact way you’re having exactly these sensations(??+knowing/understanding/meaning/thinking/believing/feeling/imagining/expecting/sensing/perceiving…??)/total experiential state, total/everything in awareness/aware of, totally/globally/unifiedly in this exact instant/moment, exactly as they currently are in this exact instant/moment [no brighter, no dimmer, no more vivid, no less vivid, no changes in foreground/background/salience/focus/surround/ground, no following/seeking/avoiding/preference/agenda, commentary, meta-commentary unless it’s already exactly happening/expectation/inclination/presupposition], in the ways in which you can and it’s good to do so, be willing to have exactly these sensations exactly forever.”]\[“be willing to work/operate from inside of this [as it is]] forever”][capture your exact global awareness/being/experiencing/imagining/expecting/feeling/knowing/understanding/believing state in any particular moment and perpetuate as long as you can without adding anything, adding nothing to that state itself]\[cf. the “soaking” instruction from standard noting practice, though that’s a local operation, as it were][perfectly willing to stably have this while simultaneously perfectly letting go]\[cf the facilitation of vividness and clarity][cf mindfulness; “but”]\[any particular moment, exactly as it is, last forever][“perfectly holding on to everything without adding anything [“further”] to that”]
 - When you are finished with the above, in the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, make sure you completely stop willing that everything you’re experiencing in awareness/aware of remains stably just as it is.
 
-##### p6
+###### p6
 
 - In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily (be) will(ing) that (a) everything you’re experiencing in awareness/aware of, globally/totally/wholly/unifiedly and (b) your relationship to everything (not just your experience in awareness; but also plans, goals, intentions, ontology, everything, everything, everything), improves, becomes better, becomes more good. This is possibly or likely with global nonmonotonicity, local nonmonotonicity and local tradeoffs.
 - When you’re finished with the above as such, in the ways in which it’s good to do so and you can (are able to) do so, and not in the ways in which it’s bad to do so, make sure you stop willing the above as such in the ways that make sense.
 
-##### p7
+###### p7
 
 - In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily surrender, allow to be any which way, release, let go of (a) everything you’re experiencing in awareness/aware of, globally/totally/wholly/unifiedly and (b) your relationship to absolutely everything (not just your experience in awareness; but also plans, goals, intentions, ontology, everything, everything, everything) to be any which way, no particular way or another, allow everything to change freely as it wants or does. Not needing anything at all to be any particular way, not expecting anything at all to be any particular way, and allowing anything and everything (at all) to be any particular way. Release from preconception, presupposition… unnecessary contingent particularity… Release from partiality or locality…
 - When you’re finished with the above as such, in the ways in which it’s good to do so and you can (are able to) do so, and not in the ways in which it’s bad to do so, make sure you stop willing the above as such in the ways that make sense.
 
 
-##### p8
+###### p8
 
 (There will be a right way and a wrong way and a right time and a wrong time to incline towards answering any of these questions.) If can ask in a way/manner/sense that’s good, and it is good to ask at/during the time of asking through the interval of (possibly) answering or partially or fully answering:
 
@@ -4994,7 +5104,7 @@ This list is a work in progress:
 1. What if you’re being utterly carried and held in this physical world, this very moment, and this one?
 1. What would happen if you were ok?
 
-##### p9
+###### p9
 
 Explore what your “normal ideal day” would be like, do this imaginatively, generatively, “concretely immersively.” That is, as best you can, experience it as if you’re actually there, in the first person, in real time, in full sensory and perspectival detail, including inner experience.
 
@@ -5020,13 +5130,77 @@ If that’s the case, just do the best you can. You might try, for each objectio
 
 Finally, all the above is the canonical, main practice. And/but, you can also try similar things with “the rest of the day,” e.g. when you wake up you can concretely explore your ideal rest of the day. You can do something similar for “tomorrow” and finally “goals” and “milestones” if those sorts of things are in your felt ontology.
 
-##### p10 [experimental]
+###### p10 [experimental]
 
 This practice might be called “minimal unit partially ordered imaginative/generative concrete planning.” That is, in some sense, it is a planning practice.
 
 Explore what you want and what you might do by imagining/generating immersive, concrete experience, as if you’re fully living it, in two subsequent moments. And repeat.
 
 first person concrete experiential qualities in —> first person concrete experiential qualities out
+
+##### Theory
+
+###### Incomplete, alternative renderings
+
+A collaborator (mh) notes:
+
+> I find myself mentally replacing much of the "will" or "intent" language in the protocol (particularly p2) with something like "invite" or "permit,” both of which feel like "cleaner" versions of doing something volitional (cleaner=less mental baggage).
+
+Another collaborator (jd) notes (paraphrased):
+
+> Regarding doing, willing, etc., and different understandings of the underlying concepts, the ontology of course being imperfect to begin with, there can be a distinction between more volitional doings and less volitional doings. And, there’s a way in which doings can feel more and less willful, from effortful to having a “nondoing” flavor. And, there’s an important distinction between the two: I can do a very topdown, or willful, willing or doing or there can be bottom-up doings, that are just kind of happening on their own. And there can be more bottom-up intention [will] as a companion to willing. And they feel very different. I’ve been inclining more towards surrender, but there’s still been a lot of doing going on. More precisely, I’m less and less the one doing the doings, in a way that happens more easily and on its own. And the word I’m using is “allowing,” or I’m allowing it. The doings are allowed, somehow, and maybe being lightly facilitated by me. It’s not like the practice is missing doing, it’s just light and gentle. […] Where I got stuck was doings and willings that were more an exercise of will versus allowing that was more bottom-up.
+
+I note/respond:
+
+> the p2 language has [and has had, for a long time] “allow” and “participate” on the backend, but, yeah, this is coming up more with people. [One reason I haven’t emphasized top-down versus bottom-up, in the main practices, is that the distinction, eventually, in some sense collapses. Or, the line gets ever more blurred, or it very saliently moves. Some of the preliminary/auxiliary practices intentionally have a bottom-up flavor, e.g. “be moved.” Also, the baked-in emphasis on ability/can/can’t hopefully gives a flavor of circumscribing problematic top-down-ness. All that said,] I’m wondering if there could be something more explicit [or front-loaded, in the main practices, to help good things happen maybe sooner]. so instead of:
+>
+> will/intend/[…] :: ~surrender … “allow or participate in that happening”  
+> do :: undo … “allow or participate in that happening”
+>
+> maybe should be more like:
+>
+> will/intend/invite/permit/facilitate […] :: surrender […] “allow or participate […]”  
+> do/non-do :: undo […] “allow or participate […]
+>
+> reminding myself the current structure of p2:
+> 
+> 2 main parts will/do,  
+> each with two subparts will/surrender, do/undo,  
+> each with three subparts: good/bad/can’t
+>
+> notes on a couple takes/facets metaphysics of causation:
+>
+> necessary  
+> sufficient  
+> necessary and sufficient  
+> neither necessary nor sufficient  
+> cause/start  
+> stop/end  
+> prevent/block  
+> enable  
+> facilitate  
+> retard/inhibit
+
+I offered another partial schema, that maybe doesn’t front-load or specially emphasize “bottom-up” but is more explicitly balanced about this:
+
+> top-down willing  
+> top-down willing-to-enable plus bottom-up doing (and participating)  
+> top-down blocking-to-enable plus bottom-up doing (and participating)  
+> top-down allowing-to-enable plus bottom-up doing (and participating)  
+> top-down inviting-to-enable plus bottom-up doing (and participating)  
+> top-down permitting plus bottom-up doing (and participating)  
+> top-down surrender (and participating)  
+> top-down surrender-to-enable plus bottom-up doing (and participating)  
+> top-down doing  
+> top-down doing-to-undo / redoing-to-undo  
+> top-down doing-to-enable plus bottom-up undoing  
+> top-down blocking-to-enable plus bottom-up undoing  
+> top-down allowing-to-enable plus bottom-up undoing  
+> top-down inviting-to-enable plus bottom-up doing  
+> top-down permitting plus bottom-up undoing  
+> top-down surrender  
+> top-down surrender-to-enable plus bottom-up undoing  
+> bottom-up doing-to-undo / redoing-to-undo
 
 ### Interpersonal practice
 
@@ -5302,6 +5476,9 @@ I think the combination of intermediate very hard things getting better (when no
 - **willing** = [not exactly] planning/intending/directly-make-it-so-ing
 - **willing** = [not exactly] currently intending to make it so; to make X Y
 - […]
+- **awareness** =  [~~~that which contains “there it is as such”]
+- **knowledge** = [~~~like not a direct phenomenological correlate as such but may be corresponding quality/concept in awareness. more of a “seeming” flavor versus an “appearing” flavor]
+- […]
 
 ### Undefined and explications
 
@@ -5438,8 +5615,6 @@ also: the subtle movements of your eyes, the subtle movements of muscles in the 
 states can be important too: sexually aroused, not sexually aroused, desirous of sex, not desirous of sex, possibly various states of emotional arousal
 
 Finally, here are some ways that people systematically leave things out; as best you can make sure to not be systematically avoiding anything, of course with fast moving mind (belief/expectation/thought/imagination/feared possible truths and outcomes, etc.) and sensation stuff, but also old injuries, unsettling or unpleasant sensations around permanent pins or staples from old surgeries, scars (injury or cosmetic), genital circumcision, feared body stuff (cancer? precancer? did i fuck up nerve/ligament/tendon permanently? etc), phantom or feared teeth and jaw stuff, unpleasant “wrong, nervy” stuff. or maybe you don’t like your hands or feet or stomach or thighs or something. don’t avoid.
-
-Finally, here are some ways that people systematically leave things out; as best you can make sure to not be systematically avoiding anything, of course with fast moving mind (belief/expectation/thought/imagination/feared possible truths and outcomes, etc.) and sensation stuff, but also old injuries, unsettling or unpleasant sensations around permanent pins or staples from old surgeries, scars, feared body stuff (cancer? precancer? did i fuck up nerve/ligament/tendon permanently? etc), phantom or feared teeth and jaw stuff, unpleasant “wrong, nervy” stuff. or maybe you don’t like your hands or feet or stomach or thighs or something. don’t avoid.
 
 ### Exhaustivity and bottlenecks
 
