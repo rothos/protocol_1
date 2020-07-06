@@ -16,3 +16,17 @@ body:
     </div>
 
 Of course, Bootstrap screws with the styling of everything else too.
+
+
+
+
+
+----
+
+
+<div class="alert alert-success" style='margin-top: 1.5em'>
+    <!-- <button type="button" class="close" data-dismiss="alert">&times;</button> -->
+    <p><strong>Note:</strong> This document is a formatted version of the main protocol document and does not contain the appendix, readme, or other additional resources. Additionally, this document may be out of date.</p>
+    <p>See the <a style="color:#809893;text-decoration:underline;" href='https://github.com/meditationstuff/protocol_1/' target="_blank">official repo</a> for the latest version & additional resources.</p>
+    <p>This document was last updated %%DATE%%.</p>
+</div>

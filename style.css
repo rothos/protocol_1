@@ -118,7 +118,7 @@ html, body, body * {
     #content {
         margin-left: 350px;
         max-width: 600px;
-        padding: 1em 1em 1em 1em;
+        padding: 0em 1em 1em 1em;
     }
 }
 

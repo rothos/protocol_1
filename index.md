@@ -1,15 +1,16 @@
-<div class="alert alert-warning">
-  <button type="button" class="close" data-dismiss="alert">&times;</button>
-  <p><strong>Beware! This document may be out-of-date.</strong><br/>Potentially crucial modifications/additions/deletions may have happened since this page was updated. Visit the <a style="color:#809893;text-decoration:underline;" href='https://github.com/meditationstuff/protocol_1/' target="_blank">official repo</a> to find the current version.</p>
-  <p><strong>Note:</strong> This document is a formatted version of the main protocol document and does not contain the appendix, readme, or other additional resources. See the <a style="color:#809893;text-decoration:underline;" href='https://github.com/meditationstuff/protocol_1/' target="_blank">official repo</a> for additional resources.</p>
-  <p>This document was last updated %%DATE%%.</p>
-</div>
-
-See also the [preliminary/auxiliary practices random sampler](aux/).
-
 ## Mastery Protocol
 
 v91 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+
+<hr>
+
+***Editor's note:** This document is an unofficial formatted version of the official protocol document and does not contain the appendix, readme, or other additional resources. And, while I try to keep this version up-to-date with the official version, don't count on it always being up-to-date or 100% accurate (transcription errors happen).*
+
+*Please see the [official repo](https://github.com/meditationstuff/protocol_1/) for the latest version & for additional resources.*
+
+*Companion tool: [preliminary/auxiliary practices random sampler](aux/).*
+
+*This document was last updated %%DATE%%.*
 
 ### Copyright
 
