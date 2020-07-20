@@ -27,7 +27,7 @@ html, body, body * {
         color: #70c8fc;
     }
     .darkmode a:hover {
-        color: #005580;
+        color: #70c8fc;
     }
     .darkmode pre {
         color: #ddd;
@@ -155,6 +155,9 @@ ul ul, ul ol, ol ol, ol ul {
 
 a {
     cursor: pointer;
+}
+a:hover {
+    color: #0088cc;
 }
 
 h2,h3,h4 {
