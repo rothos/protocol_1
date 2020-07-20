@@ -51,6 +51,14 @@ html, body, body * {
     overflow-wrap: break-word;
 }
 
+.editorsnote {
+    margin-top: 1.6em;
+    padding: 1em 1em .25em;
+    border: 3px solid #65916d;
+    border-radius: 4px;
+    background-color: rgba(101,145,109,.2);
+}
+
 /* Mobile */
 @media screen and (max-width: 800px) {
     #content {

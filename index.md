@@ -2,15 +2,16 @@
 
 v94 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
-<hr>
+<div class='editorsnote'>
+<p style='text-align: center'><strong>Editor's note</strong></p>
+<p>This document is an unofficial formatted version of the canonical protocol document and does not contain the appendix, readme, or other additional resources. And, while I try to keep this version up-to-date with the official version, don't count on it always being up-to-date or 100% accurate (transcription errors happen).</p>
 
-***Editor's note:** This document is an unofficial formatted version of the official protocol document and does not contain the appendix, readme, or other additional resources. And, while I try to keep this version up-to-date with the official version, don't count on it always being up-to-date or 100% accurate (transcription errors happen).*
+<p>Please see the <a href='https://github.com/meditationstuff/protocol_1/'>canonical version</a> for the latest updates & for additional resources.</p>
 
-*Please see the [official repo](https://github.com/meditationstuff/protocol_1/) for the latest version & for additional resources.*
+<p>Companion tool: <a href='aux/'>preliminary/auxiliary practices random sampler</a>.</p>
 
-*Companion tool: [preliminary/auxiliary practices random sampler](aux/).*
-
-*This document was last updated %%DATE%%.*
+<p>This document was last updated %%DATE%%.</p>
+</div>
 
 ### Copyright
 
