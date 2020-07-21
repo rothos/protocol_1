@@ -1,6 +1,6 @@
 ## Mastery Protocol
 
-v94 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+v95 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 <div class='editorsnote'>
 <p style='text-align: center'><strong>Editor's note</strong></p>
@@ -149,6 +149,7 @@ Canonical location of this document: <https://github.com/meditationstuff/protoco
 - v91 backup 20200704.rtf
 - v92 backup 20200719.rtf
 - v93 backup 20200719.rtf
+- v94 backup 20200719.rtf
 
 ### Credits
 
@@ -1866,9 +1867,9 @@ Something not explicitly noted in the above, but implicitly there, is that, at l
 
 ### Meta practice
 
-#### Meta protocol v1.6
+#### Meta protocol
 
-v1.6 (Last updated: 2020-07-04; 12:25 CDT)
+v1.7 (Last updated: 2020-07-20; 05:06 CDT)
 
 1. Notes
     - Note that you can also interleave/weave these questions (or the spirit of these questions) with[/into] a main meditation practice as you're doing it.
@@ -1877,8 +1878,8 @@ v1.6 (Last updated: 2020-07-04; 12:25 CDT)
     - You don't need to ask the questions below verbally or discretely, though it's good to experiment with that first. You can also cast your mind over the questions or the memory of the questions, sequentially, semi-sequentially, or all together, all at once. Try to vary how you're accessing the questions, verbally/sequentially versus all at once, and the degrees in between.
     - There is a "meta meta protocol" [_sic_] which is applying this protocol to itself. There are contextually better and worse ways to use this meta protocol and there are better and worse interpretations of how to use it. The "meta meta protocol" can help you move towards better and better interpretations and uses.
     - Note that the meta protocol can be used for other things besides meditation, such as problem solving, planning, or really anything, mental or physical.
-    - Lots of things have the “flavor” or spirit of the meta protocol, without looking exactly like the below. You might feel like you’re “not doing the meta protocol” but you actually are! Any time you’re wondering whether you doing the right thing, or if a good or bad thing happened, or you’re asking other people and dialoguing about it—that’s “going meta.” It doesn’t have to have the exact form of the below and it doesn’t have to be done explicitly. Intuition! Feeling!
-
+    - Lots of things have the “flavor” or spirit of the meta protocol, without looking exactly like the below. You might feel like you’re “not doing the meta protocol” but you actually are! Any time you’re wondering whether you doing the right thing, or if a good or bad thing happened, or you’re asking other people and dialoguing about it—that’s “going meta.” It doesn’t have to have the exact form of the below and it doesn’t have to be done explicitly.
+    - Intuition! Feeling! Body! You can ask the questions with the body, the mind, or the bodymind, or anything, or everything. And you can listen/feel for answers with the body, the mind, or the bodymind, or anything, or everything.
 
 2. Retrospective Evaluation of Happening and Doing
     - Happening
