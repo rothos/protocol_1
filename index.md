@@ -8,7 +8,13 @@ v95 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main P
 
 <p>Please see the <a href='https://github.com/meditationstuff/protocol_1/'>canonical version</a> for the latest updates & for additional resources.</p>
 
-<p>Companion tool: <a href='aux/'>preliminary/auxiliary practices random sampler</a>.</p>
+<p>Companion tools:
+    <ol>
+        <li><a href='aux/'>preliminary/auxiliary practices random sampler</a></li>
+        <li><a href='p3/'>p3 random sampler</a></li>
+        <li><a href='p8/'>p8 random sampler</a></li>
+    </ol>
+</p>
 
 <p>This document was last updated %%DATE%%.</p>
 </div>
@@ -4654,6 +4660,8 @@ Further notes:
 
 ###### p3
 
+*[See also the [p3 random sampler](p3/).]*
+
 - For which it’s good to do so and you can do do, will that you become aware of willing, acting/doing, expecting, seeming, appearing, convincing and denying that is or will be currently good to become aware of. And, simultaneously, for which it’s good to do so and you can do so, will that you do not become aware of willing, expecting, seeming, and appearing that is or will be currently bad to become aware of.
 - If you become aware of (presently and directly) [experiencing] \[in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~~] willing W that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that willing W during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
 - If you become aware of (presently and directly) [experiencing] \[in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~provisionally~] expecting that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that expecting during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
@@ -5016,6 +5024,8 @@ This list is a work in progress:
 
 
 ###### p8
+
+*[See also the [p8 random sampler](p8/).]*
 
 (There will be a right way and a wrong way and a right time and a wrong time to incline towards answering any of these questions.) If can ask in a way/manner/sense that’s good, and it is good to ask at/during the time of asking through the interval of (possibly) answering or partially or fully answering:
 
