@@ -1,6 +1,6 @@
 ## Mastery Protocol
 
-v95 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+v96 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 <div class='editorsnote'>
 <p style='text-align: center'><strong>Editor's note</strong></p>
@@ -156,6 +156,7 @@ Canonical location of this document: <https://github.com/meditationstuff/protoco
 - v92 backup 20200719.rtf
 - v93 backup 20200719.rtf
 - v94 backup 20200719.rtf
+- v95 20200720 backup.rtf
 
 ### Credits
 
@@ -868,7 +869,7 @@ A possible correction is to consider that irrespective of any objective dimensio
 
 Appeals to or capitalization on insecurity or paranoia (“never enough”) by evoking ideas, images, or promises of “infinity,” “hugeness,” “foreverness,” “everythingness,” “all of it,” etc.” (as either carrot or stick)
 
-Pascal’s mugging (idiosyncratic interpretation) - 
+Pascal’s mugging (idiosyncratic interpretation) -
 
 “I (may have) rare or unique things/goods of great value that you won’t be able to get anywhere else, ever, forever, if you don’t stick around or do as I say.”
 
@@ -1315,7 +1316,7 @@ Meditating of course happens in an environment, air conditioning, kitchen applia
 […]
 
 **Mark  15 minutes ago**
-> to be fair, the protocol doc is me collecting 15,000+ words of highly detailed things to remember, for myself (and others). so there’s that. [in order to eventually “forget” it], to not need it, for it to become an inert pedagogical tool to share with others (edited) 
+> to be fair, the protocol doc is me collecting 15,000+ words of highly detailed things to remember, for myself (and others). so there’s that. [in order to eventually “forget” it], to not need it, for it to become an inert pedagogical tool to share with others (edited)
 
 […]
 
@@ -1421,7 +1422,7 @@ Meditating of course happens in an environment, air conditioning, kitchen applia
 > yeah
 
 **Collaborator  10 minutes ago**
-> \*for some people some of the time (edited) 
+> \*for some people some of the time (edited)
 
 **Collaborator  10 minutes ago**
 > like i still think protocol is Right *[Editor: Ahhhh! I’m trying to point in the direction of something Right, “under emptiness.”]*
@@ -1444,7 +1445,7 @@ Meditating of course happens in an environment, air conditioning, kitchen applia
 **Mark  8 minutes ago**
 > the way i’m thinking about it right now is there’s sort of micro-redo-to-undo, which can often be done in the context of main practice p2, conceptualized as such.
 >
-> and then there’s also sort of macro-redo-to-undo, which can easily involve forgetting about the protocol for a few months to go have desired experiences and experiments. and both may be very necessary. and needing to do that one to twenty times, big macro orbits that forget about the protocol completely and then maybe pick it up again later. (edited) 
+> and then there’s also sort of macro-redo-to-undo, which can easily involve forgetting about the protocol for a few months to go have desired experiences and experiments. and both may be very necessary. and needing to do that one to twenty times, big macro orbits that forget about the protocol completely and then maybe pick it up again later. (edited)
 
 **Collaborator  7 minutes ago**
 > fwiw i don’t think i’ve found anything that you’d disagree with perse
@@ -1655,7 +1656,7 @@ Another postural thing to vary: Surfaces from very hard concrete to very soft fo
 
 You should check to make you’re not losing flexibility or that certain physical movements (or patterns of attention) aren’t becoming subtly unpleasant or aversive. Also, barbell weight training and bodyweight exercise is good, too, as another way to check for whether something is off, e.g. if some exercises become aversive or you’re losing strength or less able to transmit power through structure.
 
-Props like for jaw or hand stuff or etc if ever a thing:  
+Props like for jaw or hand stuff or etc if ever a thing:
 There’s the cliche of having something to bite down on, when experiencing pain or something. I’m not suggesting that, though it could be good—teeth generally aren’t supposed to touch teeth, but, if your jaw happens to be clenching, putting in a mouthguard might be good for your teeth and bad for your jaw—maybe ask a dentist or something about tradeoffs. In any case, the point of this paragraph is to make an analogy to biting down on something: if your hand is clenching, it can make it safer for your hand to clench if you clench a stress ball or a rolled up shirt. If your neck is doing weird things, it can be helpful to do that laying it in a cradle of pillows, and so forth. It’s good to be able to meditate sitting or standing tall, but it’s also good to be able to arrange your environment when/if that’s the best thing, too. Another take: “Having things squeeze or slide against can slow things down, reduce currently problematic degrees of freedom and/or increase feedback through resistance or friction”
 
 [book recommendations: feldenkrais awareness through movement, anatomy trains yoga, starting strength, becoming a supple leopard]
@@ -1693,7 +1694,7 @@ Some traditions emphasize cultivation of altered states, residing in altered sta
 
 This meditation system doesn’t place particular emphasis on altered states and is of the position that systematic cultivation is unnecessary. Intermittent, gentle facilitation of potentially spontaneously arising altered states can be important, though. Through application of method, a meditator may spontaneously “stage”/“prepare” for entry into an altered state, “pop into” the state, “do whatever’s necessary” in that state, and quickly or eventually “pop back out.” This can and will eventually, naturally, and spontaneously happen in the course of meditation and doesn’t need to be deliberately cultivated as such. It’s of course generally fine to incline towards interesting or attractive states (perhaps checked against something like the meta protocol) and it’s of course fine to explore and experiment with concentration and tranquility practices.
 
-Deliberate engagement with concentration and tranquility practices can sometimes “burn in” (reversibly!) habits of mind that eventually need to be undone for further progress, which can be a lengthy process. Sometimes light (or even moderate) deliberate cultivation *can* be strategic, on a person by person basis—many of the preliminary/auxiliary practices suggest concentration-/tranquility-like things to try and experiment with. That being said, there’s a right thing, right time, right way, right dose, gently, sensitively, responsively (with plenty of room for error and backtracking) ethos. And much or quite all of engagement with “altered states” can happen spontaneously and naturally, in the course of practice. 
+Deliberate engagement with concentration and tranquility practices can sometimes “burn in” (reversibly!) habits of mind that eventually need to be undone for further progress, which can be a lengthy process. Sometimes light (or even moderate) deliberate cultivation *can* be strategic, on a person by person basis—many of the preliminary/auxiliary practices suggest concentration-/tranquility-like things to try and experiment with. That being said, there’s a right thing, right time, right way, right dose, gently, sensitively, responsively (with plenty of room for error and backtracking) ethos. And much or quite all of engagement with “altered states” can happen spontaneously and naturally, in the course of practice.
 
 ### “Headyness”/“heady-ness”/“headiness”
 
@@ -1766,7 +1767,7 @@ The first axis is pointing at something like “knowing where it came from or ho
 
 The second axis is maybe a bit more self-explanatory—was the *route* to that knowing more or less symbolic? Is it’s current form more or less symbolic?
 
-More symbolic routes of knowing might be things like thinking, “figuring,” calculating, inferring, abducting, deducing, writing. 
+More symbolic routes of knowing might be things like thinking, “figuring,” calculating, inferring, abducting, deducing, writing.
 
 “Medium-symbolic” routes of knowing might be things like verbally describing, “iconically imagining,” simulating, running thought experiments, sketching and drawing on paper. (Perhaps: “multischematic”)
 
@@ -1783,7 +1784,7 @@ Both axes (1) and (2) could perhaps be very loosely, messily, and jointly summar
 
 At least in modern times (for some very loose and general definition of modern), we have a habit of privileging explicit knowing and explicit justification. If we don’t have explicit knowing and/or explicit justification (or we don’t feel like we can produce it, or at least bits and pieces of it) it might be harder for us to self-trust (as well as it being harder to navigate the familial, social (and professional) worlds…). We might lose track of goals, lose track of reasons, forget desires, not act on goals and desires, and so forth. We might be more indecisive and act less consistently.
 
-But, the basis of self-legitimate and self-credible self-trust (including, e.g. trusting that we can wield argumentation/justification if/when we ever need to) starts in the prereflective and the intuitive. Consider, the prereflective and intuitive are what choose to wield (explicit) argumentation, even if the producing, wielding, or consuming) of argumenation are things that modulate the prereflective and implicit. One could say that self-trust is constituted by the entire experiential field, which takes into account the present state of the self as well as past, present, and future of self and world. 
+But, the basis of self-legitimate and self-credible self-trust (including, e.g. trusting that we can wield argumentation/justification if/when we ever need to) starts in the prereflective and the intuitive. Consider, the prereflective and intuitive are what choose to wield (explicit) argumentation, even if the producing, wielding, or consuming) of argumenation are things that modulate the prereflective and implicit. One could say that self-trust is constituted by the entire experiential field, which takes into account the present state of the self as well as past, present, and future of self and world.
 
 ***
 
@@ -4233,8 +4234,8 @@ Thus.
 
 ##### Mind, body, world (h)
 
-What's happening in your mind? What are you doing in your mind?  
-What's happening in your body? What are you doing in your body?  
+What's happening in your mind? What are you doing in your mind?
+What's happening in your body? What are you doing in your body?
 What's happening in the world? What are you doing in the world?
 
 *Comment:* I noticed that this is sort of a way i slice things when i query what's happening
@@ -4293,11 +4294,11 @@ Be dramatic. Do the same thing but be non-dramatic while you’re doing it.
 
 ##### Explore intertemporal self-consistency
 
-Incline towards your present talking collaboratively to the present. (present-present)  
-Incline towards your past talking collaboratively to your past. (past-past)  
-Incline towards your future talking collaboratively to your future. (future-future)  
-Incline towards your present talking collaboratively to your past. (present-past)  
-Incline towards your present talking collaboratively to your future. (present-future)  
+Incline towards your present talking collaboratively to the present. (present-present)
+Incline towards your past talking collaboratively to your past. (past-past)
+Incline towards your future talking collaboratively to your future. (future-future)
+Incline towards your present talking collaboratively to your past. (present-past)
+Incline towards your present talking collaboratively to your future. (present-future)
 Incline towards your future talking collaboratively to your past. (future-past)
 
 ##### Fantasy ideal maybe with realistic swapping
@@ -4417,16 +4418,16 @@ All that being said, some people have taken a preliminary stab at pithy glosses 
 
 Example glosses by a collaborator (br):
 
-> p1 - conceptual clarity  
-> p2 - do and will good things if you can  
-> p3 - become aware of everything without changing it  
-> p4 - temporarily emptiness/nothingness  
-> p5 - also become aware of everything without changing it?  
-> p6 - temporarily make everything better  
-> p7 - temporarily release everything  
-> p8 - 243 questions  
-> p9 - visualize the perfect day  
-> p10 - [not submitted]  
+> p1 - conceptual clarity
+> p2 - do and will good things if you can
+> p3 - become aware of everything without changing it
+> p4 - temporarily emptiness/nothingness
+> p5 - also become aware of everything without changing it?
+> p6 - temporarily make everything better
+> p7 - temporarily release everything
+> p8 - 243 questions
+> p9 - visualize the perfect day
+> p10 - [not submitted]
 
 Another collaborator (d) offers these relationships:
 
@@ -4524,9 +4525,9 @@ The current renderings of the main practices are below.
     <blockquote>[this/these] whole(s) Y is/are/contain(s)/= [this/these] parts M[, F…] + “just exactly/precisely [this/these aforementioned]/and nothing else”</blockquote>
     <p>That is, M and F are known; you have some words for them. Now, what is Y? What are some words for Y?</p>
     1. <p>Another kind of inverse is adding a subscript to the word on the left hand side of the equals sign and then looking for definitions for the other subscript. For example, you might have “suffering =“ and maybe before you even try to fill in the right hand side, you might do:</p>
-    <p>suffering_1 =  
-    suffering_2 =  
-    suffering_3 =  
+    <p>suffering_1 =
+    suffering_2 =
+    suffering_3 =
     and so on.</p>
     <p>You might ask, what is everything I could possibly mean by this word (or phrase) “suffering”/X?</p>
     <p>In this way, the word “suffering” can become more detached and flexible from the underlying language, while at the same time making each use of the word more precise. The subscripts do not have to be numbers; they can be anything that helps to differentiate which meaning/usage/sense of the word that you mean. That might be times or durations or conditions and so forth. [See also General Semantics for more on the idea of “indexing.”]</p>
@@ -4606,7 +4607,7 @@ Further notes:
 
 **Will Instructions Part 2 (the “opposite” or “absence” or “antidote” of/to will)**
 
-- If you become aware that it would be good to have faith [re faith: it or something will work out; something agentic or inevitable or spontaneous causally working on your behalf—the rest of you, or deeper parts of you, or entropic dissipation, or causal law, or the minimization of free energy, or god, or the entire experiential field, Buddha nature, synchronicity, something that you don’t directly and immediately identify as “volitional-you-proper” is figuring it out for you and changing you] or acceptance or forbearance or [even] resignation about something relative to your fate/destiny/inevitability/choicelessness/expectation, and you can do so, surrender into, or surrender into facing that[(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality][release preconceptions], forget, dream, daydream, fantasize, reverie, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, let [it] relax, let [it] recede, let it undo itself, dream, get lost, be lost, forget, allow, surrender, suffer, free-associate, be confused, be uncertain, be out of control, let go, ‘controlled/channelized “falling backwards [into]”)’, give up, fail, give up completely be overtaken, be overwhelmed, be undone, be overcome, fail, give up, fail forever, give up completely, give up forever, forget, forget forever, forget temporarily, forget permanently. Easy in the harness.  
+- If you become aware that it would be good to have faith [re faith: it or something will work out; something agentic or inevitable or spontaneous causally working on your behalf—the rest of you, or deeper parts of you, or entropic dissipation, or causal law, or the minimization of free energy, or god, or the entire experiential field, Buddha nature, synchronicity, something that you don’t directly and immediately identify as “volitional-you-proper” is figuring it out for you and changing you] or acceptance or forbearance or [even] resignation about something relative to your fate/destiny/inevitability/choicelessness/expectation, and you can do so, surrender into, or surrender into facing that[(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality][release preconceptions], forget, dream, daydream, fantasize, reverie, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, let [it] relax, let [it] recede, let it undo itself, dream, get lost, be lost, forget, allow, surrender, suffer, free-associate, be confused, be uncertain, be out of control, let go, ‘controlled/channelized “falling backwards [into]”)’, give up, fail, give up completely be overtaken, be overwhelmed, be undone, be overcome, fail, give up, fail forever, give up completely, give up forever, forget, forget forever, forget temporarily, forget permanently. Easy in the harness.
 - If you become aware that it would be bad to have faith or forbearance or resignation or surrender or giving up, etc. about something relative to your fate/destiny/inevitability/choicelessness/expectation[e.g.][(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality], to forget, dream, hypnogogia, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, ‘controlled/channelized “falling backwards [into]”, fall-backwards-into, fall-forwards-backwards-into)’ […], etc.,  and you can (not) do so, do not surrender to that, don’t do that. [e.g./for example maybe: fight, resist, will, try everything, try different things, go back to the drawing board, exhaust every possibility, give it everything you have, try more things, etc., or not, or don’t]
 - If you find you can’t do one of the two above, then stop trying completely, will that you have the absence of trying and ultimately release even that; allow or participate in that happening.
 
@@ -4991,7 +4992,7 @@ This list is a work in progress:
 - knowledge/awareness of disbelief-as-such/“disbelief as such”
 - knowledge/awareness of [“particularly active”] disbelief-as-such/“disbelief as such”
 - knowledge/awareness of disbelief that X
-- knowledge/awareness of disbelief that X is real/true/obtaining 
+- knowledge/awareness of disbelief that X is real/true/obtaining
 - knowledge/awareness of seeming-darkness
 - knowledge/awareness of almost-darkness
 - knowledge/awareness of “blackness”
@@ -5323,52 +5324,52 @@ I note/respond:
 
 > the p2 language has [and has had, for a long time] “allow” and “participate” on the backend, but, yeah, this is coming up more with people. [One reason I haven’t emphasized top-down versus bottom-up, in the main practices, is that the distinction, eventually, in some sense collapses. Or, the line gets ever more blurred, or it very saliently moves. Some of the preliminary/auxiliary practices intentionally have a bottom-up flavor, e.g. “be moved.” Also, the baked-in emphasis on ability/can/can’t hopefully gives a flavor of circumscribing problematic top-down-ness. All that said,] I’m wondering if there could be something more explicit [or front-loaded, in the main practices, to help good things happen maybe sooner]. so instead of:
 >
-> will/intend/[…] :: ~surrender … “allow or participate in that happening”  
+> will/intend/[…] :: ~surrender … “allow or participate in that happening”
 > do :: undo … “allow or participate in that happening”
 >
 > maybe should be more like:
 >
-> will/intend/invite/permit/facilitate […] :: surrender […] “allow or participate […]”  
+> will/intend/invite/permit/facilitate […] :: surrender […] “allow or participate […]”
 > do/non-do :: undo […] “allow or participate […]
 >
 > reminding myself the current structure of p2:
-> 
-> 2 main parts will/do,  
-> each with two subparts will/surrender, do/undo,  
+>
+> 2 main parts will/do,
+> each with two subparts will/surrender, do/undo,
 > each with three subparts: good/bad/can’t
 >
 > notes on a couple takes/facets metaphysics of causation:
 >
-> necessary  
-> sufficient  
-> necessary and sufficient  
-> neither necessary nor sufficient  
-> cause/start  
-> stop/end  
-> prevent/block  
-> enable  
-> facilitate  
+> necessary
+> sufficient
+> necessary and sufficient
+> neither necessary nor sufficient
+> cause/start
+> stop/end
+> prevent/block
+> enable
+> facilitate
 > retard/inhibit
 
 I offered another partial schema, that maybe doesn’t front-load or specially emphasize “bottom-up” but is more explicitly balanced about this:
 
-> top-down willing  
-> top-down willing-to-enable plus bottom-up doing (and participating)  
-> top-down blocking-to-enable plus bottom-up doing (and participating)  
-> top-down allowing-to-enable plus bottom-up doing (and participating)  
-> top-down inviting-to-enable plus bottom-up doing (and participating)  
-> top-down permitting plus bottom-up doing (and participating)  
-> top-down surrender (and participating)  
-> top-down surrender-to-enable plus bottom-up doing (and participating)  
-> top-down doing  
-> top-down doing-to-undo / redoing-to-undo  
-> top-down doing-to-enable plus bottom-up undoing  
-> top-down blocking-to-enable plus bottom-up undoing  
-> top-down allowing-to-enable plus bottom-up undoing  
-> top-down inviting-to-enable plus bottom-up doing  
-> top-down permitting plus bottom-up undoing  
-> top-down surrender  
-> top-down surrender-to-enable plus bottom-up undoing  
+> top-down willing
+> top-down willing-to-enable plus bottom-up doing (and participating)
+> top-down blocking-to-enable plus bottom-up doing (and participating)
+> top-down allowing-to-enable plus bottom-up doing (and participating)
+> top-down inviting-to-enable plus bottom-up doing (and participating)
+> top-down permitting plus bottom-up doing (and participating)
+> top-down surrender (and participating)
+> top-down surrender-to-enable plus bottom-up doing (and participating)
+> top-down doing
+> top-down doing-to-undo / redoing-to-undo
+> top-down doing-to-enable plus bottom-up undoing
+> top-down blocking-to-enable plus bottom-up undoing
+> top-down allowing-to-enable plus bottom-up undoing
+> top-down inviting-to-enable plus bottom-up doing
+> top-down permitting plus bottom-up undoing
+> top-down surrender
+> top-down surrender-to-enable plus bottom-up undoing
 > bottom-up doing-to-undo / redoing-to-undo
 
 ### Interpersonal practice
@@ -6147,7 +6148,7 @@ Something to keep in mind is that some phenomenology is relatively more prone to
 
 In particular, phenomenology that is “dim,” “dark,” “black”(!), is not just harder to “see” than gross/overt/bright/clear/something phenomenology or even subtle/low-intensity/low-magnitude that’s not “black.” It’s, again, more prone to being misinterpreted/misconceptualized.
 
-“Very dark” or “black” phenomenology sometimes contributes to people, in part, locally, isolatedly, in some part of their “system,” “believing” that they’re nothing, or that they’re dead, or that nothing’s there, or the phenomenology itself is nothing, or there’s a black hole “there” that one might get sucked into, and so on. 
+“Very dark” or “black” phenomenology sometimes contributes to people, in part, locally, isolatedly, in some part of their “system,” “believing” that they’re nothing, or that they’re dead, or that nothing’s there, or the phenomenology itself is nothing, or there’s a black hole “there” that one might get sucked into, and so on.
 
 It might be worth noting that “black” phenomenology is still phenomenology! It’s still present!
 
@@ -6184,6 +6185,496 @@ All that said, it can be fine good to systematically, actively seek out some tri
 - trigger ~= something that can or does cause an abrupt (negative) state change, or change to local, behavioral propensities, that doesn’t depend on the rest of the environmental context
 - trauma ~= bodymind state/feeling/content/material that’s needs extra steps to be safe to re-experience, that in its dormant/latent state is a bottleneck/dependency on other/further valued changes
 
+
+### A dialogue between N and Mark, on reasoning and pre-reasoning
+
+[we use the example of “feet” a lot, but that’s just one example! we might have used hands, belly button, something. feet are a good heuristic thing to try, but it’s not a rule.]
+
+**N**
+> […]
+>
+> I guess the next logical question would be […]
+
+**Mark**
+> Want to say something like I think there’s a pre-rational step that’s being missed
+
+**N**
+> Say more!
+>
+> Wdym by pre-rational?
+
+**Mark**
+> You probably should pay attention to your feet a bunch or something versus trying to answer questions like […]
+>
+> maybe.
+>
+> but something vaguely like that, maybe extensively
+
+**N**
+> You think there's a frozen thing in the body that constrains reasoning and needs to be moved around a bit by correct placing of attention?
+
+**Mark**
+> YES. but, a lot, not a little bit
+
+**N**
+> Why won't reasoning work? The right answers simply won't pop up in my head or something?
+
+**Mark**
+> reasoning for most people mostly happens in a “virtual machine” and there’s only a trickle from that down to preference changes, behavior changes, and goal changes, even if one comes up with “right answers.” a failure mode is to keep collecting right answers indefinitely without them becoming a part of the “motivated seeming” of the world
+
+**N**
+> In my mind reasoning isn't disconnected from behavioral change, ala critical rationalism
+>
+> IME in any case where I see lack of progress, I can sort of clearly see why and what problems aren't solved yet
+>
+> I've never been in a situation where my problem seems explicitly solved, but no behavioral change follows
+
+**Mark**
+> That is true for some people, for some domains, contingently
+>
+> > In my mind reasoning isn’t disconnected from behavioral change, ala critical rationalism
+>
+> do you mean all minds or just some minds, like your mind?
+
+**N**
+> The latter, but I'd assume that they're reasoning incorrectly, i.e. missing important signals from the body or getting themselves in conceptual tangles without noticing
+
+**Mark**
+> yeah
+
+**N**
+> So maybe I got lucky with my mind, hehe
+>
+> Or I'm just deluded
+
+**Mark**
+> but incorrectly is a massive gradient, from extreme virtual machine to radical integration. almost everyone has a lot of confusions, at least at first
+
+**N**
+> Do you have any reasons to believe that certain mental moves, e.g. look at feet, just plain don't work and are based on spurious data?
+
+**Mark**
+> for some people doing that specifically will be the wrong thing to do at any given time. right thing right time in right order
+>
+> that’s why there’s 500+ p/a practices, etc., etc.
+
+**N**
+> Or, have you considered it?
+
+**Mark**
+> considered what?
+
+**N**
+> That they don't actually work
+
+**Mark**
+> the meta-protocol is a schematization of error checking and meta error checking. it’s an ongoing consideration of whether such things don’t work
+>
+> at any particular time for some particular person
+
+**N**
+> I see, I see
+>
+> But you don't have an explicit model that accounts both for the usually psychotherapy stuff and mental moves such as that, and can legibly translate from its language into their?
+>
+> Or do you
+
+**Mark**
+> sensory experiences sculpt the future propensities of the system. talk therapy is narrow sculpting that leaves out a huge range of possible experiences that can be used for sculpting
+>
+> the mind is highly intertwingled such that feet are involved in reasoning, usually confusedly. gotta sometimes e.g. pay attention to the feet to use e.g. talk therapy, correctly
+
+**N**
+> […] how/why sensory experience of one's feet can be useful for sculpting one's higher-level behavior and goals and shit?
+>
+> I understand the general idea
+>
+> But I don't understand how experiencing one's feet could be useful for changing beliefs about the world
+>
+> Feeling one's feet is very different from trying out new food and liking it, me thinks
+>
+> In this sense feet seem irrelevant
+>
+> To any major stuff
+>
+> Don't understand how feet are involved with reasoning :(
+>
+> Or can be
+>
+> The way you talk about it is very different from the language/ontology I personally use to make sense of this area
+
+**Mark**
+> one’s epistemic stack involves sensory experience of elbows, knees, voice tone, prosody, everything. all of it becomes the substrate for reasoning
+
+**Mark**
+> to improve reasoning one sometimes needs to unpack some of the lower-level stuff that doesn’t feel “meaning-laden,” like weird body sensations
+
+**N**
+> So suppose a person feels their feet
+>
+> And suppose she did it at the right time
+>
+> What happens next?
+>
+> An insight suddenly pops up in their head?
+>
+> Or maybe weird sensations appear in some body part
+
+**Mark**
+> they realize they were doing reasoning wrong, somehow, that was systematically biasing their conclusions. it’s usually not that direct but sometimes it is
+>
+> usually it’s lots of small steps
+>
+> that don’t seem to add up until the end
+
+**N**
+> And when it's not direct, what happens is something like 'next time they do think, they're able to look at the problem from a slightly different perspective or something'?
+
+**Mark**
+> that’s object-level, and that’s a thing too. but, meta-level, the reasoning system itself will work slightly differently, sometimes a bit worse before it’s long-run net better
+
+**N**
+> Aight
+>
+> And they could also maybe never experience anything meaning-laden throughout feeling their feet?
+
+**Mark**
+> yeah, plenty of stuff stays non-meaning-laden, contentless [throughout]
+
+**N**
+> But they find out that reasoning works a lil better (or worse) when they try it next time?
+
+**Mark**
+> yup
+
+**N**
+> Ohh
+>
+> Fuck, these inferences are, indeed, hard to make
+
+**Mark**
+> yes
+
+**N**
+> Like unless the person is systematic, they might never notice the connection
+>
+> Right?
+
+**Mark**
+> even if reasoning works a little better, that doesn’t mean a conclusion is guaranteed to pop out in any particular thinking/feeling session, ofc
+
+**N**
+> Yeah
+
+**Mark**
+> > Like unless the person is systematic, they might never notice the connection
+>
+> yes exactly
+
+**N**
+> You really need to put this into protocol
+
+**Mark**
+> it’s ridiculously long-range/counterintuitive, all things being equal
+
+**N**
+> It connects the right stuff
+>
+> For me and probably certain people
+
+**N**
+> Could it be that some people simply notice stuff like 'when I work out or do open awareness, I sort of can think better afterwards', and the model above explains why?
+
+**Mark**
+> yeah
+>
+> could you see if this existing section kind of says it:
+>
+> “headyness”/“heady-ness”/“headiness”
+
+**N**
+> I've read it, I think
+>
+> And it didn't
+
+**Mark**
+> ok
+
+**N**
+> How does one start noticing patterns such as this? (e.g. look at feet now, see more progress later)
+
+**Mark**
+> I think need to study a ton of people from the outside, or need a methodological bootstrap, from the inside.
+
+**N**
+> How could studying people work?
+
+**Mark**
+> the methodological bootstrap, for me, was p2 plus the meta protocol.
+
+**N**
+> Like, it's so hard to notice it in yourself
+
+**Mark**
+> wayfinding in methodology/theory space
+
+**N**
+> How would it be easier to notice in others?
+
+_[delay]_
+
+**Mark**
+> i’m looking for the original Gendlin Focusing research study
+
+**N**
+> Go on
+>
+> Oh
+
+**Mark**
+> they tried to figure out why some people made progress in therapy and others didn’t, and that’s how they isolated “focusing moves”
+
+**N**
+> It has something about that
+>
+> Yeah
+>
+> I know
+>
+> Doesn't seem like something that's possible for a regular Joe to do
+
+**Mark**
+> and so my stuff, for example, could be considered a generalization of that original observation
+
+**N**
+> Aight
+>
+> What do you think determines the amount of time one needs to look at their feet? Like, why a lot or a little in certain cases?
+
+**Mark**
+> > Doesn’t seem like something that’s possible for a regular Joe to do
+>
+> it is very freaky when it feels like “me or someone maybe couldn’t have figured out this important thing without outside stimulus”
+>
+> very unpleasant, at first, at least for me
+
+**N**
+> Does anything else matter, aside from looking when feel stuck?
+
+**Mark**
+> > What do you think determines the amount of time one needs to look at their feet? Like, why a lot or a little in certain cases?
+>
+> has to do with deep contingent structure of any particular system based on experiences that person has had and prior attentional propensities
+
+**Mark**
+> hard to explicate which is why personal global wayfinding can help
+
+**N**
+> Wanna unpack 'prior attentional propensities'?
+
+**Mark**
+> including possibly reads by people who are a bit farther on the journey
+>
+> the experiences we have determine the structure of the system and the future propensities of the system
+
+**N**
+> > What do you think determines the amount of time one needs to look at their feet? Like, why a lot or a little in certain cases?
+>
+> > Wanna try unpacking the gears behind 'deep contingent structure of...'?
+
+**Mark**
+> so the necessary order of refactoring of a system will depend on that causal history
+
+**N**
+> What do you think determines the amount of time one needs to look at their feet? Like, why a lot or a little in certain cases?
+>
+> Maybe with an example
+
+**Mark**
+> it’s really hard to say. if someone ignored their feet a lot or spent a lot of time attending to their feet, at some point in their life. then, in meditation or whatever, they’ll probably need to spend a lot of time with their feet.
+>
+> it’s like a collection of loosely coupled stacks, in the computer science sense. LIFO: last in first out, in terms of the order one needs to sort of touch stuff in to refactor
+>
+> loosely coupled partial orderings
+
+**N**
+> So from a subjective experience viewpoint, what mostly happens is just you staring at feet and nothing really happens while you're doing it
+>
+> And you do it for a long time
+>
+> Maybe regularly or at once
+
+**Mark**
+> kind of. one can keep running navigational stuff like meta protocol, but there can be a lot of up-front uncertainty.
+>
+> the “how” matters, too. things like top-down attending vs “letting feet come to you” and stuff like that. and might need to interleave many other things. could extend timeline if just forcefully tried to attend to something in a contiguous block. needs to be patient, gentle, curious, cautious, etc. etc.
+
+**N**
+> Is it a linear thing? I.e. the less you looked at feet before, the more you gotta do it? What happens behind the scenes while you do it?
+
+**Mark**
+> but yeah, it can take a long time before one gets a sense of whether “something’s happening” or not. it’s a very gradual increase in sensitivity and long-range wayfinding
+>
+> i think it’s sublinear for any particular thing and superlinear globally
+>
+> but still practically finite. a fraction of the time one has already been alive
+
+**N**
+> ^ don't understand sub/supra
+>
+> Also would like to get an answer to 'what happens behind the scenes', if ok
+
+**Mark**
+> so like if feet stuff was weird for five years, then maybe only need 500 hours of feet stuff and not five years of feet stuff
+>
+> there’s a compression thing
+>
+> but there’s still sort of a combinatorial explosion of pairwise e.g. feet interaction with other things.
+>
+> lots of recursion
+>
+> behind the scenes it’s like A comes into contact with B and yields A-prime and B-prime, and there’s like a huge number of these little interactions that have to occur and reoccur
+
+**N**
+> What's ‘A-prime'?
+
+**Mark**
+> A-prime is A but a little different
+
+**N**
+> (prime, is that from maths?)
+>
+> Ok
+
+**Mark**
+> yeah
+
+**N**
+> And A and B are beliefs or something?
+
+**Mark**
+> beliefs, anticipations, synaptic potentials, something
+
+**N**
+> Cool
+>
+> And that happens unconsciously?
+>
+> I assume
+
+**Mark**
+> one can infer it sometimes from skeletal muscle changes, tingles, insights, and other phenomenological changes, but it can seem like nothing is happening sometimes for many hours
+
+**N**
+> If something bubbles up to consciousness, then in what form?
+>
+> Cool
+
+**Mark**
+> insights, realizations, muscle tension changes, yeah
+
+**N**
+> You have a list in the end of all stuff that could be useful to look through
+
+**Mark**
+> yeah
+
+**N**
+> Is there a way you can dissect that list? E.g. hands/feet usually are more useful, so try maybe starting with those first, but be gentle and self-aware etc etc
+
+**Mark**
+> i think i give some rough heuristics somewhere
+>
+> in various lists and more sections
+
+**N**
+> Where?
+>
+> Hm
+>
+> Can't recall seeing that
+
+**Mark**
+> extremities and stomach, not the head, are good places to experiment with, first. but too much can tangle further, etc,. etc.
+
+**N**
+> Aight
+
+**N**
+> Is there more info in those places in the protocol?
+
+**Mark**
+> > Is there more info in those places in the protocol?
+>
+> i don’t do too much of this because it’s so personally contingent and blocky suggestions might cause people to ignore subtle stuff that’s not in my suggestions
+
+**N**
+> Cool
+>
+> Aight thanks
+>
+> Oh
+>
+> How can you notice that I need to e.g. look more at feet?
+>
+> Is it something you infer from what I say and the types of problems I'm dealing with, for example?
+
+**Mark**
+> If something feels stuck, wrong, etc., but usually hope to e.g. look at feet long before that.
+
+**N**
+> Oh
+
+**Mark**
+> > Is it something you infer from what I say and the types of problems I’m dealing with, for example?
+>
+> usually not object level problems, though sometimes, but general patterns, yeah
+
+**N**
+> So in my case I don't feel like I'm completely stuck, more like 'it's moving too slow'. But I don't feel that I literally tried all I can and that my current way of dealing w stuff can't give me more progress atm
+>
+> Is that why
+>
+> You say that I should continue with what I do
+>
+> And maybe eventually naturally exhaust the potential
+>
+> Of what I'm doing?
+
+**Mark**
+> Maybe!! But can be good to keep alternatives in mind, too, and maybe interleave a little bit, increasingly over time
+
+**N**
+> But if I interleave, I won't be able to clearly notice that that's what's helping me
+>
+> And I'll keep thinking that my method is working
+
+**Mark**
+> There may be ways to do it while not confounding too much. Not entirely overlapping lead indicators.
+>
+> But it’s a good point
+
+**N**
+> Say more?
+>
+> Re ways
+
+**Mark**
+> you may notice different good things via your current way versus trying new things, making it possible to know where the good things are coming from
+>
+> there will be some overlap, probably, but not complete overlap
+
+**N**
+> Oh
+>
+> Ok
+>
+> Aight, cool
+>
+> Thanks for doing this conversation!
+
+**Mark**
+> you’re very welcome. thank you for your questions
 
 ### “Psychic” and “supernatural” stuff: what/how/how-not [draft]
 
@@ -6277,7 +6768,7 @@ So, we’re pretty far down in this section, and we sort of haven’t talked abo
 
 Again, some people will barely encounter any of this, or won’t for a very long time, and other people will encounter a bunch of it, up front, and/or it will even be pretty central for a while, maybe getting bad or worse, in a bunch of different ways, before it gets better.
 
-In any case, the main point of this subsection is to unpack these ideas of “integrate” or “metabolize” a little bit more. 
+In any case, the main point of this subsection is to unpack these ideas of “integrate” or “metabolize” a little bit more.
 
 By “metabolize” or “integrate,” this doesn’t mean that you, in some sense have to either “keep” a bad or unwanted thing or, again, that you have to “give up”/“dissolve” a good thing.
 
@@ -6307,7 +6798,7 @@ Regarding “me” versus “not me” (versus even an initially mixed situation
 
 It might seem initially complicated, but, ultimately, you’ll sort of transcend any particular mechanistic or stereotyped framework or set of steps!
 
-You don’t need to memorize patterns, rules, etc.! You will bottom-up acquire them, implicitly or explicitly, in any case. It can be helpful to write things down, sometimes, buckets, lists, reminders, messy or organized. It can be helpful to try strategies in this document and to articulate/write your own variations in your own words. In any case, there is a simplicity on the far side of complexity. Eventually, there’s a real sense that you’re “just doing one thing,” whether something is person-like, pattern-like, you, not-you, good, bad, safe, unsafe, etc. Eventually you’ll go/experiment/learn/succeed largely by “feel,” “beneath” language and even concept or category. 
+You don’t need to memorize patterns, rules, etc.! You will bottom-up acquire them, implicitly or explicitly, in any case. It can be helpful to write things down, sometimes, buckets, lists, reminders, messy or organized. It can be helpful to try strategies in this document and to articulate/write your own variations in your own words. In any case, there is a simplicity on the far side of complexity. Eventually, there’s a real sense that you’re “just doing one thing,” whether something is person-like, pattern-like, you, not-you, good, bad, safe, unsafe, etc. Eventually you’ll go/experiment/learn/succeed largely by “feel,” “beneath” language and even concept or category.
 
 And, you’ll make mistakes! Sometimes you’ll find that something you’ve been treating as “you” or “not you” is actually the other case, or it’s an initially mixed case that’s more complicated than you thought. Many people, most people, will have inevitable error propagation mixed in with error correction. Try not to have this happen, but it will(!!!!), and that’s ok. It’s ok to make mistakes, part of the 5,000-10,000 hours, or whatever, accounts for thousands of hours worth of mistakes and backtracking!!!!!!!!!!!!!!!!!!!! [sic]
 
@@ -6425,7 +6916,7 @@ This can all be very tricky to talk about, for several reasons. (Note, when I sa
 
 “Ideological,” here, means “beliefs plus plans” (as always, very loosely speaking) about how things should be, how things should go, how things should happen, locally, globally, cosmologically, etc. “And if they *don’t* or *didn’t* go that way, well, it’s nearly unthinkable, barely considerable, that it could go otherwise, even obviously impossible that it could go otherwise; it would be disastrous[, evil, universe-rending, something.]”
 
-Ideological components [explicit, unstated, never stated, reflective, or fish-in-water] could be in regard to interpersonal care, intimacy, group dynamics, sexuality, consent, coercion, child care, elder care, autonomy, agency, etc. 
+Ideological components [explicit, unstated, never stated, reflective, or fish-in-water] could be in regard to interpersonal care, intimacy, group dynamics, sexuality, consent, coercion, child care, elder care, autonomy, agency, etc.
 
 People might explicitly defend their “ideological positions” by way of all sorts of things like “civilizational decline,” atomization, ennui, conservatism, traditionalism, naturalness, empathy, “the current state or trajectory of the world,” science, evolution, the march of progress, morality.
 
@@ -6453,9 +6944,9 @@ In conclusion, one could be thought of as sometimes having a scattering of “de
 
 [I’m indebted to a few collaborators for initial salience that a bunch of this was even a thing, and more.]
 
-It’s maybe less controversial that, if one eventually encounters pretty much everything, including very early life stuff, that one will eventually come across things like surgeries under general anesthesia and traumatic medical or ritual events like circumcision (depending on decade born, where in the world, and parental culture.) 
+It’s maybe less controversial that, if one eventually encounters pretty much everything, including very early life stuff, that one will eventually come across things like surgeries under general anesthesia and traumatic medical or ritual events like circumcision (depending on decade born, where in the world, and parental culture.)
 
-As a side note, it seems like people, the bodymind, actually is/are unconscious while under general anesthesia—there’s not some ultimately recoverable, intensely painful memory, or maybe even any sense of pain. It does seem like there’s maybe the faintest, diffuse shadow of pain and/or some mild “blurring” around the edges of the system, as it were. But this seems to be straightforward to clean up in meditation and doesn’t seem to heavily bottleneck people, as far as I can tell. It might be different for different people. 
+As a side note, it seems like people, the bodymind, actually is/are unconscious while under general anesthesia—there’s not some ultimately recoverable, intensely painful memory, or maybe even any sense of pain. It does seem like there’s maybe the faintest, diffuse shadow of pain and/or some mild “blurring” around the edges of the system, as it were. But this seems to be straightforward to clean up in meditation and doesn’t seem to heavily bottleneck people, as far as I can tell. It might be different for different people.
 
 Anyway, regarding “everything,” one might note that these are things that can happen preverbally and in the seeming “amnesia period” of early life events. So, one point, here, is that people do, in some relatively typically, fairly discretely sense, sometimes, have recoverable early life and preverbal memories. And these, quickly or eventually, are indeed recovered, re-experienced, and re-interpreted, etc., in meditation.
 
@@ -6503,7 +6994,7 @@ This has been a difficult section to first-pass draft, because it could come off
 
 (Regarding “proof” of all of this, beyond meditation, some mothers will be like “of course,” as well as shamans, bodyworkers, healers, etc.)
 
-Anyway, this section has focused sort of on the “bad/traumatic cases” because that’s what can tend to bottleneck and then saliently come up in meditation. 
+Anyway, this section has focused sort of on the “bad/traumatic cases” because that’s what can tend to bottleneck and then saliently come up in meditation.
 
 But, between mother and child (and father and other siblings and family members, both prenatally and postnatally), we also learn about love, compassion, warmth, safety, and much more.
 
@@ -6542,7 +7033,7 @@ In the course of meditation, one might seemingly find things from the people and
 - nationalist ideologies
 - global conflicts
 - cultural and historical “curses”
-- cultural and historical “paranoia”, fear, trauma, etc. 
+- cultural and historical “paranoia”, fear, trauma, etc.
 - generational salience, trauma, and ideology from the past 10-50 years
 - salience, trauma, ideology, colonialism from the past several hundred years
 - belief, religion, cosmology from different parts of the world, seemingly going back thousands of years or into prehistory
@@ -6580,5 +7071,6 @@ In the course of meditation, one might seemingly find things from the people and
 1. _Philosophical Investigations_, Wittgenstein
 1. _Meditation for the Love of It_, Kempton
 1. <https://vividness.live/2015/11/27/emptiness-form-and-dzogchen-ethics/> last accessed: 20200413
+1. Maté, Gabor. _Scattered minds: The origins and healing of attention deficit disorder._ Vintage Canada, 2011.
 
 <div style='margin-top: 10em'></div>
