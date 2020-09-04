@@ -1,6 +1,6 @@
 ## Mastery Protocol
 
-v101 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+v102 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 <div class='editorsnote'>
 <p style='text-align: center'><strong>Editor's note</strong></p>
@@ -162,6 +162,7 @@ Canonical location of this document: <https://github.com/meditationstuff/protoco
 - v98 20200824 06310c2766f3d007905758fe4d8ada92b0b60367.txt
 - v99 20200824 e3aac9ab2cb9370f8ac96cb7dd4d5b3b6de3a206.rtf
 - v100 20200831 8db595caf6e7b16c466cd1b8f5c0a9be53f7e803.zip
+- 20200831 7e970c91957b00aef1be97ea5dfc14a5ab3f975f.zip
 
 ### Credits
 
@@ -5441,6 +5442,9 @@ Ask, how can I safely explore ways that dissolve or solve those bad things?
 
 Ask, what does it say that I’m having this experience right here, right now? Ask, what does all this (sense/content/everything) say about everything else?
 
+##### Let a bodypart come to you
+
+Thus, e.g., let your feet come to you; let your legs come to you, and so on.
 
 #### Main practice(s)
 
