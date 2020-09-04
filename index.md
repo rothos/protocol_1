@@ -1,6 +1,6 @@
 ## Mastery Protocol
 
-v99 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+v100 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 <div class='editorsnote'>
 <p style='text-align: center'><strong>Editor's note</strong></p>
@@ -160,6 +160,7 @@ Canonical location of this document: <https://github.com/meditationstuff/protoco
 - v96 20200819 backup.rtf
 - v98 20200824 8f536062759c618b129d8e1f610f21c217d78042.txt
 - v98 20200824 06310c2766f3d007905758fe4d8ada92b0b60367.txt
+- v99 20200824 e3aac9ab2cb9370f8ac96cb7dd4d5b3b6de3a206.rtf
 
 ### Credits
 
