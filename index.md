@@ -2127,6 +2127,7 @@ v1.7 (Last updated: 2020-07-20; 05:06 CDT)
     - There is a "meta meta protocol" [_sic_] which is applying this protocol to itself. There are contextually better and worse ways to use this meta protocol and there are better and worse interpretations of how to use it. The "meta meta protocol" can help you move towards better and better interpretations and uses.
     - Note that the meta protocol can be used for other things besides meditation, such as problem solving, planning, or really anything, mental or physical.
     - Lots of things have the “flavor” or spirit of the meta protocol, without looking exactly like the below. You might feel like you’re “not doing the meta protocol” but you actually are! Any time you’re wondering whether you doing the right thing, or if a good or bad thing happened, or you’re asking other people and dialoguing about it—that’s “going meta.” It doesn’t have to have the exact form of the below and it doesn’t have to be done explicitly.
+    - You might simply ask, what are all the options/affordances, here, and which might be good right now to pick?
     - Intuition! Feeling! Body! You can ask the questions with the body, the mind, or the bodymind, or anything, or everything. And you can listen/feel for answers with the body, the mind, or the bodymind, or anything, or everything.
 
 2. Retrospective Evaluation of Happening and Doing
@@ -5286,6 +5287,160 @@ Can you turn impossibility into possibility, even if it's with the knowledge you
 
 Incline toward noticing whether thoughts are “actively thought” or “passively/spontaneously arise”
 
+##### Implications/inferences
+
+Ask, what are the implications/inferences?
+
+##### Presuppositions
+
+Ask, what are the presuppositions?
+
+##### Premises
+
+Ask, what are the premises?
+
+##### Conclusions(s)
+
+Ask, what's the conclusion? What are the conclusions?
+
+##### Upstream implicatoins/inferences
+
+Ask, what implies this?
+
+##### Mechanism
+
+Ask, what causes this? Ask, what does this cause? Ask, what's going on, here, and, how does this work? Ask, where is the causing, starting, stopping, preventing, blocking, enabling? Ask, what exists, here? Ask, what's present? Ask, what's absent?
+
+##### Intrinsic motivation
+
+Ask, as far as I can tell, right now, what is my most non-fear-based intrinsic motivation behind doing or wanting this?
+
+##### Someone else
+
+Ask, do you have an expectation of someone else being there? Ask, who else is there? Ask, how do you know the difference(s) between you and them?
+
+##### First feel
+
+What's the immersive feel of the first experience you had that eventually participated as part of a collection of evidence for this/X?
+
+##### Age
+
+How old are you being right now? What are all the ages that you're being right now? What's the feel of all the different ages you're being right now?
+
+##### Spend time with the parts that feel younger
+
+Thus.
+
+##### How
+
+How are you doing any particular thing that you’re doing? Are there different ways? Is there an opposite way yet with the same intention?
+
+##### Let it come to you
+
+Thus, and instead of going there or making it happen, let it/them/X come to you.
+
+##### Exhaustivity
+
+Gently, exhaustively, explore all of it. Anything left? Is that all of it? And again? And more? And more? Anything else? Is that all of it?
+
+##### Binaries and mutual exclusivities
+
+What's the that to this this, or the not this to this this? With nothing in between? (Or, ask, what's the mutually exclusive and exhaustive list?)
+
+##### Nebulous counting
+
+Without making there be discrete things, gently try to count and maybe list all the things. Allow any indeterminacy to be as it is. You might talk about that indeterminacy, but you don't have to.
+
+##### Enumerating nebulous pushing
+
+Gently count all the ways you're pushing. Don't try to force-dispel any nebulosity. Allow any indeterminacy to be as it is. For each one or any or all nebulous sense, you might ask if it's productive or unproductive.
+
+##### Start time
+
+Ask, when did it/that/X start?
+
+##### Slowly
+
+Do X really, really, really, really slowly.
+
+##### First or already
+
+What’s your first inclination with respect to what to do with X and/or what are you already preflectively doing with respect to X? You might gently distinguish between these two, if they're both present, and put an name to each or describe each.
+
+##### Delta
+
+Ask, what's the delta between then and now? What's the difference? What's changed?
+
+_Comment:_
+
+"Then" and "now" can be milliseconds apart of years apart.
+
+##### Knowns
+
+- Ask, what are the known knowns?
+- Ask, what are the known unknowns?
+- Ask, how might I know the good to know, knowable, currently unknown, not-yet-knowns?
+
+##### Give up how
+
+Give up the "how" of how something needs to happen.
+
+##### Ask for help (j)
+
+Thus.
+
+##### Necessary connections
+
+Ask, is this/it/X necessarily connected or contingently connected?
+
+##### Body questions
+
+Ask particular patches, regions, surface, parts, interiorities, volumes of your body questions. What are you? What’s good for you? What’s happening here? Who are you? Who are you being? What do you want? How can I help you? Do you have anything to tell me? What do you need?
+
+##### Spacious eye relaxation
+
+Look down at a wide open field and “release your eyes” until you get that zoom/parallax effect that eventually fades or runs out. 
+
+##### Seek sensory wonder in the "external" world
+
+Thus.
+
+_Comment:_
+
+<https://twitter.com/meaningness/status/1260943613833302017> (last accessed: 2020-08-31) “agendaless involvement in sensory fascination”
+
+##### Intend versus will
+
+Explore whether which words feel better: "will," "willing," "intend," "intending," "intention", ...
+
+##### Need imagining (m\*)
+
+Ask yourself to show you the need in full.
+
+1. imagine never getting the opportunity to have [thing] again
+1. imagine this thing not actually being the thing you need
+1. imagine not even wanting this thing, or needing it, and being fine
+
+##### Walk five miles
+
+Thus.
+
+##### Why not already
+
+Ask, why hasn’t this sort of automatically metabolized itself already?
+
+##### Safe to know, to understand, to look, to be able to tell
+
+Ask, how might I make it safe to know it/this/X? Ask, how might I make it safe to understand it/this/X? Ask, how might I make it safe to look at it/this/X? Ask, how might I make it safe to be able to tell (if) X/it/this?
+
+##### Solve or dissolve
+
+Ask, how can I safely explore ways that dissolve or solve those bad things?
+
+##### Right here, right now says
+
+Ask, what does it say that I’m having this experience right here, right now? Ask, what does all this (sense/content/everything) say about everything else?
+
 
 #### Main practice(s)
 
@@ -5889,6 +6044,11 @@ This list is a work in progress:
 - knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
 - knowledge/awareness of credulity+naivete+{having no idea what's going on}
 - knowledge/awareness of "reality pocket"
+- knowledge/awareness of heaviness (h)
+- knowledge/awareness of lightness (h)
+- knowledge/awareness of world pockets
+- knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
+
 
 ###### p4
 
@@ -6160,6 +6320,12 @@ This list is a work in progress:
 1. What if life is suffering?
 1. What if you’re being utterly carried and held in this physical world, this very moment, and this one?
 1. What would happen if you were ok?
+1. What are all the ways actual empathy could work?
+1. What are all the ways perspective-taking could work?
+1. Are you a person, through-and-through? Is it safe to not be a wholly a person or to not be a person, when/if needed?
+1. Are you willing to have X forever?
+1. Are you willing to be exactly this way forever? How would that look? What would you do right now in that world?
+
 
 ###### p9
 
@@ -7944,7 +8110,7 @@ In the course of meditation, one might seemingly find things from the people and
 1. Gendlin, Eugene T. _Experiencing and the creation of meaning: A philosophical and psychological approach to the subjective._ Northwestern University Press, 1997.
 1. Earley, Jay. _Self-Therapy: A Step-By-Step Guide to Creating Inner Wholeness Using Ifs, a New, Cutting-Edge Therapy._ Hillcrest Publishing Group, 2009.
 1. Andreas, Connirae, and Tamara Andreas. "Core transformation." Constructive Therapies V2 2 (1998): 275.
-1. https://www.google.com/search?q=connirae+andreas+coming+to+wholeness
+1. <https://www.google.com/search?q=connirae+andreas+coming+to+wholeness>
 1. Grimes, Pierre, and Regina L. Uliana. _Philosophical midwifery: A new paradigm for understanding human problems with its validation._ Hyparxis Press, 1998.
 1. Ericsson, K. Anders, and Herbert A. Simon. _Protocol analysis: Verbal reports as data._ the MIT Press, 1984.
 1. Demmin, Herbert S. _A Theory of the Microdynamics of Occurrent Thought._ Lexington Books, 2015.
@@ -7978,10 +8144,10 @@ In the course of meditation, one might seemingly find things from the people and
 1. Kim, Hee-Jin. _Dogen on Meditation and Thinking: a Reflection on his View of Zen._ SUNY Press, 2007.
 1. Deacon, Terrence William. _The symbolic species: The co-evolution of language and the brain._ No. 202. WW Norton & Company, 1998.
 1. Tomasello, Michael. _Constructing a language._ Harvard university press, 2009.
-1. https://greg-goode.com/article/logic-and-the-direct-path/ (last accessed: 2020-08-31)
-1. https://greg-goode.com/spirituality/the-nature-of-thought-1939-a-personal-review/ (last accessed: 2020-08-31) 
+1. <https://greg-goode.com/article/logic-and-the-direct-path/> (last accessed: 2020-08-31)
+1. <https://greg-goode.com/spirituality/the-nature-of-thought-1939-a-personal-review/> (last accessed: 2020-08-31) 
 1. Blanshard, Brand. _Reason and analysis (vols. 1 and 2)._ Routledge, 2014.
 1. Fricker, Miranda. _Epistemic injustice: Power and the ethics of knowing._ Oxford University Press, 2007.
-
+1. <https://en.wikipedia.org/wiki/Enactivism> (Last accessed: 2020-08-31)
 
 <div style='margin-top: 10em'></div>
