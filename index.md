@@ -1914,9 +1914,7 @@ Something not explicitly noted in the above, but implicitly there, is that, at l
 
 ### But is it meditation? (a dialogue between J and Mark)
 
-#### Excerpt I
-
-**Jonathan [9:11 PM][Ed: 2019-04-11; 21:32 PDT]**
+**J**
 > a couple more things that come to mind maybe for future versions. excuse the ramble-i-ness
 >
 > do you think it could be useful/important to table set a little bit? something along the lines of (but not necessarily this, just something in this direction): this will likely feel different from previous meditation you’ve done, if you’ve done some. i think past versions had something like this. and kind of for the reason I mentioned in […]: I could see people spending a fair amount of time trying to shoehorn this practice into their prior conception of what meditation practice is. i guess p2, p8, and p1 stand a good chance of addressing this directly without it having to be written out. i wonder how useful or not some making this explicit would be. :thinking_face:
@@ -1933,9 +1931,7 @@ Something not explicitly noted in the above, but implicitly there, is that, at l
 >
 > for example wrt to the above, knowing stuff like this has made it easier for me to trust that the right things are happening at times, or trust that my mind can do good things, and stuff like that. depending on the models of mind people are running on i could expect there to be a lot of self fighting and self flailing and not self trusting in ways that might be bad. for example, if you’re coming from a tmi practice you might believe that your mind is this thing you need to wrangle, that you know better than, stuff like that. little bits of theory like this could help people understand how the practice works, why it’s different than practice they’ve done before, and possibly have the needed faith to try it out for 100+ hours
 
-#### Excerpt II
-
-**Jonathan [4:32 PM]**
+**J** continues
 
 > The way I've been orienting to [this protocol versus other meditation protocols] myself recently is not through the meditation frame (though it is that and becomes that feel again eventually) but through the "going all the way to the bottom and from first principles as it were figuring out how to use a mind" frame, or something in the ballpark of that (edited)
 >
@@ -1943,11 +1939,11 @@ Something not explicitly noted in the above, but implicitly there, is that, at l
 >
 > I guess this is a bit of a tangent now
 
-**Mark [5:15 PM]**
+**Mark**
 
 > Cool. It is really different than [other] meditation [procedures] in a lot of ways. […]
 
-**Jonathan [6:46 PM]**
+**J**
 
 > yeah. i definitely think it is meditation. i'm probably being critically unappreciative, but there's a way in which other meditations are more narrow/constrained and this stuff is still meditation but wholeheartedly takes on the whole mind and every part of it. maybe it's all the same in the limit or something.
 >
@@ -1955,51 +1951,51 @@ Something not explicitly noted in the above, but implicitly there, is that, at l
 >
 > […]
 
-**Mark [8:00 PM]**
+**Mark**
 
 > > trying to make this what i understood to be meditation
 >
 > how does that look? can you say more? want to innoculate (and i'm sorry)
 
-**Jonathan [8:03 PM]**
+**J**
 
 > so after like n years knowing about tmi and noting and related practices, i had implicit models about how meditation works. the general general shape of the model was something like: your mind is a tool/machine, and you need to make it sensitive tool/machine such that one day it can finally pick up on some details of experience that lead to insight. step 1) develop powerful tool [powerful experienced as stable in the case of tmi, and perceptive in the case of noting]. step 2) use tool to examine reality
 >
 > importantly nowhere in this model was there a sense that meaningful progress was being made up until the point of insight (edited)
 
-**Mark [8:05 PM]**
+**Mark**
 
 > so like train tool/build microscope, then use microscope? does that simplify it too much?
 
-**Jonathan [8:05 PM]**
+**J**
 
 > nope that's pretty much exactly it
 
-**Mark [8:05 PM]**
+**Mark**
 
 > hmm k
 
-**Jonathan [8:05 PM]**
+**J**
 
 > i'm guessing this is common, but i'm not positive
 
-**Mark [8:05 PM]**
+**Mark**
 
 > i think ingram sort of implies this
 
-**Jonathan [8:05 PM]**
+**J**
 
 > and there was a model for what made a good microscope too
 
-** Mark [8:05 PM]**
+**Mark**
 
 > like if you just use your microscope enough
 
-** Jonathan [8:06 PM]**
+**J**
 
 > i think it was the model of what i thought made a good miscroscope that was especially problematic
 
-**Mark [8:06 PM]**
+**Mark**
 
 > so then ppl like spend 1000 hours examining the blobs behind their closed eyes
 >
@@ -2007,11 +2003,11 @@ Something not explicitly noted in the above, but implicitly there, is that, at l
 >
 > say more?
 
-**Jonathan [8:07 PM]**
+**J**
 
 > sure. and eventually we should try to figure out why it is possible to have success with that metaphor. like, is it success in spite of the misconception? or is something else happening? [and ofc not everyone does have success and stuff]
 
-** Mark [8:07 PM] **
+**Mark**
 
 > > like, is it success in spite of the misconception?
 >
@@ -2019,7 +2015,7 @@ Something not explicitly noted in the above, but implicitly there, is that, at l
 >
 > noting is close enough that people can slip into doing the right thing, especially with a teacher who succeeded
 
-**Jonathan [8:08 PM]**
+**J**
 
 > so as mentioned with both noting and concentration, even tho the skills are different, what a successful microscope looks like in both cases involves something in the ballpark of mindfulness or "with it ness"
 >
@@ -2031,33 +2027,33 @@ Something not explicitly noted in the above, but implicitly there, is that, at l
 >
 > something about sustained continuity of a thing over time seems to be the thing
 
-**Mark [8:09 PM]**
+**Mark**
 
 > so like almost indiscriminately maxing out continuous contact with bare sensations, sort of?
 >
 > i guess that's what you said
 
-**Jonathan [8:10 PM]**
+**J**
 
 > yeah yeah that's in there too
 >
 > and with this stuff, it doesn't seem like striving for uniterruptedness is important (until it happens on it's own), and it seems like there's plenty of room for non purely sense stuff too
 
-**Mark [8:10 PM]**
+**Mark**
 
 > (noting that i myself thought exactly all of this. pretty much exactly.)
 >
 > yeah
 
-**Jonathan [8:10 PM]**
+**J**
 
 > and so it didn't really feel like i was developing a microscope
 
-**Mark [8:11 PM]**
+**Mark**
 
 > ah, ok
 
-**Jonathan [8:11 PM]**
+**J**
 
 > yeah. even people who ahven't meditated before often have a model as it being about "no thinking", or "staying with the present"-ness
 all of [that] is distinct from [this protocol]
@@ -2066,13 +2062,11 @@ all of [that] is distinct from [this protocol]
 >
 > oh cool! affirming yay
 
-**Mark [8:12 PM]**
+**Mark**
 
 > yup
 
-#### Excerpt III
-
-**Jonathan [10:24 PM]**
+**J**
 
 > Actually I just kind of remembered something funny. I remember at SFDC in the fall with Shinzen, you were telling [S] and I something like, "I think the updates that happen leading up to streamentry are as important as streamentry". And I remember internally thinking: "what do you mean updates before streamentry??" In quite a literal sense I thought streamentry was like a single belief toggling from off to on (preceded by no updates of significance).
 >
