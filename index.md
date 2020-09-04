@@ -2201,6 +2201,10 @@ Further, "generalization" runs "deep," to ever-finer things one might do with ev
 
 Finally, for any given person, sooner or later, they will experiment with a preliminary/auxiliary practice and find that it's jarring, grindy, disruptive, something. Not all practices will be net good for people at all times, and plenty will be potentially detrimental. (Maybe only a tiny, different fraction of them will be useful for any particular person.) As one progresses in meditation, less and less "top-down" or "random" "mental actions" (not to inappropriately reify anything of that) will be useful! It's ok to put preliminary/auxiliary practices down and never pick them up again (or to never try some of them at all, ever), and so on.
 
+Meditation is global wayfinding. Everything you do changes you. Have every degree of freedom at your disposal in the service of better and better--the right things, in the right order, at the right time, ultimately beyond reason and conception (though reason and conception are still good, before, sometimes during, and after).
+
+If the list is overwhelming, the meta protocol can help bootstrap intuitive navigation and selection of practices, from the preliminary/auxiliary practices and of course what to do, when, with respect to the entire protocol. It's ok to choose randomly and experiment. There is time. It's included in the "10,000 hours."
+
 Again, the preliminary/auxiliary practices are sometimes useful to explore before and concurrently with the main practices, especially main practice p2.
 
 ##### Do less
@@ -5036,6 +5040,253 @@ If I were on a drug right now, what would it be called? Is this a good trip or a
 
 thus
 
+##### DIY p3 and/or p8 (h)
+
+Make new versions of the lists in p3 and/or p8 for yourself, based on your own experiences.
+
+##### Best attention (h)
+
+Gently, dreamily seek the best place/orientation/position for your attention, right now.
+
+##### Pay atentionto detail (d)
+
+Thus.
+
+##### Own your shit (h)
+
+Own your fucking shit: your problems, your grievances, your situation, your past, your feelings, your mistakes. They’re yours. Own them.
+
+And while you’re at it: your achievements, your skills, your friendships, your future, your potentiality, your pride, your worth. They’re yours. Own them.
+
+##### Confront it gently (h)
+
+Try confronting it in a very slow, easy, gentle way.
+
+##### Taxonomize phenomena (h)
+
+Explicitly, provisionally taxonomize/categorize the relevant thing(s)
+
+##### Be fluid (h)
+
+Be fluid, supple, yielding.
+
+##### Disobey (h)
+
+Thus.
+
+##### Go orthogonal (h)
+
+Consider the axis defined by what you’re doing (or trying to do) and its opposite. now go in an orthogonal direction.
+
+##### Intention shaping (h)
+
+Play with and perfect your intention.
+
+##### Only action (h)
+
+stream of consciousness for doing — don’t think or plan, just [safely] act in the world, for a bit.
+
+##### Dream big (h)
+
+Thus.
+
+##### Be generous (h)
+
+Be generous and charitable, literally or metaphorically.
+
+##### Look for what’s missing
+
+Thus.
+
+##### Compose a will (h)
+
+Compose a last will and testament, even a brief or incomplete or inadequate one.
+
+##### Befriend (h)
+
+Try befriending it.
+
+##### Wrong (h)
+
+Directly ask, what might I be wrong about?
+
+##### Disconnected value (m)
+
+Ask, what things do I seem to value that seem totally disconnected from the other things I value?
+
+_Comment:_
+
+Main one I'm familiar with is "family".
+
+##### The big picture (h)
+
+Consider the big picture, or a bigger picture.
+
+##### Identify the different forces at play (h)
+
+Thus.
+
+##### Repeat an error (h; gpt-3)
+
+Deliberately do something that embarrassingly backfires or leads to an embarrassing or inappropriate response.
+
+##### Repeat a success (h; gpt-3)
+
+Deliberately do something that leads to positive or satisfying results.
+
+##### Reverie/daydream (h; gpt-3)
+
+Let your mind wander in whatever direction it wants to.
+
+##### Focus on what feels best/worst/neutrally good/bad (h; gpt-3)
+
+Thus.
+
+##### Focus on the good/bad of a past event (h; gpt-3)
+
+Thus.
+
+##### Concentrate on something to the exclusion of all else (h; gpt-3)
+
+Thus and notice subtle or gross wavering or interjection.
+
+##### Engage in overt positive/negative self-talk (h; gpt-3)
+
+Thus.
+
+##### Engage in covert positive/negative self-talk (h; gpt-3)
+
+Thus.
+
+##### Allow yourself to be emotionally affected (be susceptible) (h; gpt-3)
+
+_Comment:_
+
+Be empathetic for example.
+
+##### Allow yourself to be intellectually influenced (be vulnerable) (h; gpt-3)
+
+Notice and allow for an influence on or by your thoughts and/or emotions.
+
+##### Losing control (h; gpt-3)
+
+Experiment with losing control. Have it, enjoy it. Then, let it go.
+
+##### Masturbate (h; gpt-3)
+
+Thus.
+
+##### Origins and name (h; gpt-3)
+
+Ask what’s the origin of X/that? What’s the name of X/that?
+
+##### All of it (h; gpt-3)
+
+Ask, is it all of it?
+
+##### Balanced perspective (h; gpt-3)
+
+Ask to be balanced in your perspective. Can you see the good, bad, and ugly of X/that?
+
+##### Totality (h; gpt-3)
+
+Be a totality, or “everything.”
+
+##### Offer help, accept help (h; gpt-3)
+
+Thus.
+
+do something that will definitely work
+
+Thus.
+
+##### Funny laugh (h; gpt-3)
+
+Curiously, genuinely explore what happens if you try to laugh from your deepest place.
+
+##### Try on new identities (h; gpt-3)
+
+If you’re not sure what your identity is, or if you’re not sure if you have an identity, try on some identities. Test them. See how they fit.
+
+##### Get curious about what’s going on inside you (h; gpt-3)
+
+Go meta, get curious about what’s going on inside you.
+
+_Comment:_ There are lots of ways i can know something, like knowing something consciously (i.e. thinking about it), knowing something implicitly like a word in a language that i don’t know consciously but know implicitly, or knowing something unconsciously like how i can know that i know how to type without actually being able to recall any of the details of how i learned how to type.
+
+##### Deeper than that (h; gpt-3)
+
+Ask, is there something deeper than that?
+
+##### Undo (h; gpt-3)
+
+Ask, how might I undo this or undo its effects?
+
+##### Not neutral (h; gpt-3)
+
+Ask, what isn’t neutral about this?
+
+##### Footsteps (h; gpt-3)
+
+Imagine being a friend to yourself, following your footsteps, the path you took to get to where you are right now. Maybe that friend can point out, here’s the right decision, here’s the one you regret, here’s the thing you’ll be sorry about later, here’s the fork in the road, here’s the leap of faith you took, here’s the thing you should have said, here’s the way you got it right, here’s the way you got it wrong, here’s how you could have gotten it right.
+
+##### Not the only thing (h; gpt-3)
+
+Ask, what are three other things like this?
+
+##### How do you experience things (h; gpt-3)
+
+How do you experience the experience? How do you experience the experience of the experience?
+
+##### Private wisdom (h; gpt-3)
+
+Ask, what is the wisdom you have that you can’t talk about? (That you are unable to say out loud.)
+
+##### Responding and initiating (h; gpt-3)
+
+Explore the difference between responding and initiating.
+
+##### Error message (h; gpt-3)
+
+Give yourself an error message.
+
+##### Other people’s minds (h; gpt-3)
+
+Imagine you/your self (or someone else) suddenly and without warning enters someone else’s mind. Imagine the sensation of that sudden entrance. What would you see, hear, feel? Was that terrifying? What about relieving?
+
+##### Camouflage (h; gpt-3)
+
+How are you in camouflage? What are you in camouflage from?
+
+##### What is the model here? (h; gpt-3)
+
+What is the implicit or explicit model here? What would it mean/be like if that were to change? (Or to be obliterated?)
+
+##### Just go with it and see what happens (h)
+
+Thus.
+
+##### Keep doing what you're doing until there is something better to do (without necessarily specifically looking for some better thing) (h)
+
+Thus.
+
+##### Opposite (q)
+
+Along whatever axes seem important, do the opposite of what you normally do.
+
+_Comment:_
+
+reversed stupidity may not be intelligence but it is search
+
+##### Create affordance (d)
+
+Can you turn impossibility into possibility, even if it's with the knowledge you'd never do it?
+
+##### Active & passive thinking (h)
+
+Incline toward noticing whether thoughts are “actively thought” or “passively/spontaneously arise”
+
+
 #### Main practice(s)
 
 ##### Introduction
@@ -7730,6 +7981,7 @@ In the course of meditation, one might seemingly find things from the people and
 1. https://greg-goode.com/article/logic-and-the-direct-path/ (last accessed: 2020-08-31)
 1. https://greg-goode.com/spirituality/the-nature-of-thought-1939-a-personal-review/ (last accessed: 2020-08-31) 
 1. Blanshard, Brand. _Reason and analysis (vols. 1 and 2)._ Routledge, 2014.
+1. Fricker, Miranda. _Epistemic injustice: Power and the ethics of knowing._ Oxford University Press, 2007.
 
 
 <div style='margin-top: 10em'></div>
