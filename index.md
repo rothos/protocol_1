@@ -1,6 +1,6 @@
 ## Mastery Protocol
 
-v98 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+v99 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 <div class='editorsnote'>
 <p style='text-align: center'><strong>Editor's note</strong></p>
@@ -158,6 +158,7 @@ Canonical location of this document: <https://github.com/meditationstuff/protoco
 - v94 backup 20200719.rtf
 - v95 20200720 backup.rtf
 - v96 20200819 backup.rtf
+- v98 20200824 8f536062759c618b129d8e1f610f21c217d78042.txt
 
 ### Credits
 
@@ -7284,5 +7285,16 @@ In the course of meditation, one might seemingly find things from the people and
 1. _Meditation for the Love of It_, Kempton
 1. <https://vividness.live/2015/11/27/emptiness-form-and-dzogchen-ethics/> last accessed: 20200413
 1. Maté, Gabor. _Scattered minds: The origins and healing of attention deficit disorder._ Vintage Canada, 2011.
+1. Bollas, Christopher. _The shadow of the object: Psychoanalysis of the unthought known._ Columbia University Press, 1987.
+1. Bollas, Christopher, and Sacha Bollas. _Catch them before they fall: The psychoanalysis of breakdown._ Vol. 978. No. 0-63726. Routledge, 2012.
+1. Sidman, Murray. _Coercion and its fallout._ Boston: Authors Cooperative, 1989.
+1. Walker, Pete. _Complex PTSD: From surviving to thriving: A guide and map for recovering from childhood trauma._ Createspace Independent Pub, 2013.
+1. Ratcliffe, Matthew. _Experiences of depression: A study in phenomenology._ OUP Oxford, 2014.
+1. Sarasvathy, Saras D. _Effectuation: Elements of entrepreneurial expertise._ Edward Elgar Publishing, 2009.
+1. Bohm, David. _On dialogue._ Routledge, 2013.
+1. Johnson-Laird, Philip Nicholas. _Mental models: Towards a cognitive science of language, inference, and consciousness._ No. 6. Harvard University Press, 1983.
+1. Churchland, Paul M. _Plato's camera: How the physical brain captures a landscape of abstract universals._ MIT press, 2012.
+1. Anderson, Michael L. _After phrenology: Neural reuse and the interactive brain._ MIT Press, 2014.
+1. Simon, Herbert A. "Bounded rationality." Utility and probability. Palgrave Macmillan, London, 1990. 15-18.
 
 <div style='margin-top: 10em'></div>
