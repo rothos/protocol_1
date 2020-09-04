@@ -166,7 +166,7 @@ Canonical location of this document: <https://github.com/meditationstuff/protoco
 
 …JD, \_\_, \_\_, \_\_, \_\_, \_\_, \_\_, H, A…
 
-[I have to ask several of these people whether they want to be explicltly credited.]
+[I have to ask several of these people whether they want to be explicitly credited.]
 
 
 ## Preamble (draft!)
@@ -2169,6 +2169,8 @@ As with the main practice, let go, hold it loosely, experiment; don’t prematur
 These practices won’t take you all the way and can even tie you in knots, but they can get things going and sometimes unstick things. They are presented in no particular order.
 
 Consider creating for yourself and/or submitting your own preliminary/auxiliary practices for inclusion in this document. Submission could be very useful to other people. If you wished that it had been here, instead of you needing to discover it, or you just think it’d be useful to other people, please submit. Preliminary practices are intended to be unsystematized, ad hoc, a little bit vague, brief, and jargon-free. Ideally they are titled with a short, imperative phrase, but that isn’t necessary. Your submissions will be indicated by your initials or pseudonymous initials (please choose/indicate).
+
+[People besides me who've submitted preliminary/auxiliary are credited with parenthetical initials. Sometimes other people help with significant curation as well, including (h) and others. If a parenthetical initials contain an asterisk, then the original submission has been lightly modified in some way.]
 
 Don’t take these too seriously. Don’t reify them. They might or might not point to deep, metaphysical truths. If they happen to, it’s probably not in the way you initially think. You might or might not have to intermittently throw some or all of these away, forget them, in order to make progress.
 
@@ -4640,6 +4642,404 @@ Feel ongoing and the bleeding-edge arising edges of impulses, urges, impellment,
 ##### Three-dimensional, unforced scanning
 
 Slowly explore the surface and physical interiority of the body with attention. Don’t force attention to where attention doesn’t easily go or where it slides away. Let it go; it will surely open up later, and you will surely come back to it later, possibly effortlessly and costlessly folded into something else.
+
+##### Be gross (h)
+
+be disgusting, be rotten, be foul
+
+##### Notice expectations (h)
+
+thus
+
+##### Drop expectations (h)
+
+thus, if you can
+
+##### Just do what you gotta do (h)
+
+thus
+
+##### Eat the shadow (s)
+
+thus
+
+##### Awareness of space, time, possibility (h)
+
+experiment with noticing or becoming aware of [for example]
+
+- the space between you and the screen
+- the space behind you
+- the whole room, the whole building, different rooms in the building, the air ducts
+- the sky, the ground, subterranean matter/strata, the insides of objects/furniture, the insides of your body
+- the boundary of your spatial awareness, whatever it is
+
+&
+
+- the past few moments
+- the next few moments
+- today, as a whole, with “now” contextually embedded in it
+- this year, as a whole, with “now” contextually embedded in it
+- the continuous arc of time that connected/connects a given memory to the present
+- the boundary of your temporal awareness, whatever it is
+
+&
+
+- what is happening
+- what could be happening in a few seconds
+- what could be happening in a day
+- what could be happening in a year
+- the continuous arc of possibility that connects the present to an imagined future
+- the boundary of your awareness of possibility, whatever it is
+
+##### Imagine variants (h)
+
+imagine ways something could be slightly or radically different
+
+##### More body do (h)
+
+continue doing what you’re doing, but see if it’s good to involve some other part of your body in it
+
+##### Be loved (h)
+
+let yourself, all parts of yourself, just like this, be loved by yourself or by another, real or imaginary
+
+##### Safe shame (h)
+
+let it be ok to be ashamed
+
+##### Safe fear (a)
+
+thus
+
+##### Safe rage (a)
+
+thus
+
+##### Safe joy (a)
+
+thus
+
+##### Safe grief (a)
+
+thus
+
+##### Safe turn-on (a)
+
+thus
+
+##### Pretend up is down and down is up (mo)
+
+thus
+
+##### Notice care (h)
+
+notice things people do to care for each other, even/especially unspoken, routine, small, mundane, subtle, or trivial things
+
+##### Explore subtle posture (h)
+
+subtly slowly carefully shift your posture, exploring all degrees of freedom therein
+
+##### Minimum enjoyable wiggle (a)
+
+changing as little as possible, move in a way that feels good.
+
+_Comment:_
+
+use with care -- extremely psychoactive. Move either body or mind or both.
+
+##### Yesterday (h)
+
+recall yesterday and what’s good & bad about what happened yesterday
+
+##### Tomorrow (h)
+
+consider tomorrow and what’s good & bad about what might happen tomorrow
+
+##### Today (h)
+
+reflect on today and what’s good & bad about today
+
+##### Pleasure (h)
+
+seek out or summon pleasure, here & now, as something to study or to simply enjoy
+
+##### Reflective posture (h)
+
+find a posture/position that feels good/better
+
+##### Vocalize (h)
+
+vocalize freely and spontaneously
+
+##### Be animal (h)
+
+be wild, primal, animal
+
+_Comment:_
+
+doesn’t necessarily imply/require being in a high-energy state. animals rest, too, etc
+
+##### Treat yourself (h)
+
+treat yourself to something nice. you deserve it!
+
+##### Remember next weekend (mo)
+
+you did so many things next weekend! it was such a time. think of all the things you did and didn't do next weekend, and how you felt when they were happening.
+
+##### Be perfectly still (h)
+
+find a comfortable position and be perfectly still, for as long as it feels good
+
+##### Dormant energy (h)
+
+notice, look for, or summon dormant energy
+
+##### Rhythmic movement (h)
+
+move your body in a rhythmic way that feels good, for as long as it feels good
+
+##### Examine details (h)
+
+thus
+
+##### Try on mythologies of yourself (h)
+
+without becoming attached to them, explore coming up with grand narratives to explain patterns and connections between possibly seemingly unrelated aspects of yourself, your life, your history, your plans, and your relationship to the world
+
+##### Value build-up (n)
+
+Imagine yourself getting dropped into the world, naked and alone. What values/needs need to get covered? Imagine you covered them. What values appear next? At some point start adding new people to the world, one by one, and notice how this affects your value landscape.
+
+##### Meditation + physical activity (h)
+
+gently incline toward meditating or doing an/any aux practice while engaging in a physical activity like stretching, yoga, walking/jogging, or dancing
+
+##### Backwards (a)
+
+Reverse “I must do X to get my mind state Z” to “How might I get my mind in state Y so that X is the natural thing to do?”
+
+##### Violence (a)
+
+Let yourself feel how it would feel to do the violence you already want to do.
+
+_Comment:_
+
+Allow waves of anger, shame, doing-it-wrong, doesn’t-work-for-me, fear, sadness, satisfaction, arousal to cycle faster or slower than you expect.  Allow false starts and false stops.
+
+##### Sit quietly in a room alone (jd)
+
+thus
+
+_Comment:_
+
+Cf: "All of humanity's problems stem from man's inability to sit quietly in a room alone" - Blaise Pascal
+
+##### Let yourself have opinions (jd)
+
+Thus
+
+##### Be entitled to your feelings (h)
+
+thus
+
+##### Ask your "stupid" questions (jd)
+
+Thus
+
+##### Go see a therapist (jd)
+
+therapist/healer/coach/etc
+
+##### Cross train (d)
+
+do X as cross training for meditation
+
+_Comment:_
+
+Practice eating ramen. Train for eating ramen. Eat ramen while distracted. Sit back and gently attend to yourself as you let yourself eat ramen. Let the while of your being become the eating of ramen. God I hope Costco has ramen in stock
+
+##### Practice/train (d)
+
+practice doing x. Train the doing of x.
+
+##### Unpractice (d)
+
+do x while distracted, remember how you did it. Sit back and gently attend to yourself as you let yourself do x. Completely immerse yourself in doing x/flow/your whole being becomes the doing of x
+
+##### Be as irritated as you are, no more or less (\*mo)
+
+thus
+
+##### Be no less X than you are (m)
+
+thus
+
+##### Be no more X than you are (m)
+
+thus
+
+##### Ask for help (solo) (jd)
+
+While meditating or otherwise engaged in personal practice, ask for help. Who the ask is directed to may vary per your aesthetics and beliefs. Consider that you might be asking god, or perhaps the deeper parts of yourself, or perhaps no one, or perhaps...
+##### Sentence stems could be "how do I ...?", or "help me (with)...?"
+
+E.g. "how do I be with this anxiety in a good way?", or "help me be with this anxiety in a good way", or "how do I solve this problem?"
+
+##### Use profanity to describe things (m)
+
+thus
+
+##### Be profane (h)
+
+thus
+
+##### FUCK SHIT DICK CUNT (h)
+
+THUS, YOU FUCKING ASSHOLE
+
+##### Go all-in on whatever’s happening right now (h)
+
+thus, with four-part harmony & feeling
+
+##### Explore and rest in points/manifolds of disconnection (h)
+
+thus
+
+_Comment:_
+
+disconnection from self, feelings, desires, other people, pain, memories, etc etc
+
+##### Ok to escape, ok to hide (h)
+
+let it be ok to hide, from others, from the world, or from yourself; let it be ok to escape, into a room or into your mind
+
+##### Be with experience in a good way (jd)
+
+Thus
+
+##### Meta-thinking (h)
+
+what's good to think about? what makes it good? what's bad to think about? what makes it bad?
+
+##### Stop thinking (jd)
+
+Cut it out. Seriously, don’t do that. You don’t know what you’re getting yourself into. Quit while you’re ahead...
+
+##### Instajudge (mo)
+
+flip a coin. Heads is good, tails is bad. For every thought you have in the next minute, judge it accordingly. Ask yourself what difference that makes.
+
+##### Accepting resistance (mo)
+
+if something is so (particularly internally) and you wish it weren't, speak to your resistance and say, eg:
+"I know you don't want me to feel worthless, but right now I do."
+
+##### Find your voice (h)
+
+thus
+
+##### Be alone (h)
+
+thus, for as long as it’s good to be, wherever and in whatever way it’s good to be
+
+##### Seek help (h)
+
+thus
+
+##### Rest in selfhood (h)
+
+thus
+
+##### Follow your instincts (h)
+
+thus
+
+##### Here & not here (h)
+
+Notice the ways that you’re here, now. Notice the ways that you’re not quite here, or not quite now. Don’t try to change anything, yet.
+
+##### Hakuna matata (mo)
+
+attempt to find a problem and observe that there are none
+
+##### I still can't find a fucking problem anywhere (mo)
+
+give voice to the part of you that wishes things were somehow problematic.
+
+##### Peers and nonpeers (h)
+
+what makes someone your peer (your equal) or not your peer? what is the nature of your differences? what would it mean to be everyone’s peer?
+
+##### How are you doing? (h)
+
+what’s your honest answer, the answer that you want to say, somewhere, but that you might not say to any actual person were they to ask?
+
+##### Sit with the question "what if I'm wrong?" (\*mo)
+
+thus
+
+##### Too much, too little (h)
+
+ask, what is there too much of? what is there too little of? what shouldn’t be here at all? what’s missing?
+
+##### Everything is ok (h)
+
+imagine a (possibly alternate/parallel) world where everything is ok. go into it, feel it, be there.
+
+##### Mourn (h)
+
+thus
+
+##### Forget (d)
+
+thus
+
+##### Yawn. like a huge frikken yawn where you stretch your whole body and it's super satisfying (d)
+
+thus
+
+##### Pushing & pulling (h)
+
+notice where you’re pushing. notice where you’re being [naturally] pulled.
+
+##### What is this drug? (mx)
+
+If I were on a drug right now, what would it be called? Is this a good trip or a bad trip?
+
+##### Watch for reactivity (h)
+
+thus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #### Main practice(s)
