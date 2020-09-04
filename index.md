@@ -159,6 +159,7 @@ Canonical location of this document: <https://github.com/meditationstuff/protoco
 - v95 20200720 backup.rtf
 - v96 20200819 backup.rtf
 - v98 20200824 8f536062759c618b129d8e1f610f21c217d78042.txt
+- v98 20200824 06310c2766f3d007905758fe4d8ada92b0b60367.txt
 
 ### Credits
 
@@ -258,7 +259,12 @@ A, a collaborator, says:
 > > It starts by exploring in what way talking about “the end of the path” is coherent (or not). Then there are some notes on culture and other topics, and then the instructions and additional information are included after that.
 > >
 > > Do the thing, and good luck.
+>
+> Might replace "do the thing" with "handle all your concerns, bottom up" or [something like that].
 
+*
+
+I'll finally add that this document aspires to be more and more radically complete, over time. It's already quite comprehensive, along *maybe* all necessary dimensions, but more and more detail and clarity (including cleaner prose and smoother on-ramps) could be added, for a long time. Having an extremely experienced teacher readily available will maybe always be a massive accelerant, but my ideal would be to completely obviate the need for a teacher--I'd like future people to be able to completely reconstruct the practice, and succeed at it, even one thousand years from now (2020), even if the living, person-to-person lineage gets broken, i.e. if everyone using this document dies. That would be sad and likely people would change a lot over one thousand years (cf. biotech and neurotech), but it's likely this material would still be valuable, indirectly or quite directly, just as it is, right now.
 
 ## Goal (draft)
 
@@ -7300,5 +7306,7 @@ In the course of meditation, one might seemingly find things from the people and
 1. Churchland, Paul M. _Plato's camera: How the physical brain captures a landscape of abstract universals._ MIT press, 2012.
 1. Anderson, Michael L. _After phrenology: Neural reuse and the interactive brain._ MIT Press, 2014.
 1. Simon, Herbert A. "Bounded rationality." Utility and probability. Palgrave Macmillan, London, 1990. 15-18.
+1. [maybe not best translation] Pettit, John W. Mipham's _beacon of certainty: illuminating the view of Dzogchen, the Great Perfection._ Vol. 2. Simon and Schuster, 1999.
+1. Kim, Hee-Jin. _Dogen on Meditation and Thinking: a Reflection on his View of Zen._ SUNY Press, 2007.
 
 <div style='margin-top: 10em'></div>
