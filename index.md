@@ -5446,6 +5446,23 @@ Ask, what does it say that I’m having this experience right here, right now? A
 
 Thus, e.g., let your feet come to you; let your legs come to you, and so on.
 
+##### Waiting, here and now, things come to you, periphery
+
+Patiently, gently wait, inclining towards and resting in the here and now, and let perhaps subtle things come to you, maybe from the periphery.
+
+##### Waiting, raw/bare sensations, things come to you, periphery
+
+Patiently, gently, maybe quietly wait, inclining towards and resting in raw/bare sensations, and let perhaps subtle things come to you, maybe from the periphery.
+
+##### Waiting, one point, things come to you, periphery
+
+Patiently, gently maybe quietly wait, inclining towards and resting in raw/bare sensations, and let perhaps subtle things come to you, maybe from the periphery.
+
+##### Waiting, everything, things come to you, periphery
+
+Patiently, gently maybe quietly wait, inclining towards and resting in everything, and let perhaps subtle things come to you, maybe from the periphery.
+
+
 #### Main practice(s)
 
 ##### Introduction
@@ -6052,6 +6069,7 @@ This list is a work in progress:
 - knowledge/awareness of lightness (h)
 - knowledge/awareness of world pockets
 - knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
+- knowledge/awareness of indeterminacy
 
 
 ###### p4
