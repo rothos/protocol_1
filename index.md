@@ -6347,6 +6347,7 @@ This list is a work in progress:
 1. Are you a person, through-and-through? Is it safe to not be a wholly a person or to not be a person, when/if needed?
 1. Are you willing to have X forever?
 1. Are you willing to be exactly this way forever? How would that look? What would you do right now in that world?
+1. What is the true/actual (self-)language of the body(mind)?
 
 
 ###### p9
