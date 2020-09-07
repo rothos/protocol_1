@@ -6070,7 +6070,10 @@ This list is a work in progress:
 - knowledge/awareness of world pockets
 - knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
 - knowledge/awareness of indeterminacy
-
+- knowledge/awareness of rushing/haste/hurry/bypass/override/force/pressure/pushing
+- knowledge/awareness of nebulosity and constraint
+- knowledge/awareness of anxiety
+- knowledge/awareness of the (felt) goodness/gift of anxiety
 
 ###### p4
 
